@@ -1,5 +1,5 @@
 :root {
-  --bkg: #D2D79F;
+  --bkg: #E7E0D3;
   --font-color: #483838;
   --header-anchor-color: #483838;
   --anchor-hover-color: #42855B;
@@ -156,7 +156,7 @@ blockquote {
   padding:1.2em 1.4em 1.2em 1.4em;
   border-left:10px solid var(--header-anchor-color) ;
   position: relative;
-  
+
 }
 
 blockquote::after{
@@ -182,7 +182,7 @@ pre, code {background-color: #444; color: #fff; font-family: Verdana; padding: 1
   background-color: var(--header-anchor-color);
   color: var(--bkg);
   border-radius: 4%;
-  width:95%; 
+  width:95%;
   height:auto;
 }
 

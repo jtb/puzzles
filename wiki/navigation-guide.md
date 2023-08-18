@@ -9,9 +9,17 @@ abstract: "Leave empty if you don't want to feature an abstract. "
 
 Example article in wiki. Edit this in markdown.
 
-## Title
-### Smaller title
+## Puzzle Classification
+[Put-Together](/somewhere)
+### Take-Apart
 
+## Puzzle Books
+### Blah
+### Blah
+
+## Manufacturers/Advertisers
+### Van Houten's Cocoa
+### ThinkFun (previously Binary Arts)
 
 **bold**, *italic*, [link](/somewhere)
 
