@@ -6,6 +6,9 @@ kramdown:
   input: GFM
   auto_ids: true
 
+url: https://jtb.github.io/puzzles
+baseurl: '/puzzles'
+
 defaults:
   -
     scope:
@@ -18,4 +21,3 @@ defaults:
     values:
       importance: 5
       layout: post
-      
