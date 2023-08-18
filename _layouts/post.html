@@ -15,9 +15,9 @@ layout: default
 <div class="backButton">
 <a href="https://twitter.com/intent/tweet?text={{ page.title }}&url={{ site.url }}{{ page.url }}%2F%3Futm_source%3Dtwitter%26utm_medium%3Dsocial&via={{page.twitter_username}}" id='tweetThis'><i class="fab fa-twitter"></i>[Tweet this!]</a>
 <br/>
-<a href="/wiki/navigation-guide?utm_medium=tocButton" id='tocButton'><i class="fa fa-map-signs" aria-hidden="true"></i>[Contents]</a>
+<a href="{{ site.baseurl }}/wiki/navigation-guide?utm_medium=tocButton" id='tocButton'><i class="fa fa-map-signs" aria-hidden="true"></i>[Contents]</a>
 <br/>
-<a href="/wiki?utm_medium=backButton" id='backToWiki'><-[Back to wiki]</a>
+<a href="{{ site.baseurl }}/wiki?utm_medium=backButton" id='backToWiki'><-[Back to wiki]</a>
 </div>
 
 <script>
@@ -45,4 +45,4 @@ if (windowWidth < maxDeviceWidth) {
 <meta name="twitter:image:src" content="{{ site.url }}/resources/placeholder.png" />
 {% endif %}
 
-<link rel="stylesheet" type="text/css" href="/css/post.css">
+<link rel="stylesheet" type="text/css" href="{{ site.baseurl }}/css/post.css">
