@@ -205,3 +205,13 @@ tr.border_top, td.border_top {
   border-top: 0px;
   border-bottom: 0px;
 }
+
+tr.header {
+  font-size: 40px;
+  background-color: #D6EEEE;
+}
+
+tr.subheader {
+  font-size: 30px;
+  background-color: #D6EEEE;
+}

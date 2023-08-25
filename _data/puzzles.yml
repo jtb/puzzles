@@ -1,39 +1,125 @@
+---
 - name: 1. Put-Together
   subcategories:
-  - name: 1.1 2D Assembly
-    puzzles:
-      - name: Cluster Puzzle
-        inventor: Alex Palmer
-        items:
-          - name: Set of 3
-            maker: Cadaco
-            year: 1977
-            country: USA
-            materials: cardboard
-            aquired: 06/06/2023
-            img: placeholder.jpeg
-            note: >
-                  Figments, Doodles, Animals
-      - name: Famous Trick Donkeys
-        inventor: Sam Loyd
-        items:
-          - name: Old Joe and Rover
-            advertiser: Standard Screw
-            year: early 1900s
-            country: USA
-            img: placeholder.jpeg
-            note: >
-                  Place riders on donkeys
+    - name: 1.1 2D Assembly
+      puzzles:
+        - name: Cluster Puzzle
+          inventor: Alex Palmer
+          items:
+            - name: Set of 3
+              maker: Cadaco
+              year: 1977
+              materials: cardboard
+              img: placeholder.jpg
+              note: |
+                Figments, Doodles, Animals
+        - name: Famous Trick Donkeys
+          inventor: Sam Loyd
+          items:
+            - name: Old Joe and Rover
+              advertiser: Standard Screw
+              year: 1900s early
+              img: placeholder.jpg
+              note: |
+                Place riders on donkeys
+    - name: 1.2 3D Assembly, non-interlocking
+    - name: 1.3 Misc. Put-Together
+    - name: 1.4 Matchstick
+- name: 2. Take-Apart
+  subcategories:
+    - name: 2.1 Trick or Secret Opening
+    - name: 2.2 Secret Compartment
+    - name: 2.3 Trick Locks and Keys
+    - name: 2.4 Trick Matchboxes
+    - name: 2.5 Trick Knives
+- name: 3. Interlocking Solid
+  subcategories:
+    - name: 3.1 Figural
+    - name: 3.2 Geometric Objects
+    - name: 3.3 3-D Jigsaw
+    - name: 3.4 Burrs
+    - name: 3.5 Keychain
+    - name: 3.6 Misc.
+- name: 4. (Dis)entanglement
+  subcategories:
+    - name: 4.1 Cast Iron and Sheet Metal Puzzles
+    - name: 4.2 Wire Puzzles
+    - name: 4.3 String Puzzles
+    - name: 4.4 Misc
 - name: 5. Sequential Movement
   subcategories:
-  - name: 5.3 Sliding Piece
-    puzzles:
-      - name: 15 puzzle
-        hordern: A1
-        items:
-          - name: Blue & White with Square Pegs
-            maker: IMP
-            year: 1933-1934
-            img: placeholder.jpeg
-            note: >
-                  Arrange tiles from 1 to 15
+    - name: 5.1 Solitaire
+    - name: 5.2 Counter
+    - name: 5.3 Sliding Piece
+      puzzles:
+        - name: 15 puzzle
+          hordern: A1
+          items:
+            - name: Blue & White with Square Pegs
+              maker: IMP
+              year: 1933-1934
+              img: placeholder.jpg
+              note: |
+                Arrange tiles from 1 to 15
+    - name: 5.4 Rotating Piece
+    - name: 5.5 Maze & Route
+    - name: 5.6 Misc.
+      puzzles:
+        - name: Railway Shunting
+          inventor: Pryse Protheroe
+          patent: US332211
+          items:
+            - name: The Sliding Railroad Puzzle
+              maker: Bits & Pieces
+              year:
+              materials: wood
+              img: railway_shunting.jpg
+              note: |
+                Use turntable to reposition cars in certain order.
+    - name: 5.7 Mazes and Labyrinths for People
+- name: 6. Dexterity
+  subcategories:
+    - name: 6.1 Throw and Catch
+    - name: 6.2 Rolling Ball
+    - name: 6.3 Maze Dexterity
+    - name: 6.4 Misc
+- name: 7. Puzzle Vessels
+- name: 8. Vanish Puzzles
+  subcategories:
+    - name: 8.0 Vanish Puzzles
+- name: 9. Folding Puzzles
+  subcategories:
+    - name: 9.0 Folding Puzzles
+- name: 10. Impossible Puzzles
+- name: 11. Puzzle Cards (Including Post Cards, Trade Cards and Cigarette Cards)
+  subcategories:
+    - name: 11.01 Dissection
+    - name: 11.02 Put Together
+    - name: 11.03 Jigsaw
+    - name: 11.04 Folding
+    - name: 11.05 Rebus
+    - name: 11.06 Hidden Image
+    - name: 11.07 Illusions
+    - name: 11.08 Vanish
+    - name: 11.09 Mathematical
+    - name: 11.10 Path Drawing
+    - name: 11.11 Counter Moving
+    - name: 11.12 Maze
+    - name: 11.13 Word
+    - name: 11.14 Other
+- name: 12 Illusions
+- name: 13 Magic
+- name: 14 Games & Toys
+  subcategories:
+    - name: 14.0 Games & Toys
+      puzzles:
+        - name: Think-A-Dot
+          inventor: Joseph Weisbecker
+          items:
+            - name:
+              maker: E.S.R. Inc.
+              year: 1965
+              materials: plastic
+              img: placeholder.jpg
+              note: |
+                Demonstrates finite automata

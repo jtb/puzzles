@@ -1,4 +1,5 @@
 ---
+layout: post
 title: "Personal Collection"
 description: "Mechanical Puzzle Collection"
 importance: 5
@@ -8,11 +9,11 @@ abstract: "List of the puzzles in my collection. I have an affinity towards vint
 <table>
   <tbody>
 {% for category in site.data.puzzles %}
-    <tr>
+    <tr class="header">
       <td colspan="5" style="text-align: left">{{category.name}}</td>
     </tr>
 {% for subcategory in category.subcategories %}
-    <tr>
+    <tr class="subheader">
       <td colspan="5" style="text-align: left">&nbsp;> {{subcategory.name}}</td>
     </tr>
     <tr>
@@ -26,7 +27,7 @@ abstract: "List of the puzzles in my collection. I have an affinity towards vint
 {% for item in puzzle.items %}
     <tr>
       <td>
-        <img src="{{site.baseurl}}/assets/img/{{item.img}}" width="100" height="100">
+        <img src="{{site.baseurl}}/assets/thumbs/{{item.img}}" width="200" height="200">
       </td>
       <td>{{puzzle.name}}<br> {{item.name}}</td>
       {% if item.maker %}
