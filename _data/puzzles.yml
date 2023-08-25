@@ -1,0 +1,39 @@
+- name: 1. Put-Together
+  subcategories:
+  - name: 1.1 2D Assembly
+    puzzles:
+      - name: Cluster Puzzle
+        inventor: Alex Palmer
+        items:
+          - name: Set of 3
+            maker: Cadaco
+            year: 1977
+            country: USA
+            materials: cardboard
+            aquired: 06/06/2023
+            img: placeholder.jpeg
+            note: >
+                  Figments, Doodles, Animals
+      - name: Famous Trick Donkeys
+        inventor: Sam Loyd
+        items:
+          - name: Old Joe and Rover
+            advertiser: Standard Screw
+            year: early 1900s
+            country: USA
+            img: placeholder.jpeg
+            note: >
+                  Place riders on donkeys
+- name: 5. Sequential Movement
+  subcategories:
+  - name: 5.3 Sliding Piece
+    puzzles:
+      - name: 15 puzzle
+        hordern: A1
+        items:
+          - name: Blue & White with Square Pegs
+            maker: IMP
+            year: 1933-1934
+            img: placeholder.jpeg
+            note: >
+                  Arrange tiles from 1 to 15

@@ -137,9 +137,11 @@ strong { font-weight: bolder;}
 
 .meta {font-style:italic; text-align: center;}
 
+/*
 img { max-width: 512px;
   width: 90%; height: auto;   margin-left: auto;
   margin-right: auto; margin-top: 1em; display: block; text-align: center;}
+  */
 
 blockquote {
   width:85%;
@@ -192,3 +194,14 @@ pre, code {background-color: #444; color: #fff; font-family: Verdana; padding: 1
 }
 
 .search-results ul li {margin-top: .9em;}
+
+table, th, td {
+  border-collapse: collapse;
+  border: 1px solid black;
+  text-align: center;
+}
+
+tr.border_top, td.border_top {
+  border-top: 0px;
+  border-bottom: 0px;
+}
