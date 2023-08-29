@@ -19,11 +19,43 @@
             - name: Old Joe and Rover
               advertiser: Standard Screw
               year: 1900s early
-              img: placeholder.jpg
+              img: dot.gif
               note: |
                 Place riders on donkeys
     - name: 1.2 3D Assembly, non-interlocking
     - name: 1.3 Misc. Put-Together
+      puzzles:
+        - name: Katzenjammer
+          inventor: Frederick A. Schossow
+          patent: US646463A
+          items:
+            - name: original
+              maker:
+              year: 1899
+              country: USA
+              materials: wood
+              img: dot.gif
+              note: |
+                Line up 4 cubes with distinct suits on each side
+            - name: Instant Insanity
+              maker: Parker Brothers
+              year: 1967
+              country: USA
+              materials: plastic
+              img: dot.gif
+              note: |
+                Line up 4 cubes with distinct colors on each side
+        - name: Footsie
+          inventor: Stephen Leslie
+          items:
+            - name:
+              maker: Onsworld Ltd.
+              year: 1980
+              country: UK
+              materials: plastic
+              img: dot.gif
+              note: |
+                Similar to instant insantiy but 2x2 square
     - name: 1.4 Matchstick
 - name: 2. Take-Apart
   subcategories:
@@ -45,6 +77,18 @@
     - name: 4.1 Cast Iron and Sheet Metal Puzzles
     - name: 4.2 Wire Puzzles
     - name: 4.3 String Puzzles
+      puzzles:
+        - name: Solomon's Seal
+          inventor:
+          items:
+            - name: Southwestern Bell
+              advertiser: Southwestern Bell
+              year: 1970s
+              country: USA
+              materials: wood, rope
+              img: dot.gif
+              note: |
+                Move ring from one side to the other.
     - name: 4.4 Misc
 - name: 5. Sequential Movement
   subcategories:
@@ -61,7 +105,97 @@
               img: placeholder.jpg
               note: |
                 Arrange tiles from 1 to 15
+        - name: Loyd's 15
+          inventor:
+          items:
+            - name:
+              maker: Brainwright
+              year:
+              country: USA
+              materials:
+              img: dot.gif
+              note: |
+                15 puzzle with restricted moves
+        - name: Perplexity Puzzle
+          inventor: Richard M Shaffer
+          patent: US642374
+          hordern: E10, E11
+          items:
+            - name: Original
+              maker: Copenhagen Puzzle Co.
+              year: 1900s (first half)
+              country: USA
+              materials:
+              img: dot.gif
+              note: |
+                Start here
+            - name: Automobile
+              maker: Copenhagen Puzzle Co.
+              year: 1900s (first half)
+              country: USA
+              materials:
+              img: dot.gif
+              note: |
+                Start here
+            - name: Harbison & Modica
+              advertiser: Harbison & Modica Manufacturing Co.
+              year: 1903-1939
+              country: USA
+              materials:
+              img: dot.gif
+              note: |
+                Start here
+        - name: Entrapment
+          inventor: Steven P. Hanson and Jeffrey D. Breslow
+          patent: US4413823
+          items:
+            - name:
+              maker: Schaper Mfg.
+              year: 1981
+              country: USA
+              materials: plastic
+              img: dot.gif
+              note: |
+                Rotate and slide balls to group by color
+        - name: Qwik-Sane
+          inventor: James R. O’Neil
+          items:
+            - name:
+              maker: WFF ‘N PROOF
+              year: 1970s
+              country: USA
+              materials: plastic
+              img: dot.gif
+              note: |
+                Move “THINKER” back to its original position by sliding blocks
+                in exactly 35 moves of any number of blocks shifted
+                simultaneously.
     - name: 5.4 Rotating Piece
+      puzzles:
+        - name: Top-Spin
+          inventor: Ferdinand Lammertink
+          patent: US4871173A
+          items:
+            - name: Blue, Yellow, Gray
+              maker: Binary Arts
+              year: 1989
+              country: USA
+              materials: plastic
+              img: dot.gif
+              note: |
+                Put numbers in order with turntable
+        - name: Avenger
+          inventor: Douglas A. Engel
+          patent: US4415158
+          items:
+            - name:
+              maker:
+              year:
+              country: USA
+              materials:
+              img: dot.gif
+              note: |
+                Rotate 2 disks to group colors.
     - name: 5.5 Maze & Route
     - name: 5.6 Misc.
       puzzles:
@@ -76,6 +210,18 @@
               img: railway_shunting.jpg
               note: |
                 Use turntable to reposition cars in certain order.
+        - name: Spin-Out
+          inventor: William Keister
+          patent: US3637215A
+          items:
+            - name: Black, Red, Gray
+              maker: Binary Arts
+              year: 1987
+              country: USA
+              materials: plastic
+              img: dot.gif
+              note: |
+                Digital patience puzzle
     - name: 5.7 Mazes and Labyrinths for People
 - name: 6. Dexterity
   subcategories:

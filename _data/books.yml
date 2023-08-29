@@ -1,0 +1,22 @@
+---
+- title: Puzzles Old and New
+  authors: Louis Hoffmann
+  place: London and New York
+  publisher: Frederick Warne and Co.
+  year: 1893
+  url: https://archive.org/details/puzzlesoldnew00hoff
+  language: English
+  img: hoffmann.png
+  notes: |
+    Catalog of mechanical puzzles available in Victorian London in the 1890s
+- title: "Puzzles Old and New: How to Make and Solve Them"
+  authors: Jerry Slocum and Jack Botermans
+  place:
+  publisher:
+  year: 1986
+  isbn13:
+  url: https://archive.org/details/puzzlesoldnewhow00sloc
+  language: English
+  img: slocum.jpeg
+  notes: |
+    Catalog of mechanical puzzles by some of the world's experts.
