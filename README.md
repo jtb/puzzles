@@ -1,42 +1,110 @@
-# Personal Wiki / Digital Garden and Static Blog Site Setup
+[![Build Status](https://travis-ci.org/burden/jekyll-cards-boilerplate.svg?branch=master)](https://travis-ci.org/burden/jekyll-cards-boilerplate)
+# Jekyll Cards Boilerplate
 
-This is a template for a personal site, made with GitHub pages. 
+A card theme for Jekyll made awesome using Bulma.
 
-![](resources/pw_screen1.png)
+![jekyll-cards-boilerplate](https://raw.githubusercontent.com/burden/jekyll-cards-boilerplate/master/screenshot.png)
 
-It uses jekyll, and comes with all the features you need to set up your digital garden / personal wiki (and a minimalistic blog). Available features include:
+## In the wild
 
-- Search (with a tagging system)
-- Responsive design
-- Fast loading times
-- Markdown notes (easy to import or export from other tools)
+- **[Demo](https://jekyll-cards-boilerplate.burden.cc/)**
+- [Elixir Companies](https://elixir-companies.com) ([source](https://github.com/doomspork/elixir-companies))
+- [Erlang Companies](https://erlang-companies.org) ([source](https://github.com/starbelly/erlang-companies))
+- [Julia Companies](https://julia-companies.org) ([source](https://github.com/cursorinsight/julia-companies))
+- [Kotlin Companies](https://kotlin-companies.com) ([source](https://github.com/utensils/kotlin-companies))
 
-Start using a note-taking system without having to invent one from scratch! Easily share your notes with other people by linking them to this site (which can be hosted for free on GitHub pages or netlify).
 
-Original blog post: [How to Set Up Your Own Personal Wiki](https://strikingloo.github.io/personal-wiki-set-up). Additional reading: [Reflections on Note-Taking and Digital Gardening](https://strikingloo.github.io/reflections-digital-gardening).
+## Features
 
-## Forking this repo
+- [Bulma 0.7.4](https://github.com/jgthms/bulma/tree/0.7.4)
+- [jQuery 3.2.1](https://github.com/jquery/jquery/tree/3.2.1)
+- Dependency management: [bower](https://bower.io)
+- Asset pipeline: [jekyll-assets](https://rubygems.org/gems/jekyll-assets)
+  - [JS uglifier](https://rubygems.org/gems/uglifier)
+- HTML compression: [compress.html](http://jch.penibelst.de/)
+- Testing: [html-proofer](https://github.com/gjtorikian/html-proofer)
+- Analytics: [Google Analytics](https://www.google.com/analytics/)
+- Search: [simple-jekyll-search](https://github.com/christian-fei/Simple-Jekyll-Search/tree/v1.7.0)
+- Comments: [disqus](https://disqus.com)
 
-If you want to build your own personal wiki / personal site using this template, all you have to do is:
 
-- Fork this repo.
-- Set up the values in `_config.yml` for your twitter username and Google Analytics ID.
-- In the folder `wiki` you can put your own markdown notes, setting them with a title, tags and description. Use the example template as reference.
-- Markdowns in the `_posts` folder it follow the same format, but their names must start with a date in format YYYY-MM-DD.
-- Go to `_layouts` to see the HTML templates for each page kind. You can fiddle around with them.
-- Customize `wiki/index.html`, the `index.html` on base directory (homepage) and `about/index.md`, as they are supposed to contain a personal description. Also update the social networking links on `_layouts/default.html`'s footer so they point to your networks. These include support for fontawesome icons. In that footer is also a path to the default twitter image, though each article or post can have its own image (specified in header).
-- To change up the style, just edit `css/main.css` and run `minify_css.sh` to minify (or change the default layout to import the unminified css instead). You can find many good CSS templates that are free in this [Free Jekyll Themes Gallery](https://jekyllthemes.io/free).
+## Dependencies
 
-To run the site locally, run
+1. Install bundler `gem install bundler`
+2. Install bower `npm install -g bower`
+
+## Getting Started
 
 ```
-sudo gem install rails
-sudo gem install jekyll
-sudo gem install jekyll bundler
-cd ~/this_project
-
-bundle init
-bundle install
-bundle add jekyll
-bundle exec jekyll serve
+$ bundle install
+$ bower install
+$ jekyll serve
 ```
+
+
+## Cards
+
+Cards should be saved as a yaml file in the `src/_data` folder (ex: [src/_data/films.yml](https://github.com/burden/jekyll-cards-boilerplate/blob/master/src/_data/films.yml)).
+
+Feel free to add whatever metadata applies to your card. If present, the `description` field will be shown below your metadata.
+```
+Title
+  - meta1: 1
+  - meta2: two
+  - description: "A short description"
+```
+
+
+Configure cards in `_config.yml`.
+
+```
+cards:
+  data: films         # yaml file in _data (without .yml)
+  comments: true      # toggle global comments on pages
+  group_by:
+    name: decade      # field in yaml to group by
+    caption: decades  # name of category (ex: industries)  
+    fa-icon: folder-open
+    fa-style: far     # valid: fas (solid), far (regular), fal (light), fab (brand)
+  meta:
+    - name: year        # field in yaml to map
+      caption: year
+      fa-icon: calendar
+      fa-style: far
+    - name: url
+      caption: www
+      fa-icon: globe
+      fa-style: fas
+
+```
+
+A page for each card will be automatically generated at `/<cards.data>/<card.name>.html` (ex: /films/the-room.html)
+
+When you use the `group_by` section (currently required), all cards will be grouped into category pages located at `/<cards.categories.name>/<value>.html` (ex: /decades/1930s.html)
+
+If you wish to override the comment configuration on a specific card, you may add a `comments` field to your cards entry (ex: `comments: false`)
+
+
+
+## Deploy to Github Pages from Travis CI
+With the help of Travis, pushing to `master` will trigger a deploy to Github Pages automatically.
+
+1. Point Travis to repository
+2. Configure Travis
+3. Generate a [Personal Access Token](https://github.com/settings/tokens) from Github
+  - The only scope needed is repo:public_repo
+4. Set `GITHUB_API=<token>` on Travis
+  - Make sure `Display value in build log` toggle is set to `Off`!
+5. Update `src/CNAME`
+
+### Deploy to Netlify  
+
+  [![Deploy to Netlify](https://www.netlify.com/img/deploy/button.svg)](https://app.netlify.com/start/deploy?repository=https://github.com/burden/jekyll-cards-boilerplate)
+  i
+  #### Wait, what happens when I click that button?
+
+  Good question. Here's what it will do...
+
+  1. Netlify will clone the git repository of this project into your Github account. This action will require your permission from Github, and of course a Netlify account. 
+  2. Netlify will then create a new site for you, and configure it to use your shiny new repo. Right away you'll be able to deploy changes simply by pushing changes to your repo.
+  3. Enjoy your new blog 🎉
