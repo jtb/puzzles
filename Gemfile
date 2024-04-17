@@ -1,11 +1,11 @@
 source "https://rubygems.org"
 #ruby "2.5.3"
-ruby "2.7.4"
 gem "jekyll", "~> 3.8.5"
 gem "html-proofer", "~> 3.9.1"
 gem "json", "~> 2.1.0"
 gem "nokogiri", ">= 1.8.5"
 gem "rack", ">= 2.0.6"
+gem "sprockets", "~> 3.7"
 
 group :jekyll_plugins do
   gem "jekyll-assets", "~> 3.0.11"

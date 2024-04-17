@@ -1,5 +1,5 @@
-//= require jquery/dist/jquery.min.js
-//= require simple-jekyll-search/dest/simple-jekyll-search.min.js
+//= require jquery.min.js
+//= require simple-jekyll-search.min.js
 
 var sjs = SimpleJekyllSearch({
   searchInput: document.getElementById('search-input'),
