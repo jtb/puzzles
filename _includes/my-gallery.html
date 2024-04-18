@@ -5,11 +5,20 @@
     <div class="text">
       <h3>{{ puzzle[0] }}</h3>
       <table>
-      <tr><td><b>Type</b></td><td>Tanglement</td></tr>
-      <tr><td><b>Date</b></td><td>1967</td></tr>
-      <tr><td><b>Maker</b></td><td>Reiss Hoili</td></tr>
+      {% if puzzle[1].type %}
+      <tr><td><b>Type</b></td><td>{{puzzle[1].type }}</td></tr>
+      {% endif %}
+      {% if puzzle[1].date %}
+      <tr><td><b>Date</b></td><td>{{puzzle[1].date }}</td></tr>
+      {% endif %}
+      {% if puzzle[1].maker %}
+      <tr><td><b>Maker</b></td><td>{{puzzle[1].maker }}</td></tr>
+      {% endif %}
+      {% if puzzle[1].designer %}
+      <tr><td><b>Designer</b></td><td>{{puzzle[1].designer }}</td></tr>
+      {% endif %}
       </table>
-      <p>Remove the ring. String is double twisted.</p>
+      <p>{{puzzle[1].desc }}</p>
     </div>
   </article>
 {% endfor %}

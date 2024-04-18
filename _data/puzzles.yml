@@ -1,5 +1,31 @@
-Hexsticks:
+Hectix:
   img: hexsticks.jpg
+  designer: "Stewart Coffin"
+  maker: "3M Company"
+  date: 1970
+  patent: 3721448
+  type: "Interlocking"
+  desc: "Put together the 12 pieces"
 
 Sword-in-the-Stone:
   img: sword_in_the_stone.jpg
+  date: 1983
+  maker: "The Grail Inc."
+  type: Tanglement
+  desc: "Free the sword"
+
+Patience (wood):
+  img: wood_patience.jpg
+  date: 1990s
+  desc: "Classic free the ring"
+  type: Tanglement
+
+Solomon's Seal:
+  img: southwestern_bell.jpg
+  advert: Southwestern Bell
+  desc: "Move the ring to opposite side"
+  type: Tanglement
+
+Sliding Railroad:
+  img: sliding_railroad.jpg
+  type: Sliding

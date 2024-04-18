@@ -2,5 +2,5 @@
 for i in img/*.jpg
 do
 echo "Processing image $i ..."
-convert -thumbnail x150 $i thumbs/$(basename $i)
+convert -thumbnail x500 $i thumbs/$(basename $i)
 done
