@@ -1,0 +1,16 @@
+<main class="cards">
+{% for puzzle in site.data.puzzles %}
+  <article class="card">
+    <img src="{{ site.thumbsurl }}{{puzzle[1].img }} ">
+    <div class="text">
+      <h3>{{ puzzle[0] }}</h3>
+      <table>
+      <tr><td><b>Type</b></td><td>Tanglement</td></tr>
+      <tr><td><b>Date</b></td><td>1967</td></tr>
+      <tr><td><b>Maker</b></td><td>Reiss Hoili</td></tr>
+      </table>
+      <p>Remove the ring. String is double twisted.</p>
+    </div>
+  </article>
+{% endfor %}
+</main>
