@@ -1,5 +1,6 @@
 <main class="cards">
 {% for puzzle in site.data.puzzles %}
+{% if puzzle[1].type contains include.type or include.type == "all" %}
   <article class="card">
     <img src="{{ site.thumbsurl }}{{puzzle[1].img }} ">
     <div class="text">
@@ -21,5 +22,7 @@
       <p>{{puzzle[1].desc }}</p>
     </div>
   </article>
+
+{% endif %}
 {% endfor %}
 </main>
