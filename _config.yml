@@ -1,4 +1,4 @@
 baseurl: "/puzzles"
 
-imagesurl: "/mysite/img/"
-thumbsurl: "/mysite/thumbs/"
+imagesurl: "/puzzles/mysite/img/"
+thumbsurl: "/puzzles/mysite/thumbs/"
