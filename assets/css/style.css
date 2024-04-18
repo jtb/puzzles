@@ -26,3 +26,21 @@
   padding: 10px;
   width: 100%;
   }
+
+  /* Header/Logo Title */
+.header {
+  padding: 10px;
+  text-align: center;
+  background: #3e1c00;
+  color: white;
+  font-size: 30px;
+}
+
+.header img {
+  /*max-height: 100%;*/
+  border-radius: 40%;
+}
+
+.header table {
+  width: 100%;
+}
