@@ -32,13 +32,293 @@ Solomon's Seal:
 
 Sliding Railroad:
   img: sliding_railroad.jpg
-  type: Sliding
+  type: Permutation
   material: wood
 
 Zauberkreuz:
   img: none.jpg
-  type: Sliding
+  type: Permutation
   material: wood
   designer: Athanasios Margaritis
   date: 1988
   patent: DE3711368A1
+
+Think-A-Dot:
+  img: none.jpg
+  type: Calculator
+
+Spin Out:
+  img: none.jpg
+  type: Sequential Movement
+
+Perplexity:
+  img: none.jpg
+  type: Sliding
+
+Perplexity Automobile:
+  img: none.jpg
+  type: Sliding
+
+15 Puzzle IMP:
+  img: none.jpg
+  type: Sliding
+
+Loyd's 15:
+  img: none.jpg
+  type: Sliding
+
+Katzenjammer:
+  img: none.jpg
+  type: Pattern
+
+Donkey Old Joe:
+  img: none.jpg
+  type: Paper
+
+Donkey Rover:
+  img: none.jpg
+  type: Paper
+
+Avenger:
+  img: none.jpg
+  type: Permutation
+
+Entrapment:
+  img: none.jpg
+  type: Permutation
+
+QWIK-SANE:
+  img: none.jpg
+  type: Sliding
+
+Bootlegger and Flask:
+  img: none.jpg
+  type: Tanglement
+
+SwitchIt Mickey Mouse:
+  img: none.jpg
+  type: Sliding
+
+Instant Insanity:
+  img: none.jpg
+  type: Pattern
+
+Famous Number Puzzle:
+  img: none.jpg
+  type: Sliding
+
+Le Moulin Rouge:
+  img: none.jpg
+  type: Sliding
+
+Honor & Glory:
+  img: none.jpg
+  type: Sliding
+
+Footsie:
+  img: none.jpg
+  type: Pattern
+
+Clark's Cube:
+  img: none.jpg
+  type: Permutation
+
+Japanese Puzzle Box:
+  img: none.jpg
+  type: Disassembly
+
+Rowland & Clark Horseshoe:
+  img: none.jpg
+  type: Tanglement
+
+Crescent & Star:
+  img: none.jpg
+  type: Tanglement
+
+Time:
+  img: none.jpg
+  type: Permutation
+
+Dog and Collar Puzzle:
+  img: none.jpg
+  type: Tanglement
+
+TakItAPart:
+  img: none.jpg
+  type: Disassembly
+
+15 Puzzle IMP (blue):
+  img: none.jpg
+  type: Sliding
+
+One Way:
+  img: none.jpg
+  type: Assembly
+
+Book of Ingenious and Diabolical Puzzles:
+  img: none.jpg
+  type: Book
+
+Shoe Button Hook:
+  img: none.jpg
+  type: Tanglement
+
+Missing Link:
+  img: none.jpg
+  type: Permutation
+
+Wooden Number Slide:
+  img: none.jpg
+  type: Sliding
+
+Keys:
+  img: none.jpg
+  type: Tanglement
+
+Queen's Jubilee:
+  img: none.jpg
+  type: Tanglement
+
+Horse and Jockey Print Ad:
+  img: none.jpg
+  type: Paper
+
+Tower of Hanoi:
+  img: none.jpg
+  type: Sequential Movement
+
+Red Goose Shoes:
+  img: none.jpg
+  type: Tanglement
+
+Donkey Shackman Postcard:
+  img: none.jpg
+  type: Paper
+
+Donkey Hotel Dixie Postcard:
+  img: none.jpg
+  type: Paper
+
+Century of Progress:
+  img: none.jpg
+  type: Sliding
+
+Work or Golf:
+  img: none.jpg
+  type: Sliding
+
+1929 J&S Ads:
+  img: none.jpg
+  type: Paper
+
+Chinse Puzzle (Germany):
+  img: none.jpg
+  type: Sliding
+
+Le Taquin:
+  img: none.jpg
+  type: Sliding
+
+LifeSavers:
+  img: none.jpg
+  type: Pattern
+
+Mays Drug Store:
+  img: none.jpg
+  type: Tanglement
+
+Gilbert Puzzle Party:
+  img: none.jpg
+  type: Tanglement
+
+McLaughlin's Coffee XXXX:
+  img: none.jpg
+  type: Pattern
+
+Traffic Jam:
+  img: none.jpg
+  type: Sliding
+
+Richter Anchor:
+  img: none.jpg
+  type: Assembly
+
+Pick-A-Peg:
+  img: none.jpg
+  type: Disassembly
+
+Dad's Puzzler:
+  img: none.jpg
+  type: Sliding
+
+Line Up the Quinties!:
+  img: none.jpg
+  type: Sliding
+
+Little Gem Bank:
+  img: none.jpg
+  type: Disassembly
+
+Top Spin:
+  img: none.jpg
+  type: Permutation
+
+Oskar's Cube:
+  img: none.jpg
+  type: Route Finding
+
+Little Millionaire Bank:
+  img: none.jpg
+  type: Disassembly
+
+Vess Soda Bottle:
+  img: none.jpg
+  type: Paper
+
+Vess Soda Cap:
+  img: none.jpg
+  type: Paper
+
+Sliding Piece Puzzles:
+  img: none.jpg
+  type: Book
+
+Pel-Freeze:
+  img: none.jpg
+  type: Paper
+
+Bank Catalog Pages:
+  img: none.jpg
+  type: Paper
+
+SPAPCO's Five Piece Puzzle:
+  img: none.jpg
+  type: Paper
+
+Compendium of over 10500 Wire puzzles:
+  img: none.jpg
+  type: Book
+
+Hess College Course Puzzles:
+  img: none.jpg
+  type: Tanglement
+
+Puzzles Old and New, Hordern edition:
+  img: none.jpg
+  type: Book
+
+Inversion:
+  img: none.jpg
+  type: Permutation
+
+Grandpa's Soap:
+  img: none.jpg
+  type: Paper
+
+SwitchIt Popeye:
+  img: none.jpg
+  type:
+
+Stratagem:
+  img: none.jpg
+  type: Sliding
