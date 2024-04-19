@@ -8,20 +8,66 @@
 		<link rel="stylesheet" href="https://www.w3schools.com/w3css/4/w3.css">
   </head>
   <body>
-		<div class="sidebar w3-bar-block w3-collapse w3-card w3-light-grey" id="mySidebar">
+		<div class="sidebar w3-bar-block w3-collapse w3-card w3-light-grey w3-xlarge" id="mySidebar">
   <button class="w3-bar-item w3-button w3-jumbo w3-hide-large" onclick="w3_close()">Close &times;</button>
-	<img src="{{ site.thumbsurl }}man_puzzle.jpg " style="width:100%">
-	<a href="index.html" class="w3-bar-item w3-button">All <span class="w3-tag w3-blue w3-right w3-margin-right">8</span></a>
-  <a href="tangle.html" class="w3-bar-item w3-button">Tanglements <span class="w3-tag w3-blue w3-right w3-margin-right">8</span></a>
-  <a href="slide.html" class="w3-bar-item w3-button">Sliding</a>
+	<img src="{{ site.thumbsurl }}man_puzzle.jpg " style="width:50%; float: left">
+	<img src="{{ site.thumbsurl }}woman_puzzle.jpg " style="width:50%; float: right">
+	<ul style="list-style-type:none;">
+		<li>
+			<a href="index.html" class="w3-bar-item w3-button">All <!--<span class="w3-tag w3-blue w3-right w3-margin-right">8</span>--></a>
+		</li>
+		<li>
+			<a href="tangle.html" class="w3-bar-item w3-button">Tanglements <!--<span class="w3-tag w3-blue w3-right w3-margin-right">8</span>--></a>
+		</li>
+		<li>
+			<a href="slide.html" class="w3-bar-item w3-button">Assembly</a>
+		</li>
+		<li>
+			<a href="slide.html" class="w3-bar-item w3-button">Disassembly</a>
+		</li>
+		<li>
+			<a href="slide.html" class="w3-bar-item w3-button">Interlocking</a>
+		</li>
+		<li>
+			<a href="slide.html" class="w3-bar-item w3-button">Pattern</a>
+		</li>
+		<li>
+			<a href="slide.html" class="w3-bar-item w3-button">Sequential Movement</a>
+		</li>
+		<li>
+			<a href="slide.html" class="w3-bar-item w3-button">Permutation</a>
+			<ul>
+				<li>
+					<a href="slide.html" class="w3-bar-item w3-button">Sliding</a>
+				</li>
+			</ul>
+		</li>
+		<li>
+			<a href="slide.html" class="w3-bar-item w3-button">Paper</a>
+		</li>
+		<li>
+			<a href="slide.html" class="w3-bar-item w3-button">Puzzle Books</a>
+		</li>
+		<li>
+			<a href="slide.html" class="w3-bar-item w3-button">Non Puzzles</a>
+			<ul>
+				<li>
+					<a href="slide.html" class="w3-bar-item w3-button">Calculator</a>
+				</li>
+				<li>
+					<a href="slide.html" class="w3-bar-item w3-button">Calendar</a>
+				</li>
+			</ul>
+		</li>
+	</ul>
 	<!--<img src="{{ site.thumbsurl }}woman_puzzle.jpg " style="height:200px;">-->
 </div>
 
-<div class="w3-main" style="margin-left:200px">
+<div class="w3-main" style="margin-left:300px">
 <div class="w3-teal">
   <button class="w3-button w3-teal w3-jumbo w3-hide-large" onclick="w3_open()">&#9776;</button>
   <div class="w3-container" style="font-size:100px">
-    <h1 style="font-size: 50px">Puzzling Pastimes</h1>
+    <h1 style="font-size: 50px;">Puzzling Pastimes</h1>
   </div>
 </div>
 

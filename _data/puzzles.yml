@@ -153,6 +153,7 @@ Crescent & Star:
   img: IMG_6501.jpeg
   type: Tanglement
   material: metal plate
+  expo: 1901
 
 Time:
   img: none.jpg
@@ -510,7 +511,7 @@ Tangram/Japanese 15-puzzle:
 Belgium Expo Calendar Medal:
   img: none.jpg
   type: Calendar
-  tag: exposition
+  expo: 1897
 
 Champion Spark Plug K-Line:
   img: IMG_6505.jpeg
@@ -659,7 +660,7 @@ Ice Man T Puzzle World's Fair:
   img: none.jpg
   type: Assembly
   material: paper
-  tag: exposition
+  expo: 2000
 
 Crazy Elephant Dance:
   img: none.jpg
@@ -892,7 +893,7 @@ Louisiana Purchase Exposition:
   type: Sliding
   material: metal plate
   tag: perplexity
-  tag2: exposition
+  expo: 1904
 
 Grindelwald Vesta Box:
   img: IMG_6494.jpeg
