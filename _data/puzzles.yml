@@ -6,6 +6,7 @@ Hectix:
   patent: 3721448
   type: "Interlocking"
   desc: "Put together the 12 pieces"
+  material: plastic
 
 Sword-in-the-Stone:
   img: sword_in_the_stone.jpg
@@ -13,19 +14,31 @@ Sword-in-the-Stone:
   maker: "The Grail Inc."
   type: Tanglement
   desc: "Free the sword"
+  material: wood
 
 Patience (wood):
   img: wood_patience.jpg
   date: 1990s
   desc: "Classic free the ring"
   type: Tanglement
+  material: wood
 
 Solomon's Seal:
   img: southwestern_bell.jpg
   advert: Southwestern Bell
   desc: "Move the ring to opposite side"
   type: Tanglement
+  material: wood
 
 Sliding Railroad:
   img: sliding_railroad.jpg
   type: Sliding
+  material: wood
+
+Zauberkreuz:
+  img: none.jpg
+  type: Sliding
+  material: wood
+  designer: Athanasios Margaritis
+  date: 1988
+  patent: DE3711368A1
