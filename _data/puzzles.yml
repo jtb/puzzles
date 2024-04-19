@@ -3,42 +3,45 @@ Hectix:
   designer: "Stewart Coffin"
   maker: "3M Company"
   date: 1970
-  patent: 3721448
+  patent: US3721448
   type: "Interlocking"
-  desc: "Put together the 12 pieces"
   material: plastic
 
 Sword-in-the-Stone:
   img: sword_in_the_stone.jpg
+  designer: James F. Hand
   date: 1983
   maker: "The Grail Inc."
   type: Tanglement
-  desc: "Free the sword"
   material: wood
+  patent: US3958807
 
 Patience (wood):
   img: wood_patience.jpg
   date: 1990s
-  desc: "Classic free the ring"
   type: Tanglement
   material: wood
 
 Solomon's Seal:
   img: southwestern_bell.jpg
   advert: Southwestern Bell
-  desc: "Move the ring to opposite side"
   type: Tanglement
   material: wood
+  date: 1969–1984
+  desc: Date estimated from the logo
 
 Sliding Railroad:
   img: sliding_railroad.jpg
-  type: Permutation
+  maker: Bits & Pieces
+  type: Sliding
   material: wood
+  patent: US332211
+  tag: shunting
 
-Zauberkreuz:
+Zauberkreuz (Magic Cross):
   img: none.jpg
   type: Permutation
-  material: wood
+  material: plastic
   designer: Athanasios Margaritis
   date: 1988
   patent: DE3711368A1
@@ -46,20 +49,30 @@ Zauberkreuz:
 Think-A-Dot:
   img: none.jpg
   type: Calculator
+  designer: Joseph Weisbecker
+  maker: E.S.R., Inc.
+  patent: US3388483
 
-Spin Out:
+Spin•Out:
   img: none.jpg
   type: Sequential Movement
+  designer: William Keister
+  maker: Binary Arts
+  material: plastic
+  patent: US3637215
 
 Perplexity:
-  img: none.jpg
+  img: IMG_6510.jpeg
   type: Sliding
+  material: metal plate
+  tag: perplexity
 
-Perplexity Automobile:
-  img: none.jpg
+Automobile:
+  img: IMG_6511.jpeg
   type: Sliding
+  tag: perplexity
 
-15 Puzzle IMP:
+IMP 15 Puzzle:
   img: none.jpg
   type: Sliding
 
@@ -70,14 +83,14 @@ Loyd's 15:
 Katzenjammer:
   img: none.jpg
   type: Pattern
+  tag: instant insanity
 
-Donkey Old Joe:
+Donkey Old Joe and Rover:
   img: none.jpg
-  type: Paper
-
-Donkey Rover:
-  img: none.jpg
-  type: Paper
+  type: Assembly
+  material: paper
+  advert: Standard Screw
+  desc: Bought these separately
 
 Avenger:
   img: none.jpg
@@ -92,8 +105,9 @@ QWIK-SANE:
   type: Sliding
 
 Bootlegger and Flask:
-  img: none.jpg
+  img: IMG_6503.jpeg
   type: Tanglement
+  material: metal plate
 
 SwitchIt Mickey Mouse:
   img: none.jpg
@@ -102,6 +116,7 @@ SwitchIt Mickey Mouse:
 Instant Insanity:
   img: none.jpg
   type: Pattern
+  tag: instant insanity
 
 Famous Number Puzzle:
   img: none.jpg
@@ -118,6 +133,7 @@ Honor & Glory:
 Footsie:
   img: none.jpg
   type: Pattern
+  tag: instant insanity
 
 Clark's Cube:
   img: none.jpg
@@ -127,25 +143,30 @@ Japanese Puzzle Box:
   img: none.jpg
   type: Disassembly
 
-Rowland & Clark Horseshoe:
-  img: none.jpg
+Rowland & Clark Horseshoes:
+  img: IMG_6500.jpeg
   type: Tanglement
+  material: metal plate
+  advert: Rowland & Clark's Arcade Theatre
 
 Crescent & Star:
-  img: none.jpg
+  img: IMG_6501.jpeg
   type: Tanglement
+  material: metal plate
 
 Time:
   img: none.jpg
-  type: Permutation
+  type: Sliding
 
 Dog and Collar Puzzle:
   img: none.jpg
   type: Tanglement
+  material: metal plate
 
 TakItAPart:
   img: none.jpg
   type: Disassembly
+  designer: John D. Boyle
 
 15 Puzzle IMP (blue):
   img: none.jpg
@@ -172,16 +193,21 @@ Wooden Number Slide:
   type: Sliding
 
 Keys:
-  img: none.jpg
+  img: IMG_6498.jpeg
+  type: Tanglement
+
+Keys (2):
+  img: IMG_6499.jpeg
   type: Tanglement
 
 Queen's Jubilee:
   img: none.jpg
-  type: Tanglement
+  type: Route Finding
 
 Horse and Jockey Print Ad:
   img: none.jpg
-  type: Paper
+  type: Assembly
+  material: paper
 
 Tower of Hanoi:
   img: none.jpg
@@ -193,11 +219,13 @@ Red Goose Shoes:
 
 Donkey Shackman Postcard:
   img: none.jpg
-  type: Paper
+  type: Assembly
+  material: paper
 
 Donkey Hotel Dixie Postcard:
   img: none.jpg
-  type: Paper
+  type: Assembly
+  material: paper
 
 Century of Progress:
   img: none.jpg
@@ -209,9 +237,9 @@ Work or Golf:
 
 1929 J&S Ads:
   img: none.jpg
-  type: Paper
+  type: Ad
 
-Chinse Puzzle (Germany):
+Chinese Puzzle (Germany):
   img: none.jpg
   type: Sliding
 
@@ -234,6 +262,7 @@ Gilbert Puzzle Party:
 McLaughlin's Coffee XXXX:
   img: none.jpg
   type: Pattern
+  tag: instant insanity
 
 Traffic Jam:
   img: none.jpg
@@ -246,6 +275,8 @@ Richter Anchor:
 Pick-A-Peg:
   img: none.jpg
   type: Disassembly
+  material: wood
+  designer: John D. Boyle
 
 Dad's Puzzler:
   img: none.jpg
@@ -257,7 +288,7 @@ Line Up the Quinties!:
 
 Little Gem Bank:
   img: none.jpg
-  type: Disassembly
+  type: Bank
 
 Top Spin:
   img: none.jpg
@@ -269,15 +300,19 @@ Oskar's Cube:
 
 Little Millionaire Bank:
   img: none.jpg
-  type: Disassembly
+  type: Bank
 
 Vess Soda Bottle:
   img: none.jpg
-  type: Paper
+  type: Pattern
+  material: paper
+  advert: Vess
 
 Vess Soda Cap:
   img: none.jpg
-  type: Paper
+  type: Pattern
+  material: paper
+  advert: Vess
 
 Sliding Piece Puzzles:
   img: none.jpg
@@ -285,15 +320,19 @@ Sliding Piece Puzzles:
 
 Pel-Freeze:
   img: none.jpg
-  type: Paper
+  type: Pattern
+  material: paper
+  advert: Pel-Freeze
 
 Bank Catalog Pages:
   img: none.jpg
-  type: Paper
+  type: Advert
 
 SPAPCO's Five Piece Puzzle:
   img: none.jpg
-  type: Paper
+  type: Assembly
+  material: paper
+  advert: SPAPCO
 
 Compendium of over 10500 Wire puzzles:
   img: none.jpg
@@ -313,12 +352,720 @@ Inversion:
 
 Grandpa's Soap:
   img: none.jpg
-  type: Paper
+  type: Pattern
+  material: paper
+  advert: Grandpa's Soap
 
 SwitchIt Popeye:
   img: none.jpg
-  type:
+  type: Sliding
 
-Stratagem:
+Manouever (in the Stratagem range):
   img: none.jpg
   type: Sliding
+  maker: Startabord, Ltd.
+  date: 1976
+  material: metal
+
+Behling Calendar Medal:
+  img: none.jpg
+  type: Calendar
+
+Get My Goat:
+  img: none.jpg
+  type: Sliding
+
+Flying Puzzle:
+  img: none.jpg
+  type: Sliding
+
+14 puzzle:
+  img: none.jpg
+  type: Sliding
+
+Tangram with Lacquer box:
+  img: none.jpg
+  type: Assembly
+
+white eagle slide puzzle:
+  img: none.jpg
+  type: Sliding
+
+Chicken and Egg Puzzle:
+  img: none.jpg
+  type: Assembly
+  material: paper
+
+Hungarian Rings:
+  img: none.jpg
+  type: Permutation
+
+BP edge matching:
+  img: none.jpg
+  type: Pattern
+  material: paper
+
+Champion Spark Plug:
+  img: IMG_6504.jpeg
+  type: Tanglement
+  advert: Champion Spark Plugs
+
+Sputnik Peg:
+  img: none.jpg
+  type: Disassembly
+
+Dickinson's Witch Hazel:
+  img: none.jpg
+  type: Assembly
+  material: paper
+
+Bug House Checkerboard:
+  img: none.jpg
+  type: Assembly
+
+Skitzo:
+  img: none.jpg
+  type: Pattern
+
+Poll Parrot Sliding Puzzle:
+  img: none.jpg
+  type: Sliding
+
+Harbison & Modica's Puzzle (Perplexity):
+  img: IMG_6509.jpeg
+  type: Sliding
+  tag: perplexity
+  material: metal plate
+  advert: Harbison & Modica
+
+JB Hyde Calendar Medal:
+  img: none.jpg
+  type: Calendar
+
+Mosaik Puzzle Germany:
+  img: none.jpg
+  type: Assembly
+
+Blocks of Five President Harrison:
+  img: none.jpg
+  type: Sliding
+
+Japanese Puzzle & Knit-Wit:
+  img: none.jpg
+  type:
+
+Hanayama Baroq:
+  img: none.jpg
+  type: Tanglement
+
+Project Genius Waiter's Tray:
+  img: none.jpg
+  type: Sequential Movement
+
+Hanayama Marble:
+  img: none.jpg
+  type: Disassembly
+
+Hanayama O'Gear:
+  img: none.jpg
+  type: Route Finding
+
+David's Perpetual Calendar I:
+  img: none.jpg
+  type: Calendar
+
+Tom Keene Cigar Puzzle:
+  img: none.jpg
+  type: Tanglement
+  material: paper
+
+David's Perpetual Calendar II:
+  img: none.jpg
+  type: Calendar
+  material: paper
+
+Town Tavern:
+  img: none.jpg
+  type: Tanglement
+  material: paper
+
+St. Nicholas Trade Card:
+  img: none.jpg
+  type: Pattern
+  material: paper
+
+Iron Heart Metal Puzzle:
+  img: none.jpg
+  type: Tanglement
+
+Donkey & Riders + Postcards:
+  img: none.jpg
+  type: Assembly
+  material: paper
+
+Tangram/Japanese 15-puzzle:
+  img: none.jpg
+  type:
+
+Belgium Expo Calendar Medal:
+  img: none.jpg
+  type: Calendar
+  tag: exposition
+
+Champion Spark Plug K-Line:
+  img: IMG_6505.jpeg
+  type: Tanglement
+  material: plastic
+  advert: Champion K-Line Spark plugs
+
+Hunter Baltimore Rye Horse & Rider:
+  img: none.jpg
+  type: Tanglement
+  material: paper
+
+Uncle Sam's Divorce Puzzle:
+  img: none.jpg
+  type: Route Finding
+Project Genius Hidden Corridor:
+  img: none.jpg
+  type: Sequential Movement
+
+Hungarian Rings 2:
+  img: none.jpg
+  type: Permutation
+
+Cadaco Cluster Puzzle:
+  img: none.jpg
+  type: Assembly
+
+Wit's End:
+  img: none.jpg
+  type: Tanglement
+
+Van Houten Violin:
+  img: none.jpg
+  type: Tanglement
+  material: paper
+
+Ingenious Rings book (Chinese):
+  img: none.jpg
+  type: Book
+
+ThinkFun Houdini:
+  img: none.jpg
+  type: Tanglement
+
+fiddl'widdit Jordan's Journey:
+  img: none.jpg
+  type: Tanglement
+
+BinaryArts Fifteen:
+  img: none.jpg
+  type: Sliding
+
+Dirty Dog Tavern:
+  img: none.jpg
+  type: Tanglement
+
+ThinkFun Fifth Chair:
+  img: none.jpg
+  type: Assembly
+
+Fairmont Creamery Puzzle:
+  img: none.jpg
+  type: Tanglement
+  material: paper
+
+Loony Loop:
+  img: none.jpg
+  type: Tanglement
+
+Traditional Chinese Puzzles II (Chinese):
+  img: none.jpg
+  type: Book
+
+Turing Tumble:
+  img: none.jpg
+  type: Calculator
+
+Chilian Phenyo Caffein:
+  img: none.jpg
+  type: Tanglement
+  material: wire
+
+Onietoiy Nine Ring:
+  img: none.jpg
+  type: Sequential Movement
+
+Project Genius Egyptian Coin Trade:
+  img: none.jpg
+  type: Sliding
+
+Electro No. 1:
+  img: none.jpg
+  type: Tanglement
+
+Rice Sausage Pig Kumiki:
+  img: none.jpg
+  type: Interlocking
+  material: plastic
+
+Van Houten Thought Reader:
+  img: none.jpg
+  type: Calculator
+  material: paper
+
+Lee Valley Tools Trick Bolts:
+  img: none.jpg
+  type: Disassembly
+
+Chinese Tangram:
+  img: none.jpg
+  type: Assembly
+
+Tri-N-Do-It:
+  img: none.jpg
+  type: Disassembly
+  material: wood
+  designer: John D. Boyle
+
+Witch Hazel Cats:
+  img: none.jpg
+  type: Assembly
+  material: paper
+
+Consul the Educated Monkey:
+  img: none.jpg
+  type: Calculator
+
+2 Witch Hazel Mail Advertisement:
+  img: none.jpg
+  type:
+
+Troon Vesta Box:
+  img: IMG_6495.jpeg
+  type: Puzzle Box
+  tag: vesta
+
+Hexadecimal Binary Arts:
+  img: none.jpg
+  type: Sequential Movement
+
+Enigma Hanayama:
+  img: none.jpg
+  type: Tanglement
+
+Ice Man T Puzzle World's Fair:
+  img: none.jpg
+  type: Assembly
+  material: paper
+  tag: exposition
+
+Crazy Elephant Dance:
+  img: none.jpg
+  type: Sequential Movement
+
+Burns Vesta Box:
+  img: IMG_6496.jpeg
+  type: Puzzle Box
+  tag: vesta
+
+Vanishing Leprechauns:
+  img: none.jpg
+  type: Assembly
+
+'Tenyo Computer Puzzler #1':
+  img: none.jpg
+  type: Tanglement
+
+'Tenyo Computer Puzzler #2':
+  img: none.jpg
+  type: Tanglement
+
+'Tenyo Computer Puzzler #3':
+  img: none.jpg
+  type: Tanglement
+
+'Tenyo Computer Puzzler #4':
+  img: none.jpg
+  type: Tanglement
+
+Flight Test:
+  img: none.jpg
+  type: Tanglement
+
+ryede-like square puzzle:
+  img: none.jpg
+  type: Tanglement
+
+Configurations Game:
+  img: none.jpg
+  type: Pattern
+
+Switch:
+  img: none.jpg
+  type:
+
+Matchless Medal Polish Calendar Medal:
+  img: none.jpg
+  type: Calendar
+
+Hello Puzzle:
+  img: none.jpg
+  type: Tanglement
+
+Puzzletts Dead End:
+  img: none.jpg
+  type: Tanglement
+
+ThinkFun Gordian's Knot:
+  img: none.jpg
+  type: Interlocking
+
+Hugh's Double Square Knob Puzzle:
+  img: none.jpg
+  type: Tanglement
+
+Faith, Hope, Charity:
+  img: none.jpg
+  type: Tanglement
+
+Magnif Brain:
+  img: none.jpg
+  type: Sequential Movement
+
+3 dimensional Cross Puzzle:
+  img: none.jpg
+  type: Interlocking
+
+3 dimensional Star Puzzle:
+  img: none.jpg
+  type: Interlocking
+
+The Book of Puzzles, Collins:
+  img: none.jpg
+  type: Book
+
+Canon:
+  img: none.jpg
+  type: Disassembly
+
+Lighthouse:
+  img: none.jpg
+  type: Disassembly
+
+99 piece Pagoda:
+  img: none.jpg
+  type: Interlocking
+
+Heart Tavern:
+  img: none.jpg
+  type: Tanglement
+
+Sherms 8 point puzzle:
+  img: none.jpg
+  type: Sliding
+  material: paper
+
+Instant Indecision:
+  img: none.jpg
+  type: Pattern
+
+Foot, Schulze, and Co. Playfield Shoes:
+  img: none.jpg
+  type:
+
+Hood's Sarsaparilla:
+  img: none.jpg
+  type:
+
+Peter Pastime Puzzle Box + metal puzzles:
+  img: none.jpg
+  type:
+
+A-B-C Puzzle:
+  img: none.jpg
+  type: Tanglement
+
+German Wire Puzzle Box:
+  img: none.jpg
+  type: Tanglement
+
+Jayne's Expectorant:
+  img: none.jpg
+  type: Tanglement
+
+Columbus Buggy:
+  img: none.jpg
+  type: Tanglement
+  material: paper
+
+German Wire Puzzle Box 2:
+  img: none.jpg
+  type: Tanglement
+
+3 Ring German Puzzle:
+  img: none.jpg
+  type: Tanglement
+
+WJ Wolf 2 Ring Puzzle:
+  img: none.jpg
+  type: Tanglement
+
+ICS 2600 Year Calendar FOB Medal:
+  img: IMG_6507.jpeg
+  type: Calendar
+
+Turing Tumble Replacement parts:
+  img: none.jpg
+  type: Calculator
+
+A-Treat Ginger Ale:
+  img: none.jpg
+  type: Pattern
+  material: paper
+
+Trilby:
+  img: none.jpg
+  type: Tanglement
+  material: cast
+
+Screw Loose:
+  img: none.jpg
+  type: Route Finding
+
+Devil's Stirrup Tavern:
+  img: none.jpg
+  type:
+
+Farmers Puzzle Bone Ferilizer:
+  img: none.jpg
+  type: Pattern
+  material: paper
+
+1855 Ohio Calendar Medal:
+  img: none.jpg
+  type: Calendar
+
+Amazing Dr. Nim:
+  img: none.jpg
+  type: Calculator
+
+Uncles Rope + Tavern Stand:
+  img: none.jpg
+  type: Tanglement
+
+Whistle Stop:
+  img: none.jpg
+  type: Sliding
+  tag: shunting
+  maker: Pentangle
+
+4 French Paper Puzzles:
+  img: none.jpg
+  type: Assembly
+  material: paper
+
+WW2 Bombing Mystery Puzzle:
+  img: none.jpg
+  type: Assembly
+  material: papear
+
+Spongebob Burger King Sliding Puzzle:
+  img: none.jpg
+  type: Permutation
+  material: plastic
+  maker: Burger King
+  date: 2004
+
+Confounding Coin Removal Bits&Pieces:
+  img: none.jpg
+  type: Disassembly
+
+Wilber H Murray Mfg. Ten Card Puzzle promo buggy & harness:
+  img: none.jpg
+  type: Assembly
+  material: paper
+
+Louisiana Purchase Exposition:
+  img: IMG_6508.jpeg
+  type: Sliding
+  material: metal plate
+  tag: perplexity
+  tag2: exposition
+
+Grindelwald Vesta Box:
+  img: IMG_6494.jpeg
+  type: Puzzle Box
+  tag: vesta
+
+Shackman Nut and Bolt Puzzle:
+  img: none.jpg
+  type: Disasssembly
+
+Double Treble Clef:
+  img: none.jpg
+  type: Tanglement
+  maker: Pentangle
+
+Lattice and Sardine:
+  img: none.jpg
+  type: none
+
+Hickman's Family Farms Egg Puzzle:
+  img: none.jpg
+  type: Disassembly
+
+Van Deventer Matchbox:
+  img: none.jpg
+  type: Assembly
+
+Shackman Maze Puzzle:
+  img: none.jpg
+  type: Route Finding
+
+Mysterious Ball Bandsaw Puzzle:
+  img: none.jpg
+  type: Assembly
+
+Stark Raving Cubes:
+  img: none.jpg
+  type: Assembly
+
+Dragon Egg:
+  img: none.jpg
+  type: Disassembly
+
+Gibson International Box of Metal Puzzles:
+  img: none.jpg
+  type: Tanglement
+
+Zig-Zag:
+  img: none.jpg
+  type: Assembly
+
+USoA Allen Rolfs:
+  img: none.jpg
+  type: Tanglement
+
+Spiral Black Hole Allen Rolfs:
+  img: none.jpg
+  type: Tanglement
+
+'Karakuri New Secret Box #4':
+  img: none.jpg
+  type: Disassembly
+
+'Karakui Small Box #2':
+  img: none.jpg
+  type: Disassembly
+
+Japanese Magic Box:
+  img: none.jpg
+  type: Disassembly
+
+George VI Coronation Sliding Piece:
+  img: none.jpg
+  type: Sliding
+
+Blockade Bits and Pieces:
+  img: none.jpg
+  type: Assembly
+
+Popular Puzzle Compendium Journet:
+  img: none.jpg
+  type: Tanglement
+
+'"Family" Compendium Of Puzzles Journet':
+  img: none.jpg
+  type: Tanglement
+
+Chad Valley Daily Mail World Record:
+  img: none.jpg
+  type: Pattern
+  material: paper
+
+Haselgrove Box:
+  img: none.jpg
+  type: Disassembly
+
+Boss Puzzle:
+  img: none.jpg
+  type: Sliding
+
+Dickinson's Witch Hazel Square Puzzle:
+  img: none.jpg
+  type: Assembly
+  material: paper
+
+Atomix (Orb):
+  img: none.jpg
+  type: Permutation
+
+Houdini's Torture Cell:
+  img: none.jpg
+  type: Disassembly
+
+SwitchIt Rescuers:
+  img: none.jpg
+  type: Sliding
+
+Ultimate Burr Set CreativeCrafthouse:
+  img: none.jpg
+  type: Assembly
+
+Atomic Chaos (Kaos):
+  img: none.jpg
+  type: Permutation
+  material: plastic
+
+Chocolat Lombart Paper Puzzle:
+  img: none.jpg
+  type: Assembly
+  material: paper
+
+SOMA:
+  img: none.jpg
+  type: Assembly
+  designer: Piet Hein
+  maker: Skjøde of Skjern for Parker Brothers, Inc.
+
+Youth's Companion Ad Wire Puzzles:
+  img: none.jpg
+  type: Advert
+
+'The Who #305':
+  img: none.jpg
+  type: Tanglement
+
+'The Snail #607':
+  img: none.jpg
+  type: Tanglement
+
+Spiral and Bent Sword:
+  img: none.jpg
+  type: Tanglement
+
+Chaotic Cube:
+  img: none.jpg
+  type: Pattern
+
+Jefferson County Fair 1885:
+  img: none.jpg
+  type: Tanglement
+  material: paper
+
+Flying Puzzle. Keeps you up in the air:
+  img: none.jpg
+  type: Sliding
+
+Link the Link:
+  img: IMG_6497.jpeg
+  type: Tanglement
+  material: cast
+
+VIM:
+  img: IMG_6502.jpeg
+  type: Tanglement
+  material: cast
+  advert: VIM Cleanser
