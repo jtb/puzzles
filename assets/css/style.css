@@ -54,6 +54,22 @@
   overflow:auto
 }
 
+#links table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#links td, th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+#links tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
 @media (min-width:993px){.w3-modal-content{width:900px}.w3-hide-large{display:none!important}.sidebar.w3-collapse{display:block!important}}
 @media (max-width:992px){.sidebar.w3-collapse{display:none;width:50%;}.w3-main{margin-left:0!important;margin-right:0!important}.w3-auto{max-width:100%}}
 

@@ -1003,7 +1003,7 @@ Dickinson's Witch Hazel Square Puzzle:
   material: paper
 
 Atomix (Orb):
-  img: none.jpg
+  img: IMG_6522.JPG
   type: Permutation
 
 Houdini's Torture Cell:
@@ -1073,3 +1073,45 @@ VIM:
   type: Tanglement
   material: cast
   advert: VIM Cleanser
+
+Butterfly:
+  img: IMG_6525.JPG
+  type: Tanglement
+  material: copper
+  designer: Ruan Genquan
+
+Bunny:
+  img: IMG_6526.JPG
+  type: Tanglement
+  material: copper
+  designer: Ruan Genquan
+
+Fish:
+  img: IMG_6523.JPG
+  type: Tanglement
+  material: copper
+  designer: Ruan Genquan
+
+Teapot:
+  img: IMG_6528.JPG
+  type: Tanglement
+  material: copper
+  designer: Ruan Genquan
+
+Wheel:
+  img: IMG_6527.JPG
+  type: Tanglement
+  material: copper
+  designer: Ruan Genquan
+
+Horsehoes:
+  img: IMG_6524.JPG
+  type: Tanglement
+  material: copper
+  designer: Ruan Genquan
+
+Longevity:
+  img: IMG_6529.JPG
+  type: Tanglement
+  material: copper
+  designer: Ruan Genquan
