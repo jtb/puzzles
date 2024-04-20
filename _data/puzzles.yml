@@ -153,7 +153,7 @@ Crescent & Star:
   img: IMG_6501.jpeg
   type: Tanglement
   material: metal plate
-  expo: 1901
+  event: 1901 Pan-American Exposition
 
 Time:
   img: none.jpg
@@ -165,7 +165,7 @@ Dog and Collar Puzzle:
   material: metal plate
 
 TakItAPart:
-  img: none.jpg
+  img: IMG_6518.JPG
   type: Disassembly
   designer: John D. Boyle
 
@@ -204,6 +204,7 @@ Keys (2):
 Queen's Jubilee:
   img: none.jpg
   type: Route Finding
+  event: 1887 Queen Victoria Golden Jubilee
 
 Horse and Jockey Print Ad:
   img: none.jpg
@@ -229,8 +230,9 @@ Donkey Hotel Dixie Postcard:
   material: paper
 
 Century of Progress:
-  img: none.jpg
+  img: IMG_6515.JPG
   type: Sliding
+  event: 1933-1934 Chicago World's Fair
 
 Work or Golf:
   img: none.jpg
@@ -373,11 +375,11 @@ Behling Calendar Medal:
   type: Calendar
 
 Get My Goat:
-  img: none.jpg
+  img: IMG_6514.JPG
   type: Sliding
 
 Flying Puzzle:
-  img: none.jpg
+  img: IMG_6512.JPG
   type: Sliding
 
 14 puzzle:
@@ -448,7 +450,7 @@ Mosaik Puzzle Germany:
   type: Assembly
 
 Blocks of Five President Harrison:
-  img: none.jpg
+  img: IMG_6516.JPG
   type: Sliding
 
 Japanese Puzzle & Knit-Wit:
@@ -511,7 +513,7 @@ Tangram/Japanese 15-puzzle:
 Belgium Expo Calendar Medal:
   img: none.jpg
   type: Calendar
-  expo: 1897
+  event: 1897 Brussels International Exposition
 
 Champion Spark Plug K-Line:
   img: IMG_6505.jpeg
@@ -893,7 +895,7 @@ Louisiana Purchase Exposition:
   type: Sliding
   material: metal plate
   tag: perplexity
-  expo: 1904
+  event: 1904 Louisiana Purchase Exposition
 
 Grindelwald Vesta Box:
   img: IMG_6494.jpeg
@@ -965,9 +967,10 @@ Japanese Magic Box:
   img: none.jpg
   type: Disassembly
 
-George VI Coronation Sliding Piece:
-  img: none.jpg
+George VI Coronation:
+  img: IMG_6517.JPG
   type: Sliding
+  event: 1937 George VI Coronation
 
 Blockade Bits and Pieces:
   img: none.jpg
@@ -1057,7 +1060,7 @@ Jefferson County Fair 1885:
   material: paper
 
 Flying Puzzle. Keeps you up in the air:
-  img: none.jpg
+  img: IMG_6519.JPG
   type: Sliding
 
 Link the Link:
