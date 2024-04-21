@@ -5,7 +5,12 @@
   <article class="card">
     <img src="{{ site.thumbsurl }}{{puzzle.img }} ">
     <div class="text">
-      <h3>{{ puzzle.name }}</h3>
+      <p>
+      {{ puzzle.name }}
+      </p>
+      <div id=divider>
+      <hr>
+      </div>
       <table>
       {% if puzzle.date %}
       <tr><td><b>Date</b> {{puzzle.date }}</td></tr>
