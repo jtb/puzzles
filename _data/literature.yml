@@ -1,11 +1,24 @@
 Book of Ingenious and Diabolical Puzzles:
-  img: none.jpg
+  img: slocum1.jpg
+  type: Book
+  year: 1994
+  author: Jerry Slocum and Jack Botermans
+
+'Puzzles Old and New: How to Make and Solve Them':
   type: Book
   author: Jerry Slocum and Jack Botermans
+  year: 1986
+  url: https://archive.org/details/puzzlesoldnewhow00sloc
+  language: English
+  img: slocum2.jpeg
+  desc: Catalog of mechanical puzzles from some of the world's experts.
 
 Sliding Piece Puzzles:
   img: none.jpg
   type: Book
+  author: Edward Hordern
+  year: 1986
+  url: https://refkol.ro/matek/mathbooks/Matek-E-books/Hordern%20-%20Sliding%20piece%20puzzles/1_hordern__sliding_piece_puzzles.pdf
 
 Compendium of over 10500 Wire puzzles:
   img: none.jpg
@@ -14,6 +27,17 @@ Compendium of over 10500 Wire puzzles:
 Puzzles Old and New, Hordern edition:
   img: none.jpg
   type: Book
+
+Puzzles Old and New:
+  type: Book
+  author: Louis Hoffmann
+  place: London and New York
+  publisher: Frederick Warne and Co.
+  year: 1893
+  url: https://archive.org/details/puzzlesoldnew00hoff
+  language: English
+  img: hoffmann.jpg
+  desc: Catalog of mechanical puzzles available in Victorian London in the 1890s
 
 Ingenious Rings book (Chinese):
   img: none.jpg

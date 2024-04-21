@@ -3,7 +3,7 @@ layout: default
 title: Puzzling Pastimes Sliding Puzzles
 ---
 
-<div class="w3-container" id=books>
+<div class="w3-container">
   <h1>Books</h1>
   <p>
     I have a few puzzle books in my collection and some that I have found online.
@@ -11,8 +11,27 @@ title: Puzzling Pastimes Sliding Puzzles
     I have just so much room for my puzzle collection. So here is my book collection, both
     physical and virtual.
   </p>
-
 </div>
+
+<main class="cards">
+  {% for book in site.data.literature %}
+  {% if book[1].type == "Book" %}
+  <article class="card" id="book">
+    <img src="{{ site.thumbsurl }}{{book[1].img }} ">
+    <div class="text">
+      <h3>
+      {% if book[1].url %}
+      <a href="{{ book[1].url }}" target="_blank">{{ book[0] }}</a>
+      {% else %}
+      {{ book[0] }}
+      {% endif %}
+      </h3>
+    </div>
+  </article>
+
+{% endif %}
+{% endfor %}
+</main>
 
 <div class="w3-container" id=links>
   <h1>Other Puzzle Links</h1>
@@ -244,6 +263,9 @@ seeing other people's puzzle collections. The list is in no particular order.
   <p>
     Patents are very helpful resources to learn about the inventor and the age of a puzzle.
     They also show how the puzzle works, so careful! <b>They may contain spoilers</b>.
+  </p>
+  <p>
+    COMING SOON!
   </p>
 
 </div>

@@ -4,7 +4,7 @@ Hectix:
   maker: "3M Company"
   date: 1970
   patent: US3721448
-  type: "Interlocking"
+  type: Interlocking
   material: plastic
 
 Sword-in-the-Stone:
@@ -91,6 +91,8 @@ IMP 15 Puzzle:
 Loyd's 15:
   img: none.jpg
   type: Sliding
+  maker: Brainwright
+  material: plastic
 
 Katzenjammer:
   img: none.jpg
@@ -112,23 +114,44 @@ Donkey Old Joe and Rover:
 Avenger:
   img: none.jpg
   type: Permutation
+  designer: Douglas A. Engel
+  maker: GO Images, Inc.
+  date: 1986
+  patent: US4415158
+  material: plastic
+  desc: In Puzzler series (Novice, Challenger, Avenger)
 
 Entrapment:
   img: IMG_6543.JPG
   type: Permutation
+  material: plastic
+  maker: Schaper Mfg. Co.
+  patent: US4413823
+  designer: Jeffrey D. Breslow
+  date: 1981
 
 QWIK-SANE:
   img: none.jpg
   type: Sliding
+  designer: James R. O’Neil
+  date: 1970
+  maker: 'WFF ‘N PROOF'
 
 Bootlegger and Flask:
   img: IMG_6503.jpeg
   type: Tanglement
   material: metal plate
+  designer: John S Allen
+  maker: W.R. Maxwell
+  date: 1927
+  patent: US1635022
+  desc: "88 Lafayette Ave Brooklyn, N.Y. Patent Apl'd"
 
 SwitchIt Mickey Mouse:
   img: none.jpg
   type: Sliding
+  material: plastic
+  tag: switchit
 
 Instant Insanity:
   img: none.jpg
@@ -351,6 +374,7 @@ Grandpa's Soap:
 SwitchIt Popeye:
   img: none.jpg
   type: Sliding
+  tag: switchit
 
 Manouever (in the Stratagem range):
   img: none.jpg
@@ -895,7 +919,7 @@ Grindelwald Vesta Box:
 
 Shackman Nut and Bolt Puzzle:
   img: none.jpg
-  type: Disasssembly
+  type: Disassembly
 
 Double Treble Clef:
   img: IMG_6547.JPG
@@ -1010,6 +1034,7 @@ Houdini's Torture Cell:
 SwitchIt Rescuers:
   img: none.jpg
   type: Sliding
+  tag: switchit
 
 Ultimate Burr Set:
   img: none.jpg
