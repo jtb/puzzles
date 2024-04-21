@@ -1,27 +1,25 @@
 <main class="cards">
-{% for puzzle in site.data.puzzles %}
-{% if puzzle[1].type contains include.type or include.type == "all" %}
+{% assign sorted_puzzles = site.data.puzzles | sort: 'material' |reverse  %}
+{% for puzzle in sorted_puzzles %}
+{% if puzzle.type contains include.type or include.type == "all" %}
   <article class="card">
-    <img src="{{ site.thumbsurl }}{{puzzle[1].img }} ">
+    <img src="{{ site.thumbsurl }}{{puzzle.img }} ">
     <div class="text">
-      <h3>{{ puzzle[0] }}</h3>
+      <h3>{{ puzzle.name }}</h3>
       <table>
-        <!--
-      {% if puzzle[1].type %}
-      <tr><td><b>Type</b></td><td>{{puzzle[1].type }}</td></tr>
+      {% if puzzle.date %}
+      <tr><td><b>Date</b> {{puzzle.date }}</td></tr>
       {% endif %}
-       -->
-      {% if puzzle[1].date %}
-      <tr><td><b>Date</b> {{puzzle[1].date }}</td></tr>
+      {% if puzzle.maker %}
+      <tr><td><b>Maker</b> {{puzzle.maker }}</td></tr>
       {% endif %}
-      {% if puzzle[1].maker %}
-      <tr><td><b>Maker</b> {{puzzle[1].maker }}</td></tr>
-      {% endif %}
-      {% if puzzle[1].designer %}
-      <tr><td><b>Designer</b> {{puzzle[1].designer }}</td></tr>
+      {% if puzzle.designer %}
+      <tr><td><b>Designer</b> {{puzzle.designer }}</td></tr>
       {% endif %}
       </table>
-      <!--<p>{{puzzle[1].desc }}</p>-->
+      {% if puzzle.desc %}
+      <p>{{puzzle.desc }}</p>
+      {% endif %}
     </div>
   </article>
 
