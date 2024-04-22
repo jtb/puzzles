@@ -22,6 +22,11 @@
   type: Tanglement
   material: wood
 
+- name: Patience (metal)
+  img: IMG_6760.JPG
+  type: Tanglement
+  material: metal plate
+
 - name: Solomon's Seal
   img: southwestern_bell.jpg
   advert: Southwestern Bell
@@ -105,14 +110,14 @@
   desc: The original Instant Insanity puzzle
 
 - name: Donkey Old Joe and Rover
-  img: none.jpg
+  img: IMG_6709.JPG
   type: Assembly
   material: paper
   advert: Standard Screw
   desc: Bought these separately, missing the jockey
 
 - name: Avenger
-  img: none.jpg
+  img: IMG_6660.JPG
   type: Permutation
   designer: Douglas A. Engel
   maker: GO Images, Inc.
@@ -154,7 +159,7 @@
   tag: switchit
 
 - name: Instant Insanity
-  img: none.jpg
+  img: IMG_6683.JPG
   type: Pattern
   tag: instant insanity
 
@@ -212,7 +217,7 @@
   desc: Somehow the 14 and 15 are reversed
 
 - name: One Way
-  img: none.jpg
+  img: IMG_6682.JPG
   type: Assembly
 
 - name: Shoe Button Hook
@@ -255,13 +260,13 @@
   img: none.jpg
   type: Tanglement
 
-- name: Donkey Shackman Postcard
-  img: none.jpg
+- name: Donkey Shackman Postcard (reproduction)
+  img: IMG_6702.JPG
   type: Assembly
   material: paper
 
 - name: Donkey Hotel Dixie Postcard
-  img: none.jpg
+  img: IMG_6701.JPG
   type: Assembly
   material: paper
 
@@ -334,6 +339,10 @@
   img: IMG_6560.JPG
   type: Bank
 
+- name: Coin holder
+  img: IMG_6763.JPG
+  type: Bank
+
 - name: Top Spin
   img: none.jpg
   type: Permutation
@@ -348,39 +357,56 @@
   type: Bank
 
 - name: Vess Soda Bottle
-  img: none.jpg
+  img: IMG_6691.JPG
   type: Pattern
   material: paper
   advert: Vess
 
 - name: Vess Soda Cap
-  img: none.jpg
+  img: IMG_6722.JPG
   type: Pattern
   material: paper
   advert: Vess
+  desc: uncut
 
 - name: Pel-Freeze
-  img: none.jpg
+  img: IMG_6700.JPG
   type: Pattern
   material: paper
   advert: Pel-Freeze
 
 - name: SPAPCO's Five Piece Puzzle
-  img: none.jpg
+  img: IMG_6723.JPG
   type: Assembly
   material: paper
   advert: SPAPCO
 
-- name: Hess College Course Puzzles
-  img: none.jpg
+- name: Freshman College Course Puzzles
+  img: IMG_6775.JPG
   type: Tanglement
+  maker: Dick Hess
+
+- name: Sophomore College Course Puzzles
+  img: IMG_6779.JPG
+  type: Tanglement
+  maker: Dick Hess
+
+- name: Junior College Course Puzzles
+  img: IMG_6776.JPG
+  type: Tanglement
+  maker: Dick Hess
+
+- name: Senior College Course Puzzles
+  img: IMG_6777.JPG
+  type: Tanglement
+  maker: Dick Hess
 
 - name: Inversion
   img: IMG_6604.JPG
   type: Permutation
 
 - name: Grandpa's Soap
-  img: none.jpg
+  img: IMG_6713.JPG
   type: Pattern
   material: paper
   advert: Grandpa's Soap
@@ -418,12 +444,12 @@
   type: Assembly
 
 - name: white eagle slide puzzle
-  img: none.jpg
+  img: IMG_6690.JPG
   type: Sliding
 
 - name: Chicken and Egg Puzzle
-  img: none.jpg
-  type: Assembly
+  img: IMG_6708.JPG
+  type: Pattern
   material: paper
 
 - name: Hungarian Rings
@@ -431,7 +457,7 @@
   type: Permutation
 
 - name: BP edge matching
-  img: none.jpg
+  img: IMG_6689.JPG
   type: Pattern
   material: paper
 
@@ -444,8 +470,18 @@
   img: IMG_6646.JPG
   type: Disassembly
 
-- name: Dickinson's Witch Hazel
-  img: none.jpg
+- name: Chambers Motor Horse & Rider
+  img: IMG_6710.JPG
+  type: Patter
+  material: paper
+
+- name: "Ride 'Em Cowboys! Horse & Rider"
+  img: IMG_6711.JPG
+  type: Patter
+  material: paper
+
+- name: Dickinson's Witch Hazel Cross
+  img: IMG_6694.JPG
   type: Assembly
   material: paper
 
@@ -454,7 +490,7 @@
   type: Assembly
 
 - name: Skitzo
-  img: none.jpg
+  img: IMG_6721.JPG
   type: Pattern
 
 - name: Poll Parrot Sliding Puzzle
@@ -480,9 +516,10 @@
   img: IMG_6516.JPG
   type: Sliding
 
-- name: Japanese Puzzle & Knit-Wit
-  img: none.jpg
-  type: none
+- name: Japanese Weave Puzzle
+  img: IMG_6672.JPG
+  type: Interlocking
+  material: wood
 
 - name: Hanayama Baroq
   img: none.jpg
@@ -502,36 +539,37 @@
   type: Route Finding
   maker: Hanayama
 
-- name: David's Perpetual Calendar I
-  img: none.jpg
+- name: David's Perpetual Calendar
+  img: IMG_6718.JPG
   type: Calendar
 
 - name: Tom Keene Cigar Puzzle
-  img: none.jpg
+  img: IMG_6720.JPG
   type: Tanglement
   material: paper
 
-- name: David's Perpetual Calendar II
-  img: none.jpg
+- name: "David's Perpetual Calendar (2)"
+  img: IMG_6719.JPG
   type: Calendar
   material: paper
 
 - name: Town Tavern
-  img: none.jpg
+  img: IMG_6686.JPG
   type: Tanglement
   material: paper
 
 - name: St. Nicholas Trade Card
-  img: none.jpg
+  img: IMG_6715.JPG
   type: Pattern
   material: paper
 
 - name: Iron Heart Metal Puzzle
-  img: none.jpg
+  img: IMG_6752.JPG
   type: Tanglement
+  material: wire
 
-- name: Donkey & Riders + Postcards
-  img: none.jpg
+- name: L. Sternberg & Co. Donkey & Riders
+  img: IMG_6716.JPG
   type: Assembly
   material: paper
 
@@ -556,8 +594,8 @@
   advert: Champion K-Line Spark plugs
 
 - name: Hunter Baltimore Rye Horse & Rider
-  img: none.jpg
-  type: Tanglement
+  img: IMG_6707.JPG
+  type: Pattern 
   material: paper
 
 - name: Uncle Sam's Divorce Puzzle
@@ -577,22 +615,33 @@
   img: IMG_6600.JPG
   type: Assembly
 
-- name: Wit's End
-  img: none.jpg
+- name: "Wit's End"
+  img: IMG_6665.JPG
   type: Tanglement
 
 - name: Van Houten Violin
-  img: none.jpg
+  img: IMG_6697.JPG
   type: Tanglement
+  material: paper
+
+- name: "Van Houten's Septum Puzzle"
+  img: IMG_6724.JPG
+  type: Sliding
+  material: paper
+
+- name: Dellwood Creami-Rich Planets
+  img: IMG_6725.JPG
+  type: Calculator
   material: paper
 
 - name: ThinkFun Houdini
   img: none.jpg
   type: Tanglement
 
-- name: fiddl'widdit Jordan's Journey
-  img: none.jpg
+- name: Jordan's Journey
+  img: IMG_6753.JPG
   type: Tanglement
+  maker: Fiddl'Widdit
 
 - name: Binary Arts Fifteen
   img: IMG_6537.JPG
@@ -610,7 +659,7 @@
   maker: Binary Arts
 
 - name: Dirty Dog Tavern
-  img: none.jpg
+  img: IMG_6746.JPG
   type: Tanglement
 
 - name: ThinkFun Fifth Chair
@@ -618,7 +667,7 @@
   type: Assembly
 
 - name: Fairmont Creamery Puzzle
-  img: none.jpg
+  img: IMG_6712.JPG
   type: Tanglement
   material: paper
 
@@ -627,7 +676,7 @@
   type: Tanglement
 
 - name: Turing Tumble
-  img: none.jpg
+  img: IMG_6657.JPG
   type: Calculator
 
 - name: Chilian Phenyo Caffein
@@ -654,16 +703,17 @@
   material: plastic
 
 - name: Van Houten Thought Reader
-  img: none.jpg
+  img: IMG_6714.JPG
   type: Calculator
   material: paper
 
-- name: Lee Valley Tools Trick Bolts
-  img: none.jpg
+- name: Trick Bolts
+  img: IMG_6666.JPG
   type: Disassembly
+  maker: Lee Valley Tools Ltd.
 
 - name: Chinese Tangram
-  img: none.jpg
+  img: IMG_6684.JPG
   type: Assembly
 
 - name: Tri-N-Do-It
@@ -672,18 +722,49 @@
   material: wood
   designer: John D. Boyle
 
+- name: Four Block Lock
+  img: IMG_6668.JPG
+  maker: Toys From Times Past
+  type: Disassembly
+  material: wood
+
+- name: Y-Knot Puzzle
+  img: IMG_6669.JPG
+  maker: Toys From Times Past
+  type: Disassembly
+  material: wood
+
+- name: What Four Puzzle
+  img: IMG_6670.JPG
+  maker: Toys From Times Past
+  type: Disassembly
+  material: wood
+
+- name: "Do Nothin' Machine"
+  img: IMG_6671.JPG
+  maker: Toys From Times Past
+  type: Calculator
+  material: wood
+
+- name: "Do Nothing Machine"
+  img: IMG_6673.JPG
+  type: Calculator
+  material: wood
+
 - name: Witch Hazel Cats
-  img: none.jpg
+  img: IMG_6696.JPG
   type: Assembly
   material: paper
 
 - name: Consul the Educated Monkey
   img: IMG_6599.JPG
+  material: tin
   type: Calculator
 
 - name: 2 Witch Hazel Mail Advertisement
-  img: none.jpg
-  type: none
+  img: IMG_6766.JPG
+  type: Pattern
+  material: paper
 
 - name: Troon Vesta Box
   img: IMG_6495.jpeg
@@ -691,7 +772,7 @@
   tag: vesta
 
 - name: Hexadecimal Binary Arts
-  img: none.jpg
+  img: IMG_6658.JPG
   type: Sequential Movement
 
 - name: Enigma
@@ -700,7 +781,7 @@
   maker: Hanayama
 
 - name: The Famous T Puzzle
-  img: none.jpg
+  img: IMG_6695.JPG
   type: Assembly
   material: paper
   event: Golden Gate International Exposition
@@ -718,8 +799,9 @@
   tag: vesta
 
 - name: Vanishing Leprechauns
-  img: none.jpg
-  type: Assembly
+  img: IMG_6765.JPG
+  type: Pattern
+  material: paper
 
 - name: 'Computer Puzzler #1'
   img: none.jpg
@@ -742,20 +824,23 @@
   maker: Tenyo
 
 - name: Flight Test
-  img: none.jpg
+  img: IMG_6751.JPG
   type: Tanglement
+  material: wire
 
 - name: ryede-like square puzzle
-  img: none.jpg
+  img: IMG_6758.JPG
   type: Tanglement
+  maker: Charles Richard
 
 - name: Configurations Game
-  img: none.jpg
+  img: IMG_6774.JPG
   type: Pattern
 
 - name: Switch
-  img: none.jpg
-  type: none
+  img: IMG_6773.JPG
+  type: Pattern
+  material: plastic
 
 - name: Matchless Medal Polish Calendar Medal
   img: none.jpg
@@ -765,19 +850,21 @@
   img: IMG_6555.JPG
   type: Tanglement
 
-- name: Dead End
-  img: none.jpg
+- name: Dead End Pocket Puzzle
+  img: IMG_6762.JPG
   type: Tanglement
   maker: Puzzletts
+  material: wire
 
 - name: Gordian's Knot
   img: IMG_6602.JPG
   type: Interlocking
   maker: ThinkFun
 
-- name: Hugh's Double Square Knob Puzzle
-  img: none.jpg
+- name: "Hugh's Double Square Knob Puzzle"
+  img: IMG_6727.JPG
   type: Tanglement
+  desc: I think it should say Knot. Maybe typo?
 
 - name: Faith, Hope, Charity
   img: none.jpg
@@ -811,7 +898,7 @@
   material: brass
 
 - name: 99 piece Pagoda
-  img: none.jpg
+  img: IMG_6678.JPG
   type: Interlocking
   maker: Arjeu
 
@@ -821,17 +908,43 @@
   maker: Tavern Puzzle
 
 - name: Sherms 8 point puzzle
-  img: none.jpg
+  img: IMG_6703.JPG
+  type: Sliding
+  material: paper
+
+- name: Star Puzzle
+  img: IMG_6704.JPG
   type: Sliding
   material: paper
 
 - name: Instant Indecision
-  img: none.jpg
+  img: IMG_6748.JPG
   type: Pattern
 
+- name: Handmade Airplane
+  img: IMG_6749.JPG
+  type: Tanglement
+  material: wire
+
+- name: Handmade Wire
+  img: IMG_6750.JPG
+  type: Tanglement
+  material: wire
+
+- name: Handmade Cross Wire
+  img: IMG_6761.JPG
+  type: Tanglement
+  material: wire
+
+- name: Handmade Hearts
+  img: IMG_6759.JPG
+  type: Tanglement
+  material: wire
+
 - name: Foot, Schulze, and Co. Playfield Shoes
-  img: none.jpg
-  type: none
+  img: IMG_6698.JPG
+  type: Tanglement
+  material: paper
 
 - name: Hood's Sarsaparilla
   img: none.jpg
@@ -842,21 +955,25 @@
   type: none
 
 - name: A-B-C Puzzle
-  img: none.jpg
+  img: IMG_6764.JPG
   type: Tanglement
+  material: cast
 
 - name: German Wire Puzzle Box
   img: none.jpg
   type: Tanglement
 
 - name: Jayne's Expectorant
-  img: none.jpg
+  img: IMG_6726.JPG
   type: Tanglement
+  material: tin
+  desc: Missing string
 
 - name: Columbus Buggy
-  img: none.jpg
+  img: IMG_6692.JPG
   type: Tanglement
   material: paper
+  desc: Missing string
 
 - name: German Wire Puzzle Box 2
   img: none.jpg
@@ -876,7 +993,7 @@
   type: Calendar
 
 - name: A-Treat Ginger Ale
-  img: none.jpg
+  img: IMG_6688.JPG
   type: Pattern
   material: paper
 
@@ -886,15 +1003,15 @@
   material: cast
 
 - name: Screw Loose
-  img: none.jpg
+  img: IMG_6680.JPG
   type: Route Finding
 
 - name: Devil's Stirrup Tavern
-  img: none.jpg
+  img: IMG_6747.JPG
   type: Tanglement
 
 - name: Farmers Puzzle Bone Ferilizer
-  img: none.jpg
+  img: IMG_6706.JPG
   type: Pattern
   material: paper
 
@@ -906,8 +1023,8 @@
   img: none.jpg
   type: Calculator
 
-- name: Uncles Rope + Tavern Stand
-  img: none.jpg
+- name: Uncles Rope
+  img: IMG_6745.JPG
   type: Tanglement
 
 - name: Whistle Stop Puzzle
@@ -934,12 +1051,12 @@
   date: 2004
 
 - name: Confounding Coin Removal
-  img: none.jpg
+  img: IMG_6661.JPG
   type: Disassembly
   maker: Bits & Pieces
 
 - name: Wilber H Murray Mfg. Ten Card Puzzle promo buggy & harness
-  img: none.jpg
+  img: IMG_6687.JPG
   type: Assembly
   material: paper
 
@@ -969,9 +1086,9 @@
   img: IMG_6643.JPG
   type: Interlocking
 
-- name: Sardine
-  img: none.jpg
-  type: none
+- name: Something Fishy Sardine Can
+  img: IMG_6663.JPG
+  type: Assembly
 
 - name: "Knit-Wit"
   img: IMG_6610.JPG
@@ -982,8 +1099,9 @@
   type: Disassembly
 
 - name: Van Deventer Matchbox
-  img: none.jpg
+  img: IMG_6679.JPG
   type: Assembly
+  designer: Oskar van Deventer
 
 - name: Shackman Maze Puzzle
   img: none.jpg
@@ -1009,27 +1127,39 @@
   img: IMG_6548.JPG
   type: Assembly
 
-- name: USoA Allen Rolfs
-  img: none.jpg
+- name: USoA
+  img: IMG_6662.JPG
   type: Tanglement
+  maker: Allen Rolfs
 
-- name: Spiral Black Hole Allen Rolfs
-  img: none.jpg
+- name: Spiral Black Hole
+  img: IMG_6664.JPG
   type: Tanglement
+  maker: Allen Rolfs
 
 - name: 'Karakuri New Secret Box #4'
-  img: none.jpg
+  img: IMG_6674.JPG
   type: Puzzle Box
   maker: Karakuri Creation Group
 
 - name: 'Karakui Small Box #2'
-  img: none.jpg
+  img: IMG_6675.JPG
   type: Puzzle Box
   maker: Karakuri Creation Group
 
 - name: Japanese Magic Box
   img: IMG_6644.JPG
   type: Puzzle Box
+
+- name: Japanese Kumiki
+  img: IMG_6676.JPG
+  type: Interlocking
+  material: wood
+
+- name: Twelve Piece Separation
+  img: IMG_6677.JPG
+  designer: Stewart Coffin
+
 
 - name: George VI Coronation
   img: IMG_6517.JPG
@@ -1038,7 +1168,7 @@
   event: George VI Coronation
 
 - name: Blockade
-  img: none.jpg
+  img: IMG_6771.JPG
   type: Assembly
   maker: Bits & Pieces
 
@@ -1056,7 +1186,7 @@
   material: paper
 
 - name: Haselgrove Box
-  img: none.jpg
+  img: IMG_6681.JPG
   type: Disassembly
 
 - name: Boss Puzzle
@@ -1068,7 +1198,7 @@
   type: Sliding
 
 - name: Dickinson's Witch Hazel Square Puzzle
-  img: none.jpg
+  img: IMG_6693.JPG
   type: Assembly
   material: paper
 
@@ -1092,7 +1222,7 @@
   tag: switchit
 
 - name: Ultimate Burr Set
-  img: none.jpg
+  img: IMG_6772.JPG
   type: Interlocking
   maker: Creative Crafthouse
 
@@ -1121,23 +1251,26 @@
   maker: Skjøde of Skjern for Parker Brothers, Inc.
 
 - name: 'The Who #305'
-  img: none.jpg
+  img: IMG_6768.JPG
   type: Tanglement
+  material: wire
 
 - name: 'The Snail #607'
-  img: none.jpg
+  img: IMG_6767.JPG
   type: Tanglement
+  material: wire
 
 - name: Spiral and Bent Sword
-  img: none.jpg
+  img: IMG_6769.JPG
   type: Tanglement
+  material: wire
 
 - name: Chaotic Cube
   img: none.jpg
   type: Pattern
 
 - name: Jefferson County Fair 1885
-  img: none.jpg
+  img: IMG_6685.JPG
   type: Tanglement
   material: paper
   date: 1885
