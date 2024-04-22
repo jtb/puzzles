@@ -12,4 +12,39 @@ title: Puzzling Pastimes Commemorating Events
   </p>
 </div>
 
-{% include my-gallery.html type="Event" %}
+<main class="cards">
+{% assign sorted_puzzles = site.data.puzzles | sort: 'material' |reverse  %}
+{% for puzzle in sorted_puzzles %}
+{% if puzzle.event != nil and puzzle.img != 'none.jpg' and puzzle.type != 'Calendar' %}
+  <article class="card">
+    <img src="{{ site.thumbsurl }}{{puzzle.img }} ">
+    <div class="text">
+      <p>
+      {{ puzzle.name }}
+      </p>
+      <p>
+        {{ puzzle.event }}
+      </p>
+      <div id=divider>
+      <hr>
+      </div>
+      <table>
+      {% if puzzle.date %}
+      <tr><td><b>Date</b> {{puzzle.date }}</td></tr>
+      {% endif %}
+      {% if puzzle.maker %}
+      <tr><td><b>Maker</b> {{puzzle.maker }}</td></tr>
+      {% endif %}
+      {% if puzzle.designer %}
+      <tr><td><b>Designer</b> {{puzzle.designer }}</td></tr>
+      {% endif %}
+      </table>
+      {% if puzzle.desc %}
+      <p>{{puzzle.desc }}</p>
+      {% endif %}
+    </div>
+  </article>
+
+{% endif %}
+{% endfor %}
+</main>

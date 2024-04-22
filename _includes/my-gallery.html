@@ -1,7 +1,7 @@
 <main class="cards">
 {% assign sorted_puzzles = site.data.puzzles | sort: 'material' |reverse  %}
 {% for puzzle in sorted_puzzles %}
-{% if puzzle.type contains include.type or include.type == "all" %}
+{% if (puzzle.type contains include.type or include.type == "all") and puzzle.img != 'none.jpg' and puzzle.type != 'Calendar' %}
   <article class="card">
     <img src="{{ site.thumbsurl }}{{puzzle.img }} ">
     <div class="text">

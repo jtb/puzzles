@@ -6,10 +6,42 @@ title: Puzzling Pastimes Ephemeral
 <div class="w3-container">
   <h3>Paper</h3>
   <p>
-    I like collecting paper puzzles so listing them all of them here, regardless of category.
+    I like collecting paper puzzles so listing all of them here, regardless of category.
     A lot of these were made to advertise some business. I especially like the ones where the card
-    itself is part of the puzzle, rather than a puzzle being written on the card.
+    itself is part of the puzzle, rather than a puzzle just being written on the card.
   </p>
 </div>
 
-{% include my-gallery.html type="Paper" %}
+<main class="cards">
+{% assign sorted_puzzles = site.data.puzzles | sort: 'material' |reverse  %}
+{% for puzzle in sorted_puzzles %}
+{% if puzzle.material contains 'paper' and puzzle.img != 'none.jpg' and puzzle.type != 'Calendar' %}
+  <article class="card">
+    <img src="{{ site.thumbsurl }}{{puzzle.img }} ">
+    <div class="text">
+      <p>
+      {{ puzzle.name }}
+      </p>
+      <div id=divider>
+      <hr>
+      </div>
+      <table>
+      {% if puzzle.date %}
+      <tr><td><b>Date</b> {{puzzle.date }}</td></tr>
+      {% endif %}
+      {% if puzzle.maker %}
+      <tr><td><b>Maker</b> {{puzzle.maker }}</td></tr>
+      {% endif %}
+      {% if puzzle.designer %}
+      <tr><td><b>Designer</b> {{puzzle.designer }}</td></tr>
+      {% endif %}
+      </table>
+      {% if puzzle.desc %}
+      <p>{{puzzle.desc }}</p>
+      {% endif %}
+    </div>
+  </article>
+
+{% endif %}
+{% endfor %}
+</main>
