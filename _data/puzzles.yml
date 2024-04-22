@@ -83,7 +83,7 @@
   tag: perplexity
 
 - name: IMP 15 Puzzle
-  img: none.jpg
+  img: IMG_6622.JPG
   type: Sliding
   maker: Modern Brands, Inc.
   date: 1933-1934
@@ -95,7 +95,7 @@
   material: plastic
 
 - name: Katzenjammer
-  img: none.jpg
+  img: IMG_6636.JPG
   type: Pattern
   material: wood
   designer: Frederick A. Schossow
@@ -148,7 +148,7 @@
   desc: "88 Lafayette Ave Brooklyn, N.Y. Patent Apl'd"
 
 - name: SwitchIt Mickey Mouse
-  img: none.jpg
+  img: IMG_6597.JPG
   type: Sliding
   material: plastic
   tag: switchit
@@ -159,24 +159,24 @@
   tag: instant insanity
 
 - name: Famous Number Puzzle
-  img: none.jpg
+  img: IMG_6613.JPG
   type: Sliding
 
 - name: Le Moulin Rouge
-  img: none.jpg
+  img: IMG_6639.JPG
   type: Sliding
 
 - name: Footsie
-  img: none.jpg
+  img: IMG_6608.JPG
   type: Pattern
   tag: instant insanity
 
 - name: Clark's Cube
-  img: none.jpg
+  img: IMG_6605.JPG
   type: Permutation
 
 - name: Japanese Puzzle Box
-  img: none.jpg
+  img: IMG_6612.JPG
   type: Puzzle Box
 
 - name: Rowland & Clark Horseshoes
@@ -192,8 +192,8 @@
   date: 1901
   event: Pan-American Exposition
 
-- name: Time
-  img: none.jpg
+- name: Time Puzzle
+  img: IMG_6614.JPG
   type: Sliding
 
 - name: Dog and Collar Puzzle
@@ -207,23 +207,25 @@
   designer: John D. Boyle
 
 - name: 15 Puzzle IMP (blue)
-  img: none.jpg
+  img: IMG_6623.JPG
   type: Sliding
+  desc: Somehow the 14 and 15 are reversed
 
 - name: One Way
   img: none.jpg
   type: Assembly
 
 - name: Shoe Button Hook
-  img: none.jpg
+  img: IMG_6624.JPG
   type: Tanglement
+  desc: Needs a second button hook to complete the puzzle.
 
 - name: Missing Link
   img: IMG_6553.JPG
   type: Permutation
 
 - name: Wooden Number Slide
-  img: none.jpg
+  img: IMG_6606.JPG
   type: Sliding
 
 - name: Keys
@@ -235,7 +237,7 @@
   type: Tanglement
 
 - name: Queen's Jubilee
-  img: none.jpg
+  img: IMG_6631.JPG
   type: Route Finding
   date: 1887
   event: Queen Victoria Golden Jubilee
@@ -246,7 +248,7 @@
   material: paper
 
 - name: Tower of Hanoi
-  img: none.jpg
+  img: IMG_6609.JPG
   type: Sequential Movement
 
 - name: Red Goose Shoes
@@ -270,15 +272,15 @@
   event: Chicago World's Fair
 
 - name: Chinese Puzzle (Germany)
-  img: none.jpg
+  img: IMG_6634.JPG
   type: Sliding
 
 - name: Le Taquin
-  img: none.jpg
+  img: IMG_6620.JPG
   type: Sliding
 
 - name: LifeSavers
-  img: none.jpg
+  img: IMG_6611.JPG
   type: Pattern
 
 - name: Mays Drug Store
@@ -290,30 +292,42 @@
   type: Tanglement
 
 - name: McLaughlin's Coffee XXXX
-  img: none.jpg
+  img: IMG_6637.JPG
   type: Pattern
   tag: instant insanity
 
 - name: Traffic Jam
-  img: none.jpg
+  img: IMG_6635.JPG
+  type: Sliding
+
+- name: Eskimo Pie
+  img: IMG_6638.JPG
+  type: Sliding
+
+- name: Frigidaire Jumble Puzzle
+  img: IMG_6640.JPG
   type: Sliding
 
 - name: Richter Anchor
-  img: none.jpg
+  img: IMG_6633.JPG
   type: Assembly
 
 - name: Pick-A-Peg
-  img: none.jpg
+  img: IMG_6645.JPG
   type: Disassembly
   material: wood
   designer: John D. Boyle
 
 - name: Dad's Puzzler
-  img: none.jpg
+  img: IMG_6641.JPG
+  type: Sliding
+
+- name: The Moving Puzzle
+  img: IMG_6642.JPG
   type: Sliding
 
 - name: Line Up the Quinties!
-  img: none.jpg
+  img: IMG_6615.JPG
   type: Sliding
 
 - name: Little Gem Bank
@@ -362,7 +376,7 @@
   type: Tanglement
 
 - name: Inversion
-  img: none.jpg
+  img: IMG_6604.JPG
   type: Permutation
 
 - name: Grandpa's Soap
@@ -372,12 +386,12 @@
   advert: Grandpa's Soap
 
 - name: SwitchIt Popeye
-  img: none.jpg
+  img: IMG_6598.JPG
   type: Sliding
   tag: switchit
 
-- name: Manouever (in the Stratagem range)
-  img: none.jpg
+- name: Manoeuver (in the Stratagem range)
+  img: IMG_6652.JPG
   type: Sliding
   maker: Startabord, Ltd.
   date: 1976
@@ -395,8 +409,8 @@
   img: IMG_6512.JPG
   type: Sliding
 
-- name: 14 puzzle
-  img: none.jpg
+- name: The 14 puzzle
+  img: IMG_6653.JPG
   type: Sliding
 
 - name: Tangram with Lacquer box
@@ -427,7 +441,7 @@
   advert: Champion Spark Plugs
 
 - name: Sputnik Peg
-  img: none.jpg
+  img: IMG_6646.JPG
   type: Disassembly
 
 - name: Dickinson's Witch Hazel
@@ -436,7 +450,7 @@
   material: paper
 
 - name: Bug House Checkerboard
-  img: none.jpg
+  img: IMG_6617.JPG
   type: Assembly
 
 - name: Skitzo
@@ -444,7 +458,7 @@
   type: Pattern
 
 - name: Poll Parrot Sliding Puzzle
-  img: none.jpg
+  img: IMG_6616.JPG
   type: Sliding
 
 - name: Harbison & Modica's Puzzle (Perplexity)
@@ -459,7 +473,7 @@
   type: Calendar
 
 - name: Mosaik Puzzle Germany
-  img: none.jpg
+  img: IMG_6618.JPG
   type: Assembly
 
 - name: Blocks of Five President Harrison
@@ -521,8 +535,12 @@
   type: Assembly
   material: paper
 
-- name: Tangram/Japanese 15-puzzle
-  img: none.jpg
+- name: Japanese 15-puzzle
+  img: IMG_6619.JPG
+  type: none
+
+- name: Tunbridge Tangram
+  img: IMG_6621.JPG
   type: none
 
 - name: Belgium Expo Calendar Medal
@@ -543,8 +561,9 @@
   material: paper
 
 - name: Uncle Sam's Divorce Puzzle
-  img: none.jpg
+  img: IMG_6632.JPG
   type: Route Finding
+  desc: Missing the ring but same as Queen's Jubilee
 
 - name: Project Genius Hidden Corridor
   img: none.jpg
@@ -555,7 +574,7 @@
   type: Permutation
 
 - name: Cadaco Cluster Puzzle
-  img: none.jpg
+  img: IMG_6600.JPG
   type: Assembly
 
 - name: Wit's End
@@ -630,7 +649,7 @@
   type: Tanglement
 
 - name: Rice Sausage Pig Kumiki
-  img: none.jpg
+  img: IMG_6603.JPG
   type: Interlocking
   material: plastic
 
@@ -659,7 +678,7 @@
   material: paper
 
 - name: Consul the Educated Monkey
-  img: none.jpg
+  img: IMG_6599.JPG
   type: Calculator
 
 - name: 2 Witch Hazel Mail Advertisement
@@ -690,7 +709,7 @@
   maker: California Association of Ice Industries
 
 - name: Crazy Elephant Dance
-  img: none.jpg
+  img: IMG_6654.JPG
   type: Sequential Movement
 
 - name: Burns Vesta Box
@@ -752,7 +771,7 @@
   maker: Puzzletts
 
 - name: Gordian's Knot
-  img: none.jpg
+  img: IMG_6602.JPG
   type: Interlocking
   maker: ThinkFun
 
@@ -848,8 +867,9 @@
   type: Tanglement
 
 - name: WJ Wolf 2 Ring Puzzle
-  img: none.jpg
+  img: IMG_6626.JPG
   type: Tanglement
+  desc: Missing the connecting piece
 
 - name: ICS 2600 Year Calendar FOB Medal
   img: IMG_6507.jpeg
@@ -890,8 +910,8 @@
   img: none.jpg
   type: Tanglement
 
-- name: Whistle Stop
-  img: none.jpg
+- name: Whistle Stop Puzzle
+  img: IMG_6655.JPG
   type: Sliding
   tag: shunting
   maker: Pentangle
@@ -907,7 +927,7 @@
   material: papear
 
 - name: Spongebob Burger King Sliding Puzzle
-  img: none.jpg
+  img: IMG_6651.JPG
   type: Permutation
   material: plastic
   maker: Burger King
@@ -937,7 +957,7 @@
   tag: vesta
 
 - name: Shackman Nut and Bolt Puzzle
-  img: none.jpg
+  img: IMG_6647.JPG
   type: Disassembly
 
 - name: Double Treble Clef
@@ -945,9 +965,17 @@
   type: Tanglement
   maker: Pentangle
 
-- name: Lattice and Sardine
+- name: Lattice
+  img: IMG_6643.JPG
+  type: Interlocking
+
+- name: Sardine
   img: none.jpg
   type: none
+
+- name: "Knit-Wit"
+  img: IMG_6610.JPG
+  type: Assembly
 
 - name: Hickman's Family Farms Egg Puzzle
   img: none.jpg
@@ -1000,7 +1028,7 @@
   maker: Karakuri Creation Group
 
 - name: Japanese Magic Box
-  img: none.jpg
+  img: IMG_6644.JPG
   type: Puzzle Box
 
 - name: George VI Coronation
@@ -1023,7 +1051,7 @@
   type: Tanglement
 
 - name: Chad Valley Daily Mail World Record
-  img: none.jpg
+  img: IMG_6650.JPG
   type: Pattern
   material: paper
 
@@ -1032,7 +1060,11 @@
   type: Disassembly
 
 - name: Boss Puzzle
-  img: none.jpg
+  img: IMG_6648.JPG
+  type: Sliding
+
+- name: The 15 Gem Puzzle
+  img: IMG_6649.JPG
   type: Sliding
 
 - name: Dickinson's Witch Hazel Square Puzzle
@@ -1055,7 +1087,7 @@
   material: brass
 
 - name: SwitchIt Rescuers
-  img: none.jpg
+  img: IMG_6596.JPG
   type: Sliding
   tag: switchit
 
@@ -1083,7 +1115,7 @@
   material: paper
 
 - name: SOMA
-  img: none.jpg
+  img: IMG_6601.JPG
   type: Assembly
   designer: Piet Hein
   maker: Skjøde of Skjern for Parker Brothers, Inc.
