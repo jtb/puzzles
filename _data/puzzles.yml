@@ -44,7 +44,7 @@
   tag: shunting
 
 - name: Zauberkreuz (Magic Cross)
-  img: none.jpg
+  img: IMG_6781.JPG
   type: Permutation
   material: plastic
   designer: Athanasios Margaritis
@@ -54,7 +54,7 @@
   desc: Sold on the 125th anniversary of the Red Cross (1988)
 
 - name: Think-A-Dot
-  img: none.jpg
+  img: IMG_6794.JPG
   type: Calculator
   designer: Joseph Weisbecker
   maker: E.S.R., Inc.
@@ -63,7 +63,7 @@
   material: plastic
 
 - name: Spin•Out
-  img: none.jpg
+  img: IMG_6797.JPG
   type: Sequential Movement
   designer: William Keister
   maker: Binary Arts
@@ -344,7 +344,7 @@
   type: Bank
 
 - name: Top Spin
-  img: none.jpg
+  img: IMG_6799.JPG
   type: Permutation
 
 - name: Oskar's Cube
@@ -521,21 +521,24 @@
   type: Interlocking
   material: wood
 
-- name: Hanayama Baroq
-  img: none.jpg
+- name: Baroq
+  img: IMG_6788.JPG
   type: Tanglement
+  maker: Hanayama
 
-- name: Project Genius Waiter's Tray
-  img: none.jpg
+- name: Waiter's Tray
+  img: IMG_6790.JPG
   type: Sequential Movement
+  maker: Project Genius
+  designer: Jean Claude Constantin
 
 - name: Marble
-  img: none.jpg
+  img: IMG_6787.JPG
   type: Disassembly
   maker: Hanayama
 
 - name: O'Gear
-  img: none.jpg
+  img: IMG_6786.JPG
   type: Route Finding
   maker: Hanayama
 
@@ -595,7 +598,7 @@
 
 - name: Hunter Baltimore Rye Horse & Rider
   img: IMG_6707.JPG
-  type: Pattern 
+  type: Pattern
   material: paper
 
 - name: Uncle Sam's Divorce Puzzle
@@ -603,9 +606,11 @@
   type: Route Finding
   desc: Missing the ring but same as Queen's Jubilee
 
-- name: Project Genius Hidden Corridor
-  img: none.jpg
+- name: Hidden Corridor
+  img: IMG_6791.JPG
   type: Sequential Movement
+  maker: Project Genius
+  designer: Jean Claude Constantin
 
 - name: Hungarian Rings 2
   img: none.jpg
@@ -662,9 +667,10 @@
   img: IMG_6746.JPG
   type: Tanglement
 
-- name: ThinkFun Fifth Chair
-  img: none.jpg
+- name: Fifth Chair
+  img: IMG_6789.JPG
   type: Assembly
+  maker: ThinkFun
 
 - name: Fairmont Creamery Puzzle
   img: IMG_6712.JPG
@@ -672,7 +678,7 @@
   material: paper
 
 - name: Loony Loop
-  img: none.jpg
+  img: IMG_6784.JPG
   type: Tanglement
 
 - name: Turing Tumble
@@ -689,9 +695,10 @@
   type: Sequential Movement
   maker: Onietoiy
 
-- name: Project Genius Egyptian Coin Trade
-  img: none.jpg
+- name: Egyptian Coin Trade
+  img: IMG_6800.JPG
   type: Sliding
+  maker: Project Genius
 
 - name: Electro No. 1
   img: IMG_6546.JPG
@@ -870,18 +877,18 @@
   img: none.jpg
   type: Tanglement
 
-- name: Brain
-  img: none.jpg
+- name: The Brain Puzzler
+  img: IMG_6792.JPG
   type: Sequential Movement
   maker: Magnif
 
 - name: 3 dimensional Cross Puzzle
-  img: none.jpg
+  img: IMG_6785.JPG
   type: Interlocking
   maker: Magnif
 
 - name: 3 dimensional Star Puzzle
-  img: none.jpg
+  img: IMG_6782.JPG
   type: Interlocking
   maker: Magnif
 
@@ -1022,6 +1029,12 @@
 - name: Amazing Dr. Nim
   img: none.jpg
   type: Calculator
+  maker: E.S.R., Inc.
+
+- name: Digi-Comp 1
+  img: IMG_6795.JPG
+  maker: E.S.R., Inc.
+  type: Calculator
 
 - name: Uncles Rope
   img: IMG_6745.JPG
@@ -1039,9 +1052,10 @@
   material: paper
 
 - name: WW2 Bombing Mystery Puzzle
-  img: none.jpg
+  img: IMG_6793.JPG
   type: Assembly
   material: papear
+  date: 1943
 
 - name: Spongebob Burger King Sliding Puzzle
   img: IMG_6651.JPG
@@ -1104,7 +1118,7 @@
   designer: Oskar van Deventer
 
 - name: Shackman Maze Puzzle
-  img: none.jpg
+  img: IMG_6783.JPG
   type: Route Finding
 
 - name: Mysterious Ball Bandsaw Puzzle
@@ -1112,7 +1126,7 @@
   type: Assembly
 
 - name: Stark Raving Cubes
-  img: none.jpg
+  img: IMG_6798.JPG
   type: Assembly
 
 - name: Dragon Egg
@@ -1212,9 +1226,11 @@
   patent: US4553754
 
 - name: Houdini's Torture Cell
-  img: none.jpg
+  img: IMG_6801.JPG
   type: Disassembly
   material: brass
+  maker: Puzzle Master
+  designer: Brian Young
 
 - name: SwitchIt Rescuers
   img: IMG_6596.JPG
