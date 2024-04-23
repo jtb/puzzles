@@ -1,5 +1,5 @@
 <main class="cards">
-{% assign sorted_puzzles = site.data.puzzles | sort: 'material' |reverse  %}
+{% assign sorted_puzzles = site.data.puzzles | sort: 'material'  %}
 {% for puzzle in sorted_puzzles %}
 {% if puzzle.type contains include.type or include.type == "all" %}
 {% if puzzle.img != 'none.jpg' and puzzle.type != 'Calendar' %}

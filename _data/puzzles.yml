@@ -703,6 +703,7 @@
 - name: Electro No. 1
   img: IMG_6546.JPG
   type: Tanglement
+  maker: Tenyo
 
 - name: Rice Sausage Pig Kumiki
   img: IMG_6603.JPG
@@ -811,22 +812,22 @@
   material: paper
 
 - name: 'Computer Puzzler #1'
-  img: none.jpg
+  img: IMG_6755.JPG
   type: Tanglement
   maker: Tenyo
 
 - name: 'Computer Puzzler #2'
-  img: none.jpg
+  img: IMG_6754.JPG
   type: Tanglement
   maker: Tenyo
 
 - name: 'Computer Puzzler #3'
-  img: none.jpg
+  img: IMG_6757.JPG
   type: Tanglement
   maker: Tenyo
 
 - name: 'Computer Puzzler #4'
-  img: none.jpg
+  img: IMG_6756.JPG
   type: Tanglement
   maker: Tenyo
 
