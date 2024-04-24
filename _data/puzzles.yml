@@ -6,6 +6,7 @@
   patent: US3721448
   type: Interlocking
   material: plastic
+  tag: coffin
 
 - name: Sword-in-the-Stone
   img: sword_in_the_stone.jpg
@@ -51,7 +52,7 @@
   maker: Red Cross
   date: 1988
   patent: DE3711368A1
-  desc: Sold on the 125th anniversary of the Red Cross (1988)
+  desc: Sold on the 125th anniversary of the Red Cross
 
 - name: Think-A-Dot
   img: IMG_6794.JPG
@@ -61,6 +62,7 @@
   patent: US3388483
   date: 1965
   material: plastic
+  tag: esr
 
 - name: Spin•Out
   img: IMG_6797.JPG
@@ -115,6 +117,7 @@
   material: paper
   advert: Standard Screw
   desc: Bought these separately, missing the jockey
+  tag: donkey
 
 - name: Avenger
   img: IMG_6660.JPG
@@ -124,7 +127,7 @@
   date: 1986
   patent: US4415158
   material: plastic
-  desc: In Puzzler series (Novice, Challenger, Avenger)
+  desc: "In Puzzler series: Novice, Challenger, Avenger"
 
 - name: Entrapment
   img: IMG_6543.JPG
@@ -170,19 +173,26 @@
 - name: Le Moulin Rouge
   img: IMG_6639.JPG
   type: Sliding
+  maker: Jeux et Jouets Francais
+  tag: jjf
 
 - name: Footsie
   img: IMG_6608.JPG
   type: Pattern
-  tag: instant insanity
+  maker: Onsworld Ltd
+  date: 1980
 
 - name: Clark's Cube
   img: IMG_6605.JPG
   type: Permutation
+  designer: William H. Clark
+  patent: US4424971
+  maker: Innoventures Inc.
 
 - name: Japanese Puzzle Box
   img: IMG_6612.JPG
   type: Puzzle Box
+  tag: japanese
 
 - name: Rowland & Clark Horseshoes
   img: IMG_6500.jpeg
@@ -196,10 +206,15 @@
   material: metal plate
   date: 1901
   event: Pan-American Exposition
+  patent: USD35115
+  designer: John C. Foester
 
 - name: Time Puzzle
   img: IMG_6614.JPG
   type: Sliding
+  maker: Embossing Company
+  patent: US1989411
+  designer: Tom C Graham, Walter J Fletcher
 
 - name: Dog and Collar Puzzle
   img: IMG_6561.JPG
@@ -208,8 +223,10 @@
 
 - name: TakItAPart
   img: IMG_6518.JPG
+  material: wood
   type: Disassembly
   designer: John D. Boyle
+  tag: boyle
 
 - name: 15 Puzzle IMP (blue)
   img: IMG_6623.JPG
@@ -219,6 +236,8 @@
 - name: One Way
   img: IMG_6682.JPG
   type: Assembly
+  maker: Milton Bradley
+  material: plastic
 
 - name: Shoe Button Hook
   img: IMG_6624.JPG
@@ -228,6 +247,9 @@
 - name: Missing Link
   img: IMG_6553.JPG
   type: Permutation
+  designer: Steven P. Hanson and Jeffrey D. Breslow
+  patent: US4373729
+  maker: Ideal
 
 - name: Wooden Number Slide
   img: IMG_6606.JPG
@@ -236,21 +258,18 @@
 - name: Keys
   img: IMG_6498.jpeg
   type: Tanglement
+  material: cast
 
 - name: Keys (2)
   img: IMG_6499.jpeg
   type: Tanglement
+  material: cast
 
 - name: Queen's Jubilee
   img: IMG_6631.JPG
   type: Route Finding
   date: 1887
   event: Queen Victoria Golden Jubilee
-
-- name: Horse and Jockey Print Ad
-  img: none.jpg
-  type: Assembly
-  material: paper
 
 - name: Tower of Hanoi
   img: IMG_6609.JPG
@@ -260,15 +279,17 @@
   img: none.jpg
   type: Tanglement
 
-- name: Donkey Shackman Postcard (reproduction)
+- name: Donkey Shackman Postcard
   img: IMG_6702.JPG
   type: Assembly
   material: paper
+  tag: donkey
 
 - name: Donkey Hotel Dixie Postcard
   img: IMG_6701.JPG
   type: Assembly
   material: paper
+  tag: donkey
 
 - name: Century of Progress
   img: IMG_6515.JPG
@@ -283,6 +304,8 @@
 - name: Le Taquin
   img: IMG_6620.JPG
   type: Sliding
+  maker: Jeux et Jouets Francais
+  tag: jjf
 
 - name: LifeSavers
   img: IMG_6611.JPG
@@ -300,6 +323,7 @@
   img: IMG_6637.JPG
   type: Pattern
   tag: instant insanity
+  advert: McLaughlin's Coffee XXXX
 
 - name: Traffic Jam
   img: IMG_6635.JPG
@@ -308,10 +332,12 @@
 - name: Eskimo Pie
   img: IMG_6638.JPG
   type: Sliding
+  advert: Eskimo Pie
 
 - name: Frigidaire Jumble Puzzle
   img: IMG_6640.JPG
   type: Sliding
+  advert: Frigidaire
 
 - name: Richter Anchor
   img: IMG_6633.JPG
@@ -322,10 +348,12 @@
   type: Disassembly
   material: wood
   designer: John D. Boyle
+  tag: boyle
 
 - name: Dad's Puzzler
   img: IMG_6641.JPG
   type: Sliding
+  tag: dads
 
 - name: The Moving Puzzle
   img: IMG_6642.JPG
@@ -334,6 +362,7 @@
 - name: Line Up the Quinties!
   img: IMG_6615.JPG
   type: Sliding
+  desc: Riding off the popularity of the Dionne quintuplets
 
 - name: Little Gem Bank
   img: IMG_6560.JPG
@@ -434,6 +463,7 @@
 - name: Flying Puzzle
   img: IMG_6512.JPG
   type: Sliding
+  tag: flying
 
 - name: The 14 puzzle
   img: IMG_6653.JPG
@@ -443,9 +473,10 @@
   img: none.jpg
   type: Assembly
 
-- name: white eagle slide puzzle
+- name: White Eagle
   img: IMG_6690.JPG
   type: Sliding
+  advert: White Eagle Mobile Gas
 
 - name: Chicken and Egg Puzzle
   img: IMG_6708.JPG
@@ -474,16 +505,19 @@
   img: IMG_6710.JPG
   type: Patter
   material: paper
+  tag: donkey
 
 - name: "Ride 'Em Cowboys! Horse & Rider"
   img: IMG_6711.JPG
   type: Patter
   material: paper
+  tag: donkey
 
 - name: Dickinson's Witch Hazel Cross
   img: IMG_6694.JPG
   type: Assembly
   material: paper
+  tag: witchhazel
 
 - name: Bug House Checkerboard
   img: IMG_6617.JPG
@@ -493,9 +527,10 @@
   img: IMG_6721.JPG
   type: Pattern
 
-- name: Poll Parrot Sliding Puzzle
+- name: Poll Parrot
   img: IMG_6616.JPG
   type: Sliding
+  advert: Poll Parrot Shoes
 
 - name: Harbison & Modica's Puzzle (Perplexity)
   img: IMG_6509.jpeg
@@ -520,27 +555,36 @@
   img: IMG_6672.JPG
   type: Interlocking
   material: wood
+  tag: japanese
 
 - name: Baroq
   img: IMG_6788.JPG
   type: Tanglement
   maker: Hanayama
+  material: cast
+  tag: hanayama
 
 - name: Waiter's Tray
   img: IMG_6790.JPG
   type: Sequential Movement
   maker: Project Genius
   designer: Jean Claude Constantin
+  tag: constantin
 
 - name: Marble
   img: IMG_6787.JPG
   type: Disassembly
   maker: Hanayama
+  material: cast
+  tag: hanayama
 
 - name: O'Gear
   img: IMG_6786.JPG
   type: Route Finding
   maker: Hanayama
+  designer: Oskar van Deventer
+  material: cast
+  tag: hanayama
 
 - name: David's Perpetual Calendar
   img: IMG_6718.JPG
@@ -575,10 +619,12 @@
   img: IMG_6716.JPG
   type: Assembly
   material: paper
+  tag: donkey
 
 - name: Japanese 15-puzzle
   img: IMG_6619.JPG
   type: none
+  tag: japanese
 
 - name: Tunbridge Tangram
   img: IMG_6621.JPG
@@ -600,6 +646,7 @@
   img: IMG_6707.JPG
   type: Pattern
   material: paper
+  tag: donkey
 
 - name: Uncle Sam's Divorce Puzzle
   img: IMG_6632.JPG
@@ -611,6 +658,7 @@
   type: Sequential Movement
   maker: Project Genius
   designer: Jean Claude Constantin
+  tag: constantin
 
 - name: Hungarian Rings 2
   img: none.jpg
@@ -624,15 +672,19 @@
   img: IMG_6665.JPG
   type: Tanglement
 
-- name: Van Houten Violin
+- name: Violin
   img: IMG_6697.JPG
   type: Tanglement
   material: paper
+  advert: Van Houten
+  tag: vanhouten
 
 - name: "Van Houten's Septum Puzzle"
   img: IMG_6724.JPG
   type: Sliding
   material: paper
+  advert: Van Houten
+  tag: vanhouten
 
 - name: Dellwood Creami-Rich Planets
   img: IMG_6725.JPG
@@ -663,9 +715,11 @@
   type: Sliding
   maker: Binary Arts
 
-- name: Dirty Dog Tavern
+- name: Dirty Dog
   img: IMG_6746.JPG
   type: Tanglement
+  maker: Tavern Puzzle
+  tag: tavern
 
 - name: Fifth Chair
   img: IMG_6789.JPG
@@ -680,15 +734,20 @@
 - name: Loony Loop
   img: IMG_6784.JPG
   type: Tanglement
+  maker: The Loony Loop Co
+  patent: USD172310
+  designer: Hansel King Riddle
 
 - name: Turing Tumble
   img: IMG_6657.JPG
   type: Calculator
+  maker: Upper Story
 
-- name: Chilian Phenyo Caffein
+- name: Chilian
   img: IMG_6562.JPG
   type: Tanglement
   material: wire
+  advert: Phenyo Caffein
 
 - name: Onietoiy Nine Ring
   img: IMG_6541.JPG
@@ -699,6 +758,7 @@
   img: IMG_6800.JPG
   type: Sliding
   maker: Project Genius
+  designer: Oskar van Deventer
 
 - name: Electro No. 1
   img: IMG_6546.JPG
@@ -710,15 +770,19 @@
   type: Interlocking
   material: plastic
 
-- name: Van Houten Thought Reader
+- name: Thought Reader
   img: IMG_6714.JPG
   type: Calculator
   material: paper
+  advert: Van Houten
+  tag: vanhouten
 
 - name: Trick Bolts
   img: IMG_6666.JPG
   type: Disassembly
   maker: Lee Valley Tools Ltd.
+  material: bolt
+  tag: bolt
 
 - name: Chinese Tangram
   img: IMG_6684.JPG
@@ -729,40 +793,47 @@
   type: Disassembly
   material: wood
   designer: John D. Boyle
+  tag: boyle
 
 - name: Four Block Lock
   img: IMG_6668.JPG
   maker: Toys From Times Past
   type: Disassembly
   material: wood
+  tag: times past
 
 - name: Y-Knot Puzzle
   img: IMG_6669.JPG
   maker: Toys From Times Past
   type: Disassembly
   material: wood
+  tag: times past
 
 - name: What Four Puzzle
   img: IMG_6670.JPG
   maker: Toys From Times Past
   type: Disassembly
   material: wood
+  tag: times past
 
 - name: "Do Nothin' Machine"
   img: IMG_6671.JPG
   maker: Toys From Times Past
   type: Calculator
   material: wood
+  tag: times past
 
-- name: "Do Nothing Machine"
+- name: "Trammel of Archimedes"
   img: IMG_6673.JPG
   type: Calculator
   material: wood
+  desc: traces path of ellipse
 
 - name: Witch Hazel Cats
   img: IMG_6696.JPG
   type: Assembly
   material: paper
+  tag: witchhazel
 
 - name: Consul the Educated Monkey
   img: IMG_6599.JPG
@@ -773,6 +844,7 @@
   img: IMG_6766.JPG
   type: Pattern
   material: paper
+  tag: witchhazel
 
 - name: Troon Vesta Box
   img: IMG_6495.jpeg
@@ -787,6 +859,8 @@
   img: none.jpg
   type: Tanglement
   maker: Hanayama
+  material: cast
+  tag: hanayama
 
 - name: The Famous T Puzzle
   img: IMG_6695.JPG
@@ -800,6 +874,9 @@
 - name: Crazy Elephant Dance
   img: IMG_6654.JPG
   type: Sequential Movement
+  designer: Samuel Farinas
+  maker: Samuel Farinas
+  desc: Bought directly from Samuel
 
 - name: Burns Vesta Box
   img: IMG_6496.jpeg
@@ -810,6 +887,9 @@
   img: IMG_6765.JPG
   type: Pattern
   material: paper
+  designer: Pat Lyons
+  maker: W. A. Elliott Co.
+  date: 1968
 
 - name: 'Computer Puzzler #1'
   img: IMG_6755.JPG
@@ -872,7 +952,7 @@
 - name: "Hugh's Double Square Knob Puzzle"
   img: IMG_6727.JPG
   type: Tanglement
-  desc: I think it should say Knot. Maybe typo?
+  desc: SQUARE KNOT PUZZLE PAT.MCH.7.99
 
 - name: Faith, Hope, Charity
   img: none.jpg
@@ -914,49 +994,54 @@
   img: none.jpg
   type: Tanglement
   maker: Tavern Puzzle
+  tag: tavern
 
-- name: Sherms 8 point puzzle
+- name: 8 point puzzle
   img: IMG_6703.JPG
   type: Sliding
   material: paper
+  maker: Sherms
 
 - name: Star Puzzle
   img: IMG_6704.JPG
   type: Sliding
   material: paper
+  advert: Hood's Sarsaparilla
 
 - name: Instant Indecision
   img: IMG_6748.JPG
   type: Pattern
+  material: plastic
 
 - name: Handmade Airplane
   img: IMG_6749.JPG
   type: Tanglement
   material: wire
+  tag: handmade
 
 - name: Handmade Wire
   img: IMG_6750.JPG
   type: Tanglement
   material: wire
+  tag: handmade
 
 - name: Handmade Cross Wire
   img: IMG_6761.JPG
   type: Tanglement
   material: wire
+  tag: handmade
 
 - name: Handmade Hearts
   img: IMG_6759.JPG
   type: Tanglement
   material: wire
+  tag: handmade
 
-- name: Foot, Schulze, and Co. Playfield Shoes
+- name: Shoe
   img: IMG_6698.JPG
   type: Tanglement
   material: paper
-
-- name: Hood's Sarsaparilla
-  img: none.jpg
-  type: none
+  advert: Foot, Schulze, and Co. Playfield Shoes
 
 - name: Peter Pastime Puzzle Box + metal puzzles
   img: none.jpg
@@ -1014,9 +1099,11 @@
   img: IMG_6680.JPG
   type: Route Finding
 
-- name: Devil's Stirrup Tavern
+- name: Devil's Stirrup
   img: IMG_6747.JPG
   type: Tanglement
+  maker: Tavern Puzzle
+  tag: tavern
 
 - name: Farmers Puzzle Bone Ferilizer
   img: IMG_6706.JPG
@@ -1031,11 +1118,13 @@
   img: none.jpg
   type: Calculator
   maker: E.S.R., Inc.
+  tag: esr
 
 - name: Digi-Comp 1
   img: IMG_6795.JPG
   maker: E.S.R., Inc.
   type: Calculator
+  tag: esr
 
 - name: Uncles Rope
   img: IMG_6745.JPG
@@ -1070,10 +1159,11 @@
   type: Disassembly
   maker: Bits & Pieces
 
-- name: Wilber H Murray Mfg. Ten Card Puzzle promo buggy & harness
+- name:  Ten Card Puzzle buggy & harness
   img: IMG_6687.JPG
   type: Assembly
   material: paper
+  advert: Wilber H Murray Mfg.
 
 - name: Louisiana Purchase Exposition
   img: IMG_6508.jpeg
@@ -1091,6 +1181,8 @@
 - name: Shackman Nut and Bolt Puzzle
   img: IMG_6647.JPG
   type: Disassembly
+  material: bolt
+  tag: bolt
 
 - name: Double Treble Clef
   img: IMG_6547.JPG
@@ -1113,7 +1205,7 @@
   img: none.jpg
   type: Disassembly
 
-- name: Van Deventer Matchbox
+- name: "Oskar's Matchboxes"
   img: IMG_6679.JPG
   type: Assembly
   designer: Oskar van Deventer
@@ -1129,14 +1221,16 @@
 - name: Stark Raving Cubes
   img: IMG_6798.JPG
   type: Assembly
+  designer: Bill Cutler
 
 - name: Dragon Egg
   img: IMG_6549.JPG
   type: Disassembly
 
-- name: Gibson International Box of Metal Puzzles
+- name: International Box of Metal Puzzles
   img: none.jpg
   type: Tanglement
+  maker: Gibson
 
 - name: Zig-Zag
   img: IMG_6548.JPG
@@ -1156,24 +1250,31 @@
   img: IMG_6674.JPG
   type: Puzzle Box
   maker: Karakuri Creation Group
+  tag: Karakuri
 
 - name: 'Karakui Small Box #2'
   img: IMG_6675.JPG
   type: Puzzle Box
   maker: Karakuri Creation Group
+  tag: Karakuri
 
 - name: Japanese Magic Box
   img: IMG_6644.JPG
   type: Puzzle Box
+  tag: japanese
 
 - name: Japanese Kumiki
   img: IMG_6676.JPG
   type: Interlocking
   material: wood
+  tag: japanese
 
 - name: Twelve Piece Separation
   img: IMG_6677.JPG
   designer: Stewart Coffin
+  maker: Moeller and Son, Artifactory Puzzles
+  material: wood
+  tag: coffin
 
 
 - name: George VI Coronation
@@ -1187,22 +1288,26 @@
   type: Assembly
   maker: Bits & Pieces
 
-- name: Popular Puzzle Compendium Journet
+- name: Popular Puzzle Compendium
   img: none.jpg
   type: Tanglement
+  maker: Journet
 
-- name: '"Family" Compendium Of Puzzles Journet'
+- name: '"Family" Compendium Of Puzzles'
   img: none.jpg
   type: Tanglement
+  maker: Journet
 
-- name: Chad Valley Daily Mail World Record
+- name: Daily Mail World Record
   img: IMG_6650.JPG
   type: Pattern
   material: paper
+  maker: Chad Valley
 
 - name: Haselgrove Box
   img: IMG_6681.JPG
   type: Disassembly
+  designer: Jennifer Haselgrove
 
 - name: Boss Puzzle
   img: IMG_6648.JPG
@@ -1216,6 +1321,7 @@
   img: IMG_6693.JPG
   type: Assembly
   material: paper
+  tag: witchhazel
 
 - name: Atomix (Orb)
   img: IMG_6522.JPG
@@ -1251,31 +1357,38 @@
   material: plastic, 3d printed
   type: Interlocking
 
-- name: Atomic Chaos (Kaos)
+- name: "Atomic Chaos/Kaos"
   img: IMG_6544.JPG
   type: Permutation
   material: plastic
+  patent: US5176382
+  designer: Christoph Hausammann
 
-- name: Chocolat Lombart Paper Puzzle
+- name: Chocolat Lombart
   img: none.jpg
   type: Assembly
   material: paper
+  advert: Chocolat Lombart
 
 - name: SOMA
   img: IMG_6601.JPG
   type: Assembly
   designer: Piet Hein
-  maker: Skjøde of Skjern for Parker Brothers, Inc.
+  maker: Skjøde of Skjern
 
 - name: 'The Who #305'
   img: IMG_6768.JPG
   type: Tanglement
   material: wire
+  maker: Wally Lee
+  tag: wallylee
 
 - name: 'The Snail #607'
   img: IMG_6767.JPG
   type: Tanglement
   material: wire
+  maker: Wally Lee
+  tag: wallylee
 
 - name: Spiral and Bent Sword
   img: IMG_6769.JPG
@@ -1285,6 +1398,8 @@
 - name: Chaotic Cube
   img: none.jpg
   type: Pattern
+  maker: Nintendo
+  desc: before Nintendo was known for video games
 
 - name: Jefferson County Fair 1885
   img: IMG_6685.JPG
@@ -1293,10 +1408,11 @@
   date: 1885
   event: Jefferson County Fair
 
-- name: Flying Puzzle. Keeps you up in the air
+- name: Flying Puzzle (Modern)
   img: IMG_6519.JPG
   type: Sliding
   material: wood
+  tag: flying
 
 - name: Link the Link
   img: IMG_6497.jpeg

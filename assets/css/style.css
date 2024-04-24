@@ -95,20 +95,20 @@ article#book.card {
     }
 
     p {
-      font-size: 30px;
+      font-size: 25px;
     }
 
-    h2 {
-      font-size: 30px;
-      font-weight: bold;
-    }
-
-    h3 {
+    .content h2 {
       font-size: 30px;
       font-weight: bold;
     }
 
-    .sidebar {
+    .content h3 {
+      font-size: 30px;
+      font-weight: bold;
+    }
+
+    .sidebar li {
       font-size: 40px;
     }
 
@@ -117,4 +117,29 @@ article#book.card {
       font-size: 30px;
     }
     */
+
+/* Style the header */
+.headerz {
+  padding: 10px 16px;
+  background: #555;
+  color: #f1f1f1;
+}
+
+/* Page content */
+.content {
+  padding: 16px;
+}
+
+/* The sticky class is added to the header with JS when it reaches its scroll position */
+.sticky {
+  position: fixed;
+  top: 0;
+  width: 100%
+}
+
+/* Add some top padding to the page content to prevent sudden quick movement (as the header gets a new position at the top of the page (position:fixed and top:0) */
+.sticky + .content {
+  padding-top: 102px;
+}
+
 }

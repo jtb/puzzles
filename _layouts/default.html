@@ -95,13 +95,15 @@
 
 <div class="w3-main" style="margin-left:300px">
 <div class="w3-brown">
-  <button class="w3-button w3-light-grey w3-jumbo w3-hide-large" onclick="w3_open()">&#9776;</button>
-  <div class="w3-container" style="font-size:100px">
+<div class="headerz" id="myHeader" style="font-size:100px;background-color:#795548">
+  <button class="w3-button w3-brown w3-xxxlarge w3-hide-large" onclick="w3_open()" style="float: right;">&#9776;</button>
     <h1 style="font-size: 50px;">Puzzling Pastimes</h1>
-  </div>
+</div>
 </div>
 
+<div class="content">
 {{ content }}
+</div>
 
 </div>
 
@@ -112,6 +114,24 @@ function w3_open() {
 
 function w3_close() {
   document.getElementById("mySidebar").style.display = "none";
+}
+
+// When the user scrolls the page, execute myFunction
+window.onscroll = function() {myFunction()};
+
+// Get the header
+var header = document.getElementById("myHeader");
+
+// Get the offset position of the navbar
+var sticky = header.offsetTop;
+
+// Add the sticky class to the header when you reach its scroll position. Remove "sticky" when you leave the scroll position
+function myFunction() {
+  if (window.pageYOffset > sticky) {
+    header.classList.add("sticky");
+  } else {
+    header.classList.remove("sticky");
+  }
 }
 </script>
 
