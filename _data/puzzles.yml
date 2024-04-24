@@ -95,6 +95,7 @@
   maker: Modern Brands, Inc.
   date: 1933-1934
   material: metal
+  tag: tile fifteen
 
 - name: Loyd's 15
   img: none.jpg
@@ -178,7 +179,6 @@
   img: IMG_6639.JPG
   type: Sliding
   maker: Jeux et Jouets Francais
-  tag: jjf
   material: paper
 
 - name: Footsie
@@ -224,6 +224,7 @@
   patent: US1989411
   designer: Tom C Graham, Walter J Fletcher
   material: wood
+  tag: tile time
 
 - name: Dog and Collar Puzzle
   img: IMG_6561.JPG
@@ -242,6 +243,7 @@
   type: Sliding
   desc: Somehow the 14 and 15 are reversed
   material: metal
+  tag: tile fifteen
 
 - name: One Way
   img: IMG_6682.JPG
@@ -313,17 +315,19 @@
   date: 1933-1934
   event: Chicago World's Fair
   material: wood
+  tag: tile century
 
 - name: Chinese Puzzle (Germany)
   img: IMG_6634.JPG
   type: Sliding
   material: wood
+  tag: tile fifteen
 
 - name: Le Taquin
   img: IMG_6620.JPG
   type: Sliding
   maker: Jeux et Jouets Francais
-  tag: jjf
+  tag: tile fifteen
   material: wood
 
 - name: LifeSavers
@@ -352,18 +356,21 @@
   img: IMG_6635.JPG
   type: Sliding
   material: wood
+  tag: tile traffic
 
 - name: Eskimo Pie
   img: IMG_6638.JPG
   type: Sliding
   advert: Eskimo Pie
   material: wood
+  tag: tile dads
 
 - name: Frigidaire Jumble Puzzle
   img: IMG_6640.JPG
   type: Sliding
   advert: Frigidaire
-  material: paper
+  material: wood
+  tag: tile dads
 
 - name: Richter Anchor
   img: IMG_6633.JPG
@@ -380,19 +387,21 @@
 - name: Dad's Puzzler
   img: IMG_6641.JPG
   type: Sliding
-  tag: dads
+  tag: tile dads
   material: wood
 
 - name: The Moving Puzzle
   img: IMG_6642.JPG
   type: Sliding
   material: wood
+  tag: tile dads
 
 - name: Line Up the Quinties!
   img: IMG_6615.JPG
   type: Sliding
   desc: Riding off the popularity of the Dionne quintuplets
   material: wood
+  tag: tile quinties
 
 - name: Little Gem Bank
   img: IMG_6560.JPG
@@ -505,11 +514,12 @@
   img: IMG_6514.JPG
   type: Sliding
   material: wood
+  tag: tile goat
 
 - name: Flying Puzzle
   img: IMG_6512.JPG
   type: Sliding
-  tag: flying
+  tag: tile flying
   material:  wood
 
 - name: The 14 puzzle
@@ -527,6 +537,7 @@
   type: Sliding
   advert: White Eagle Mobile Gas
   material: paper
+  tag: tile fifteen
 
 - name: Chicken and Egg Puzzle
   img: IMG_6708.JPG
@@ -588,6 +599,7 @@
   type: Sliding
   advert: Poll Parrot Shoes
   material: wood
+  tag: tile dads
 
 - name: Harbison & Modica's Puzzle (Perplexity)
   img: IMG_6509.jpeg
@@ -609,10 +621,13 @@
   img: IMG_6516.JPG
   type: Sliding
   material: wood
+  date: 1891
+  tag: tile harrison
+  desc: Blaine is in. How can Harrison get him out?
 
 - name: Japanese Weave Puzzle
   img: IMG_6672.JPG
-  type: Interlocking
+  type: Assembly
   material: wood
   tag: weave
 
@@ -774,18 +789,21 @@
   type: Sliding
   maker: Binary Arts
   material: metal
+  tag: binartslid
 
 - name: Work or Golf
   img: IMG_6538.JPG
   type: Sliding
   maker: Binary Arts
   material: metal
+  tag: binartslid
 
 - name: Honor & Glory
   img: IMG_6536.JPG
   type: Sliding
   maker: Binary Arts
   material: metal
+  tag: binartslid
 
 - name: Dirty Dog
   img: IMG_6746.JPG
@@ -830,6 +848,7 @@
   type: Sequential Movement
   maker: Onietoiy
   material: wood
+  tag: k
 
 - name: Egyptian Coin Trade
   img: IMG_6800.JPG
@@ -1100,12 +1119,14 @@
   type: Sliding
   material: paper
   maker: Sherms
+  tag: 8 point star
 
 - name: Star Puzzle
   img: IMG_6704.JPG
   type: Sliding
   material: paper
   advert: Hood's Sarsaparilla
+  tag: 8 point star
 
 - name: Instant Indecision
   img: IMG_6748.JPG
@@ -1409,7 +1430,8 @@
   type: Sliding
   date: 1937
   event: George VI Coronation
-  material: cardboard
+  material: wood
+  tag: tile fifteen
 
 - name: Blockade
   img: IMG_6771.JPG
@@ -1443,11 +1465,13 @@
   img: IMG_6648.JPG
   type: Sliding
   material: wood
+  tag: tile fifteen
 
 - name: The 15 Gem Puzzle
   img: IMG_6649.JPG
   type: Sliding
   material: wood
+  tag: tile fifteen
 
 - name: Dickinson's Witch Hazel Square Puzzle
   img: IMG_6693.JPG
@@ -1548,7 +1572,7 @@
   img: IMG_6519.JPG
   type: Sliding
   material: wood
-  tag: flying
+  tag: tile flying
 
 - name: Link the Link
   img: IMG_6497.jpeg
