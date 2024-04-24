@@ -2,7 +2,7 @@
   {% assign grouped_puzzles = site.data.puzzles | group_by: "material" %}
   {% assign sorted_puzzles = grouped_puzzles | sort: "name" | reverse %}
   {% for puzzled in sorted_puzzles %}
-  {% assign tagSorted = puzzled.items | sort: "tag" | reverse %}
+  {% assign tagSorted = puzzled.items | sort: "tag" %}
   {% for puzzle in tagSorted %}
   {% if puzzle.type contains include.type or include.type == "all" %}
   {% if puzzle.img != 'none.jpg' and puzzle.type != 'Calendar' %}

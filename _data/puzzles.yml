@@ -551,8 +551,9 @@
 
 - name: Sputnik Peg
   img: IMG_6646.JPG
-  type: Disassembly
+  type: Assembly
   material: wood
+  tag: weave
 
 - name: Chambers Motor Horse & Rider
   img: IMG_6710.JPG
@@ -613,7 +614,7 @@
   img: IMG_6672.JPG
   type: Interlocking
   material: wood
-  tag: japanese
+  tag: weave
 
 - name: Baroq
   img: IMG_6788.JPG
