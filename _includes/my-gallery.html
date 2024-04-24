@@ -1,8 +1,11 @@
 <main class="cards">
-{% assign sorted_puzzles = site.data.puzzles | sort: 'material'  %}
-{% for puzzle in sorted_puzzles %}
-{% if puzzle.type contains include.type or include.type == "all" %}
-{% if puzzle.img != 'none.jpg' and puzzle.type != 'Calendar' %}
+  {% assign grouped_puzzles = site.data.puzzles | group_by: "material" %}
+  {% assign sorted_puzzles = grouped_puzzles | sort: "name" | reverse %}
+  {% for puzzled in sorted_puzzles %}
+  {% assign tagSorted = puzzled.items | sort: "tag" | reverse %}
+  {% for puzzle in tagSorted %}
+  {% if puzzle.type contains include.type or include.type == "all" %}
+  {% if puzzle.img != 'none.jpg' and puzzle.type != 'Calendar' %}
   <article class="card">
     <img src="{{ site.thumbsurl }}{{puzzle.img }} ">
     <div class="text">
@@ -31,5 +34,6 @@
 
 {% endif %}
 {% endif %}
+{% endfor %}
 {% endfor %}
 </main>
