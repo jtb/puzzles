@@ -340,10 +340,23 @@
   type: Tanglement
   material: metal
 
-- name: Gilbert Puzzle Party
-  img: none.jpg
-  type: Tanglement
+- name: Gilbert Puzzle Party 1920
+  date: 1920
+  img: IMG_6808.JPG
+  type: Set
   material: metal
+  desc: Missing spring
+  tag: Gilbert1
+  maker: Gilbert
+
+- name: Gilbert Puzzle Party 1921
+  date: 1921
+  img: IMG_6807.JPG
+  type: Set
+  material: metal
+  desc: Complete without the box
+  tag: Gilbert2
+  maker: Gilbert
 
 - name: McLaughlin's Coffee XXXX
   img: IMG_6637.JPG
@@ -1173,9 +1186,10 @@
   material: cast
 
 - name: German Wire Puzzle Box
-  img: none.jpg
-  type: Tanglement
+  img: IMG_6810.JPG
+  type: Set
   material: wire
+  tag: German1
 
 - name: Jayne's Expectorant
   img: IMG_6726.JPG
@@ -1190,8 +1204,10 @@
   desc: Missing string
 
 - name: German Wire Puzzle Box 2
-  img: none.jpg
-  type: Tanglement
+  img: IMG_6809.JPG
+  type: Set
+  material: wire
+  tag: German2
 
 - name: 3 Ring German Puzzle
   img: none.jpg
@@ -1239,7 +1255,8 @@
   type: Calendar
 
 - name: Amazing Dr. Nim
-  img: none.jpg
+  img: IMG_6814.JPG
+  date: 1966
   type: Calculator
   maker: E.S.R., Inc.
   tag: esr
@@ -1369,10 +1386,11 @@
   material: wood
 
 - name: International Box of Metal Puzzles
-  img: none.jpg
-  type: Tanglement
+  img: IMG_6813.JPG
+  type: Set
   maker: Gibson
   material: metal
+  tag: Gibson
 
 - name: Zig-Zag
   img: IMG_6548.JPG
@@ -1440,14 +1458,15 @@
   material: wood
 
 - name: Popular Puzzle Compendium
-  img: none.jpg
-  type: Tanglement
+  img: IMG_6812.JPG
+  type: Set
   maker: Journet
 
 - name: '"Family" Compendium Of Puzzles'
-  img: none.jpg
-  type: Tanglement
+  img: IMG_6811.JPG
+  type: Set
   maker: Journet
+  desc: only half of the puzzles pictured are original to the box
 
 - name: Daily Mail World Record
   img: IMG_6650.JPG
@@ -1555,7 +1574,7 @@
   material: wire
 
 - name: Chaotic Cube
-  img: none.jpg
+  img: IMG_6815.JPG
   type: Pattern
   maker: Nintendo
   desc: before Nintendo was known for video games
