@@ -25,6 +25,9 @@
       {% if puzzle.designer %}
       <tr><td><b>Designer</b> {{puzzle.designer }}</td></tr>
       {% endif %}
+      {% if puzzle.patent %}
+      <tr><td><b>Patent</b> <a href="https://patents.google.com/patent/{{ puzzle.patent }}" target="_blank">{{ puzzle.patent }}</a></td></tr>
+      {% endif %}
       </table>
       {% if puzzle.desc %}
       <p>{{puzzle.desc }}</p>
