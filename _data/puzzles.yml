@@ -1189,7 +1189,7 @@
   img: IMG_6810.JPG
   type: Set
   material: wire
-  maker: Spear
+  desc: Definitely German but unsure of manufactuer.
   tag: German1
 
 - name: Jayne's Expectorant
@@ -1208,8 +1208,8 @@
   img: IMG_6809.JPG
   type: Set
   material: wire
-  maker: Spear
   tag: German2
+  desc: Definitely German but unsure of manufactuer. Maybe Spear or C. H. Giesen?
 
 - name: 3 Ring German Puzzle
   img: none.jpg
