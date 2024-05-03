@@ -18,6 +18,11 @@
   margin-right: 10px;
 }
 
+code {
+  outline: 2px solid #CCC;
+  border: 1px solid #999;
+}
+
 article#book.card {
   flex: 2 2 15%;
   margin: 10px;
@@ -105,6 +110,16 @@ article#book.card {
 
     table {
       font-size: 25px;
+    }
+
+    ul {
+      font-size: 25px;
+    }
+
+    code {
+      font-size: 25px;
+      outline: 2px solid #CCC;
+      border: 1px solid #999;
     }
 
     .content h2 {

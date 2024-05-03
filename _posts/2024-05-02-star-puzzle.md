@@ -29,7 +29,7 @@ Patents are grouped by category, and I knew that if this was in the patent datab
 it would most likely be under **A63F9/0876 Bent wire or cord puzzles**.
 So I searched
 ```
-star (A63F9/0876) before:1920
+  star (A63F9/0876) before:1920  
 ```
 
 And sure enough, one of the results returned was that star puzzle!
@@ -56,3 +56,6 @@ This ticks off a lot of boxes for me - Tanglement puzzle. Check. Old. Check. Pat
 And oh yeah, how is it as a puzzle? Well it did stump me for a while but I managed to solve it.
 I wonder how long that puzzle has been waiting to be solved. I think it's actually a pretty good puzzle
 and will fit nicely in my vintage metal tanglement collection.
+
+**Update:** I did find on Rob's Puzzle Page the 'Star Maze' by Fiddl'Widdit which looks very much like this puzzle, so seems like
+there actually are some modern examples of this puzzle.
