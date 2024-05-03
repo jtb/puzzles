@@ -1,0 +1,24 @@
+---
+layout: default
+title: Puzzling Pastimes Blog
+---
+
+<div class="w3-container">
+
+  <h3>Justin's Blog</h3>
+  <p>I would like this site to be more than just a place to showcase my puzzles,
+    although that is certainly a big part of it. I would also like to go more
+    in depth on some of the puzzles, either the history, or the analysis, or whatever
+    meets my fancy. So whenever I have something on my mind, I'll add it here.
+    Not much yet, but check back for updates!
+  </p>
+
+<ul>
+  {% for post in site.posts %}
+    <li>
+      <a href="{{ site.baseurl }}/{{ post.url }}">{{ post.title }}</a> {{ post.date | date_to_long_string: "ordinal", "US" }}
+    </li>
+  {% endfor %}
+</ul>
+
+</div>
