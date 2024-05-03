@@ -595,6 +595,7 @@
   img: IMG_6694.JPG
   type: Assembly
   material: paper
+  advert: Witch Hazel
   tag: witchhazel
 
 - name: Bug House Checkerboard
@@ -876,9 +877,10 @@
   maker: Tenyo
   material: hard wire
 
-- name: Rice Sausage Pig Kumiki
+- name: Kumiki Pig
   img: IMG_6603.JPG
   type: Interlocking
+  advert: R.B. Rice Sausage
   material: plastic
 
 - name: Thought Reader
@@ -945,6 +947,7 @@
   img: IMG_6696.JPG
   type: Assembly
   material: paper
+  advert: Witch Hazel
   tag: witchhazel
 
 - name: Consul the Educated Monkey
@@ -956,6 +959,7 @@
   img: IMG_6766.JPG
   type: Pattern
   material: paper
+  advert: Witch Hazel
   tag: witchhazel
 
 - name: Troon Vesta Box
@@ -1498,6 +1502,7 @@
   img: IMG_6693.JPG
   type: Assembly
   material: paper
+  advert: Witch Hazel
   tag: witchhazel
 
 - name: Atomix (Orb)
@@ -1657,3 +1662,52 @@
   material: copper
   designer: Ruan Genquan
   tag: Ingenious Rings
+
+- name: The Mathematician's Loop
+  img: IMG_6885.JPG
+  type: folding
+  material: wire
+  designer: Joel Langer
+  maker: Why Knots
+  date: 1980
+  tag: folding knot 2
+
+- name: Chinese Button Knot
+  img: IMG_6886.JPG
+  type: folding
+  material: wire
+  designer: Joel Langer
+  maker: Why Knots
+  date: 1980
+  tag: folding knot 3
+
+- name: Figure Eight Knot
+  img: IMG_6887.JPG
+  type: folding
+  material: wire
+  designer: Joel Langer
+  maker: Why Knots
+  date: 1980
+  tag: folding knot 1
+  desc: Fold the wire into a braided loop of circles
+
+- name: The Pacco Puzzle
+  img: IMG_6888.JPG
+  type: Interlocking
+  material: wood
+
+- name: Three Ring Horseshoe
+  img: IMG_6889.JPG
+  type: Tanglement
+  material: brass
+  maker: Bits & Pieces
+  designer: Jean Claude Constantin
+
+- name: Wire Star
+  img: IMG_6890.JPG
+  type: Tanglement
+  material: wire
+  designer: Alfred M. Davis
+  patent: US872717
+  date: 1907
+  desc: Has 'PAT PEND.' stamped on it

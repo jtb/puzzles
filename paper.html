@@ -32,6 +32,9 @@ title: Puzzling Pastimes Ephemeral
       {% if puzzle.maker %}
       <tr><td><b>Maker</b> {{puzzle.maker }}</td></tr>
       {% endif %}
+      {% if puzzle.advert %}
+      <tr><td><b>Ad</b> {{puzzle.advert }}</td></tr>
+      {% endif %}
       {% if puzzle.designer %}
       <tr><td><b>Designer</b> {{puzzle.designer }}</td></tr>
       {% endif %}
