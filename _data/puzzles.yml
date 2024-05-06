@@ -897,6 +897,14 @@
   material: bolt
   tag: bolt
 
+- name: Key and Ring
+  img: IMG_6931.JPG
+  type: Disassembly
+  maker: Nicol and Co.
+  material: brass
+  patent: US528018
+  date: 1894
+
 - name: Chinese Tangram
   img: IMG_6684.JPG
   type: Assembly
@@ -1540,6 +1548,22 @@
   date: 2023
   material: plastic
   type: Interlocking
+
+- name: The Key
+  img: IMG_6911.JPG
+  designer: LeisureLuke
+  maker: Oscar Chang
+  date: 2024
+  material: plastic
+  type: Sequential Discovery
+
+- name: Print-in-Place Twisty Puzzle Box - Mushroom
+  img: IMG_6912.JPG
+  designer: 3d-printy
+  maker: Oscar Chang
+  date: 2024
+  material: plastic
+  type: Route Finding
 
 - name: "Atomic Chaos/Kaos"
   img: IMG_6544.JPG
