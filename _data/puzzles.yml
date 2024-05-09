@@ -822,9 +822,74 @@
 - name: Dirty Dog
   img: IMG_6746.JPG
   type: Tanglement
-  maker: Tavern Puzzle
-  tag: tavern
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1985
   material: iron
+  desc: Released in 1985
+
+- name: U-Turn
+  img: IMG_6962.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1998
+  material: iron
+  desc: Released in 1998
+
+- name: Wise Guy
+  img: IMG_6963.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 2003
+  material: iron
+  desc: Released in 2003
+
+- name: Long Island Catch
+  img: IMG_6964.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1995
+  material: iron
+  desc: Released in 1995
+
+- name: Sneaky Pete
+  img: IMG_6965.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1990
+  material: iron
+  desc: Released in 1990
+
+- name: Old Shackles
+  img: IMG_6966.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1981
+  material: iron
+  desc: Released in 1981
+
+- name: Self-Restraint
+  img: IMG_6968.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1996
+  material: iron
+  desc: Released in 1996
+
+- name: Patience Puzzle
+  img: IMG_6969.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1984
+  material: iron
+  desc: Released in 1984
+
+- name: Traveler's Woe
+  img: IMG_6970.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1997
+  material: iron
+  desc: Released in 1997
 
 - name: Fifth Chair
   img: IMG_6789.JPG
@@ -1136,9 +1201,10 @@
 - name: Iron Heart
   img: none.jpg
   type: Tanglement
-  maker: Tavern Puzzle
-  tag: tavern
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1981
   material: iron
+  desc: Released in 1981
 
 - name: 8 point puzzle
   img: IMG_6703.JPG
@@ -1256,9 +1322,10 @@
 - name: Devil's Stirrup
   img: IMG_6747.JPG
   type: Tanglement
-  maker: Tavern Puzzle
-  tag: tavern
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1985
   material: iron
+  desc: Released in 1985
 
 - name: Farmers Puzzle Bone Ferilizer
   img: IMG_6706.JPG
