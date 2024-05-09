@@ -169,6 +169,8 @@
   type: Pattern
   tag: instant insanity
   material: plastic
+  date: 1967
+  maker: Parker Brothers, Inc.
 
 - name: Famous Number Puzzle
   img: IMG_6613.JPG
@@ -184,7 +186,7 @@
 - name: Footsie
   img: IMG_6608.JPG
   type: Pattern
-  maker: Onsworld Ltd
+  maker: Onsworld Limited
   date: 1980
   material: plastic
 
@@ -236,6 +238,8 @@
   material: wood
   type: Disassembly
   designer: John D. Boyle
+  patent: US2181116
+  date: 1938
   tag: boyle
 
 - name: 15 Puzzle IMP (blue)
@@ -256,6 +260,7 @@
   type: Tanglement
   desc: Needs a second button hook to complete the puzzle.
   material: metal
+  advert: Marott's Shoe Shop
 
 - name: Missing Link
   img: IMG_6553.JPG
@@ -269,6 +274,7 @@
   img: IMG_6606.JPG
   type: Sliding
   material: wood
+  desc: Appears to be handmade
 
 - name: Keys
   img: IMG_6498.jpeg
@@ -296,6 +302,7 @@
   img: none.jpg
   type: Tanglement
   material: metal
+  advert: Red Goose Shoes
 
 - name: Donkey Shackman Postcard
   img: IMG_6702.JPG
@@ -334,11 +341,13 @@
   img: IMG_6611.JPG
   type: Pattern
   material: plastic
+  maker: Synergistics Research Corporation
 
 - name: Mays Drug Store
   img: none.jpg
   type: Tanglement
   material: metal
+  advert: Mays Drug Store
 
 - name: Gilbert Puzzle Party 1920
   date: 1920
@@ -402,6 +411,8 @@
   type: Sliding
   tag: tile dads
   material: wood
+  designer: J. W. Hayward
+  date: 1926
 
 - name: The Moving Puzzle
   img: IMG_6642.JPG
@@ -430,12 +441,14 @@
   img: IMG_6799.JPG
   type: Permutation
   material: plastic
+  maker: Binary Arts
 
 - name: Oskar's Cube
   img: IMG_6540.JPG
   type: Route Finding
   designer: Oskar van Deventer
   material: plastic
+  maker:  Crystal Lines
 
 - name: Little Millionaire Bank
   img: IMG_6542.JPG
@@ -650,6 +663,7 @@
   type: Tanglement
   maker: Hanayama
   material: cast
+  designer: Akio Yamamoto
   tag: hanayama
 
 - name: Waiter's Tray
@@ -665,6 +679,7 @@
   type: Disassembly
   maker: Hanayama
   material: cast
+  designer: Bram Cohen and Oskar van Deventer
   tag: hanayama
 
 - name: O'Gear
@@ -767,6 +782,7 @@
   img: IMG_6665.JPG
   type: Tanglement
   material: wood
+  maker: Reiss company
 
 - name: Violin
   img: IMG_6697.JPG
