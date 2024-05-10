@@ -782,7 +782,7 @@
   img: IMG_6665.JPG
   type: Tanglement
   material: wood
-  maker: Reiss company
+  maker: Reiss company (distributor)
 
 - name: Violin
   img: IMG_6697.JPG
@@ -803,10 +803,13 @@
   type: Calculator
   material: paper
 
-- name: ThinkFun Houdini
-  img: none.jpg
+- name: Houdini
+  img: IMG_6993.JPG
   type: Tanglement
   material: plastic
+  maker: ThinkFun
+  date: 2014
+  designer: Nicholas Cravotta and Rebecca Bleau
 
 - name: Jordan's Journey
   img: IMG_6753.JPG
@@ -937,6 +940,7 @@
   type: Tanglement
   material: wire
   advert: Phenyo Caffein
+  desc: Ring is obviously not original
 
 - name: Onietoiy Nine Ring
   img: IMG_6541.JPG
@@ -991,11 +995,13 @@
   material: plastic
 
 - name: Tri-N-Do-It
-  img: none.jpg
+  img: IMG_6992.JPG
   type: Disassembly
   material: wood
+  patent: US2207778
   designer: John D. Boyle
   tag: boyle
+  desc: I tried and did it! Pegs are slightly different from patent.
 
 - name: Four Block Lock
   img: IMG_6668.JPG
@@ -1042,6 +1048,7 @@
   img: IMG_6599.JPG
   material: tin
   type: Calculator
+  desc: '"It makes no difference to the monkey whether children are bright or stupid, he never loses patience at having to answer their questions."'
 
 - name: 2 Witch Hazel Mail Advertisement
   img: IMG_6766.JPG
@@ -1196,17 +1203,21 @@
   maker: Magnif
   material: plastic
 
-- name: Canon
+- name: Cannon
   img: IMG_6558.JPG
   type: Disassembly
   maker: Bits & Pieces
   material: brass
+  designer: Doug Haigh
+  desc: Based on puzzle in Hoffmann's book
 
 - name: Lighthouse
   img: IMG_6557.JPG
   type: Disassembly
   maker: Bits & Pieces
   material: brass
+  designer: Doug Haigh
+  desc: Based on puzzle in Hoffmann's book
 
 - name: 99 piece Pagoda
   img: IMG_6678.JPG
@@ -1292,6 +1303,7 @@
   type: Tanglement
   material: tin
   desc: Missing string
+  advert: Jayne's Expectorant
 
 - name: Columbus Buggy
   img: IMG_6692.JPG
@@ -1367,10 +1379,12 @@
   tag: esr
   material: plastic
 
-- name: Uncles Rope
+- name: Uncle's Rope
   img: IMG_6745.JPG
   type: Tanglement
   material: metal
+  maker: Uncle's Puzzles
+  desc: Same as Ball and Chain
 
 - name: Whistle Stop Puzzle
   img: IMG_6655.JPG
