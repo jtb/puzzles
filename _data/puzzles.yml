@@ -218,6 +218,7 @@
   event: Pan-American Exposition
   patent: USD35115
   designer: John C. Foester
+  desc: Missing second star that is to be removed
 
 - name: Time Puzzle
   img: IMG_6614.JPG
@@ -280,11 +281,15 @@
   img: IMG_6498.jpeg
   type: Tanglement
   material: cast
+  patent: US488974
+  designer: H.L. Davis
 
 - name: Keys (2)
   img: IMG_6499.jpeg
   type: Tanglement
   material: cast
+  patent: US488974
+  designer: H.L. Davis
 
 - name: Queen's Jubilee
   img: IMG_6631.JPG
@@ -541,6 +546,8 @@
   type: Sliding
   material: wood
   tag: tile goat
+  patent: US1112746
+  designer: John I. Wiley
 
 - name: Flying Puzzle
   img: IMG_6512.JPG
@@ -591,6 +598,7 @@
   type: Assembly
   material: wood
   tag: weave
+  desc: Copyrighted in Japan in 1958
 
 - name: Chambers Motor Horse & Rider
   img: IMG_6710.JPG
@@ -699,6 +707,9 @@
   img: IMG_6720.JPG
   type: Tanglement
   material: paper
+  patent: USD22479
+  designer: William S. Bates
+  advert: Tom Keene Cigars
 
 - name: "David's Perpetual Calendar (2)"
   img: IMG_6719.JPG
@@ -940,7 +951,9 @@
   type: Tanglement
   material: wire
   advert: Phenyo Caffein
-  desc: Ring is obviously not original
+  designer: Joseph A. Barket
+  patent: US1649054
+  desc: Ring is obviously not original. There's also a earlier similar patent US962039
 
 - name: Onietoiy Nine Ring
   img: IMG_6541.JPG
@@ -1155,10 +1168,13 @@
   img: none.jpg
   type: Calendar
 
-- name: Hello Puzzle
+- name: The Hello Puzzle
   img: IMG_6555.JPG
   type: Tanglement
   material: fiber
+  patent: US896344
+  designer: William J. Akin
+  desc: An advertisment from 1909 says 'Can You Ring Off? You simply can't drop it until you have removed the steel ring from the celluloid disk.'
 
 - name: Dead End Pocket Puzzle
   img: IMG_6762.JPG
@@ -1291,6 +1307,7 @@
   img: IMG_6764.JPG
   type: Tanglement
   material: cast
+  desc: RD 577846 (1911)
 
 - name: German Wire Puzzle Box
   img: IMG_6810.JPG
@@ -1311,6 +1328,8 @@
   type: Tanglement
   material: paper
   desc: Missing string
+  patent: US270764
+  designer: Bernard Dreyfuss
 
 - name: German Wire Puzzle Box 2
   img: IMG_6809.JPG
@@ -1449,6 +1468,7 @@
   type: Tanglement
   maker: Pentangle
   material: hard wire
+  designer: James Dalgety
 
 - name: Lattice
   img: IMG_6643.JPG
@@ -1516,6 +1536,9 @@
   type: Tanglement
   maker: Allen Rolfs
   material: metal plate
+  designer: Charles J. Schug
+  patent: US637352
+  desc: Modern repro of old patent
 
 - name: Spiral Black Hole
   img: IMG_6664.JPG
@@ -1523,6 +1546,7 @@
   maker: Allen Rolfs
   material: metal plate
   patent: US569600
+  desc: Modern repro of old patent, with nice theme
 
 - name: 'Karakuri New Secret Box #4'
   img: IMG_6674.JPG
@@ -1717,6 +1741,8 @@
   material: paper
   date: 1885
   event: Jefferson County Fair
+  patent: US270764
+  designer: Bernard Dreyfuss
 
 - name: Flying Puzzle (Modern)
   img: IMG_6519.JPG
