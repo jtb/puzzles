@@ -1257,6 +1257,7 @@
   type: Tanglement
   material: wire
   tag: handmade
+  patent: US1327388
 
 - name: Handmade Wire
   img: IMG_6750.JPG
@@ -1521,6 +1522,7 @@
   type: Tanglement
   maker: Allen Rolfs
   material: metal plate
+  patent: US569600
 
 - name: 'Karakuri New Secret Box #4'
   img: IMG_6674.JPG
