@@ -163,6 +163,7 @@
   type: Sliding
   material: plastic
   tag: switchit
+  patent: GB1563849
 
 - name: Instant Insanity
   img: IMG_6683.JPG
@@ -298,10 +299,11 @@
   event: Queen Victoria Golden Jubilee
   material: cast
 
-- name: Tower of Hanoi
+- name: Rainbow Puzzle
   img: IMG_6609.JPG
   type: Sequential Movement
   material: wood
+  desc: Tower of Hanoi
 
 - name: Red Goose Shoes
   img: none.jpg
@@ -410,6 +412,7 @@
   material: wood
   designer: John D. Boyle
   tag: boyle
+  patent: US2469364
 
 - name: Dad's Puzzler
   img: IMG_6641.JPG
@@ -447,6 +450,8 @@
   type: Permutation
   material: plastic
   maker: Binary Arts
+  patent: US4871173
+  inventor: Ferdinand Lammertink
 
 - name: Oskar's Cube
   img: IMG_6540.JPG
@@ -517,6 +522,8 @@
   img: IMG_6604.JPG
   type: Permutation
   material: plastic
+  patent: US4511144
+  inventor: Patrick A. Roberts
 
 - name: Grandpa's Soap
   img: IMG_6713.JPG
@@ -529,6 +536,7 @@
   type: Sliding
   tag: switchit
   material: plastic
+  patent: GB1563849
 
 - name: Manoeuver (in the Stratagem range)
   img: IMG_6652.JPG
@@ -592,6 +600,8 @@
   type: Tanglement
   advert: Champion Spark Plugs
   material: plastic
+  patent: US3387847
+  designer: Robert R. Boomhower
 
 - name: Sputnik Peg
   img: IMG_6646.JPG
@@ -1080,6 +1090,8 @@
   img: IMG_6658.JPG
   type: Sequential Movement
   material: wood
+  patent: US3637216
+  designer: William Keister
 
 - name: Enigma
   img: none.jpg
@@ -1506,6 +1518,7 @@
   type: Assembly
   material: wood
   tag: bandsaw
+  desc: See <a href="https://www.puzzlemuseum.com/month/picm01/200111jig_ball.htm">article</a> in The Puzzle Museum
 
 - name: Stark Raving Cubes
   img: IMG_6798.JPG
@@ -1513,10 +1526,11 @@
   designer: Bill Cutler
   material: plastic
 
-- name: Dragon Egg
+- name: Dragon's Egg
   img: IMG_6549.JPG
   type: Disassembly
   material: wood
+  maker: Creative Crafthouse
 
 - name: International Box of Metal Puzzles
   img: IMG_6813.JPG
@@ -1658,12 +1672,14 @@
   type: Sliding
   tag: switchit
   material: plastic
+  patent: GB1563849
 
 - name: Ultimate Burr Set
   img: IMG_6772.JPG
   type: Interlocking
   maker: Creative Crafthouse
   material: wood
+  desc: Described in 'Creative Puzzles of the World', based on work by J.H. de Boer
 
 - name: Starter Burr Set
   img: IMG_6539.JPG
