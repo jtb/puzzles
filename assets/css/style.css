@@ -19,8 +19,9 @@
 }
 
 code {
-  outline: 2px solid #CCC;
-  border: 1px solid #999;
+  #outline: 2px solid #CCC;
+  #border: 1px solid #999;
+  #text-align: center;
 }
 
 iframe {
@@ -123,8 +124,9 @@ article#book.card {
 
     code {
       font-size: 25px;
-      outline: 2px solid #CCC;
-      border: 1px solid #999;
+      #outline: 2px solid #CCC;
+      #border: 1px solid #999;
+      #text-align: right;
     }
 
     .content h2 {
