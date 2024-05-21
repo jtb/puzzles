@@ -29,6 +29,11 @@ iframe {
   height: 1000px;
 }
 
+.vert iframe {
+  width: 50%;
+  height: 800px;
+}
+
 article#book.card {
   flex: 2 2 15%;
   margin: 10px;
@@ -160,6 +165,8 @@ article#book.card {
 .content {
   padding: 16px;
 }
+
+.myvideo {}
 
 /* The sticky class is added to the header with JS when it reaches its scroll position */
 .sticky {
