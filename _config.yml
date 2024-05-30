@@ -2,3 +2,4 @@ baseurl: "/puzzles"
 
 imagesurl: "/puzzles/mysite/img/"
 thumbsurl: "/puzzles/mysite/thumbs/"
+n125: "/puzzles/mysite/N125/"
