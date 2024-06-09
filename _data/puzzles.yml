@@ -451,7 +451,7 @@
   material: plastic
   maker: Binary Arts
   patent: US4871173
-  inventor: Ferdinand Lammertink
+  designer: Ferdinand Lammertink
 
 - name: Oskar's Cube
   img: IMG_6540.JPG
@@ -523,7 +523,8 @@
   type: Permutation
   material: plastic
   patent: US4511144
-  inventor: Patrick A. Roberts
+  designer: Patrick A. Roberts
+  maker: Toys & Games International
 
 - name: Grandpa's Soap
   img: IMG_6713.JPG
@@ -580,10 +581,11 @@
   material: paper
   tag: tile fifteen
 
-- name: Chicken and Egg Puzzle
+- name: The Magic Egg Puzzle
   img: IMG_6708.JPG
   type: Pattern
   material: paper
+  advert: Champagne Baking Soda
 
 - name: Hungarian Rings
   img: IMG_6552.JPG
@@ -594,6 +596,7 @@
   img: IMG_6689.JPG
   type: Pattern
   material: paper
+  advert: BP
 
 - name: Champion Spark Plug
   img: IMG_6504.jpeg
@@ -730,11 +733,14 @@
   img: IMG_6686.JPG
   type: Tanglement
   material: paper
+  advert: Town Tavern Straight Rye Whiskey
 
 - name: St. Nicholas Trade Card
   img: IMG_6715.JPG
   type: Pattern
   material: paper
+  date: 1892
+  advert: St. Nicholas Children's Magazine
 
 - name: Iron Heart Metal Puzzle
   img: IMG_6752.JPG
@@ -936,6 +942,7 @@
   type: Assembly
   maker: ThinkFun
   material: plastic
+  designer: Dale Walton
 
 - name: Fairmont Creamery Puzzle
   img: IMG_6712.JPG
@@ -1159,6 +1166,7 @@
   img: IMG_6751.JPG
   type: Tanglement
   material: wire
+  maker: Wireworks Puzzles
 
 - name: ryede-like square puzzle
   img: IMG_6758.JPG
@@ -1279,6 +1287,8 @@
   img: IMG_6748.JPG
   type: Pattern
   material: plastic
+  date: 1972
+  maker: The Green Gate Company
 
 - name: Handmade Airplane
   img: IMG_6749.JPG
@@ -1378,6 +1388,8 @@
   img: IMG_6680.JPG
   type: Route Finding
   material: plastic
+  maker: Lakeside
+  date: 1970
 
 - name: Devil's Stirrup
   img: IMG_6747.JPG
@@ -1482,10 +1494,11 @@
   material: hard wire
   designer: James Dalgety
 
-- name: Lattice
+- name: Dovetail
   img: IMG_6643.JPG
   type: Interlocking
   material: wood
+  maker: Reiss
 
 - name: Something Fishy Sardine Can
   img: IMG_6663.JPG
@@ -1496,6 +1509,9 @@
   img: IMG_6610.JPG
   type: Assembly
   material: wood
+  date: 1974
+  maker: Romany
+  patent: US3695617
 
 - name: Hickman's Family Farms Egg Puzzle
   img: none.jpg
@@ -1525,6 +1541,8 @@
   type: Assembly
   designer: Bill Cutler
   material: plastic
+  date: 1995
+  maker: Wit's End
 
 - name: Dragon's Egg
   img: IMG_6549.JPG
@@ -1625,6 +1643,9 @@
   type: Pattern
   material: paper
   maker: Chad Valley
+  patent: GB173588
+  advert: Daily Mail
+  date: 1920
 
 - name: Haselgrove Box
   img: IMG_6681.JPG
@@ -1724,6 +1745,7 @@
   designer: Piet Hein
   maker: Skjøde of Skjern
   material: wood
+  date: 1966
 
 - name: 'The Who #305'
   img: IMG_6768.JPG
