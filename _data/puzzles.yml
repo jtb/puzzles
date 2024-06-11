@@ -114,11 +114,11 @@
   desc: The original Instant Insanity puzzle
 
 - name: Donkey Old Joe and Rover
-  img: IMG_6709.JPG
+  img: IMG_7413.JPG
   type: Assembly
   material: paper
   advert: Standard Screw
-  desc: Bought these separately, missing the jockey
+  desc: Complete with Jockey and Envelope
   tag: donkey
 
 - name: Avenger
@@ -1716,7 +1716,7 @@
   maker: Oscar Chang
   date: 2024
   material: plastic
-  type: Sequential Discovery
+  type: Disassembly
 
 - name: Print-in-Place Twisty Puzzle Box - Mushroom
   img: IMG_6912.JPG
@@ -1899,3 +1899,47 @@
   patent: US872717
   date: 1907
   desc: Has 'PAT PEND.' stamped on it
+
+- name: Trike
+  img: IMG_7406.JPG
+  type: Tanglement
+  material: wire
+  designer:
+  patent:
+  date:
+  desc: Remove the handlebars
+
+- name: Cube in Cube
+  img: IMG_7407.JPG
+  type: Assembly
+  material: wood
+  desc: Unsure of maker, possibly Constantin
+
+- name: Nankai
+  img: IMG_7409.JPG
+  type: Assembly
+  material: wood
+  desc: 'Also sold as The Classic Cube Conundrum by Bits & Pieces #07-G7909'
+
+- name: Coast to Coast Puzzle
+  img: IMG_7410.JPG
+  maker: Binary Arts
+  type: Route Finding
+  material: metal plate
+  designer: Serhiy Grabarchuk
+  date: 2002
+  desc: Modern take on the Africa puzzle
+
+- name: Arabi Gun
+  img: IMG_7412.JPG
+  type: Disassembly
+  material: wood
+  desc: Mentioned in Hoffmann's puzzle book
+
+- name: Tennessee Jed
+  img: IMG_7414.JPG
+  type: Tanglement
+  material: paper
+  advert: Tip-Top Bread
+  date: 1945
+  desc: Radio program from May 14, 1945 to November 7, 1947
