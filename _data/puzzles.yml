@@ -1904,10 +1904,8 @@
   img: IMG_7406.JPG
   type: Tanglement
   material: wire
-  designer:
-  patent:
-  date:
-  desc: Remove the handlebars
+  patent: USD173360
+  desc: Remove the handlebars. Patented in 1954 but possibly older.
 
 - name: Cube in Cube
   img: IMG_7407.JPG
@@ -1934,12 +1932,14 @@
   img: IMG_7412.JPG
   type: Disassembly
   material: wood
+  date: circa 1900
   desc: Mentioned in Hoffmann's puzzle book
 
-- name: Tennessee Jed
+- name: Tennessee Jed's Lariat
   img: IMG_7414.JPG
   type: Tanglement
   material: paper
   advert: Tip-Top Bread
-  date: 1945
-  desc: Radio program from May 14, 1945 to November 7, 1947
+  date: 1946
+  desc: On February 4th, the Tennessee Jed program made an offer of a free lariat puzzle. At the close of the 10-day offer period, it received close to 9,000 requests.
+  #desc: Radio program from May 14, 1945 to November 7, 1947
