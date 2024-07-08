@@ -2057,7 +2057,7 @@
   type: Sequential Movement
   material: plastic
   tag: chess
-  desc: Exchanges kinds using standard chess moves and alternating white/black. No capture.
+  desc: Exchanges kings using standard chess moves and alternating white/black. No capture.
 
 - name: Squarely Nuts
   img: IMG_7752.JPG
