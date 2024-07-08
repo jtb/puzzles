@@ -615,7 +615,7 @@
 
 - name: Chambers Motor Horse & Rider
   img: IMG_6710.JPG
-  type: Patter
+  type: Pattern
   material: paper
   tag: donkey
 
@@ -755,13 +755,13 @@
 
 - name: Japanese 15-puzzle
   img: IMG_6619.JPG
-  type: none
+  type: Sliding
   tag: japanese
   material: wood
 
 - name: Tunbridge Tangram
   img: IMG_6621.JPG
-  type: none
+  type: Assembly
   material: wood
 
 - name: Belgium Expo Calendar Medal
@@ -1076,6 +1076,7 @@
 
 - name: Consul the Educated Monkey
   img: IMG_6599.JPG
+  maker: The Educational Toy Manufacturing Co.
   material: tin
   type: Calculator
   desc: '"It makes no difference to the monkey whether children are bright or stupid, he never loses patience at having to answer their questions."'
@@ -1093,19 +1094,13 @@
   tag: vesta
   material: wood
 
-- name: Hexadecimal Binary Arts
+- name: Hexadecimal
   img: IMG_6658.JPG
   type: Sequential Movement
+  maker: Binary Arts
   material: wood
   patent: US3637216
   designer: William Keister
-
-- name: Enigma
-  img: none.jpg
-  type: Tanglement
-  maker: Hanayama
-  material: cast
-  tag: hanayama
 
 - name: The Famous T Puzzle
   img: IMG_6695.JPG
@@ -1262,7 +1257,7 @@
   material: wood
 
 - name: Iron Heart
-  img: none.jpg
+  img: IMG_7767.JPG
   type: Tanglement
   maker: Tucker-Jones House, Inc.
   tag: tavern 1981
@@ -1426,7 +1421,7 @@
 - name: Uncle's Rope
   img: IMG_6745.JPG
   type: Tanglement
-  material: metal
+  material: hard wire
   maker: Uncle's Puzzles
   desc: Same as Ball and Chain
 
@@ -1943,3 +1938,199 @@
   date: 1946
   desc: On February 4th, the Tennessee Jed program made an offer of a free lariat puzzle. At the close of the 10-day offer period, it received close to 9,000 requests.
   #desc: Radio program from May 14, 1945 to November 7, 1947
+
+- name: Barrel
+  img: IMG_7768.JPG
+  type: Interlocking
+  material: wood
+  tag: japanese
+  desc: Less common 8-piece version
+
+- name: Vermont Castings Maze (The Amazing Gizmo)
+  img: IMG_7766.JPG
+  maker: Vermont Castings, of Randolph Vermont
+  date: 1981
+  type: Route Finding
+  material: cast
+  advert: Vermont Castings
+  desc: Each section represents the 4 seasons.
+
+- name: "Devil's Halo: The Infernal Puzzle"
+  img: IMG_7764.JPG
+  designer: James Dalgety
+  maker: Pentangle
+  date: 1974
+  type: Tanglement
+  material: hard wire
+  desc: U.K. Registered Design No. 967536/1974. Deliberate attempt by James Dalgety to invent a puzzle similar to the Chinese Rings but with a non-binary solution
+
+- name: Mystaire Mosaic Puzzle
+  img: IMG_7763.JPG
+  maker: Peter Pan
+  type: Assembly
+  material: plastic
+  desc: Arrange pieces in a cirlce so that adjacent pieces have different colors.
+
+- name: Tenze Puzzle
+  img: IMG_7762.JPG
+  maker: Roddy
+  date: 1950s/60s
+  type: Assembly
+  material: plastic
+  desc: Arrange pieces in rectangle, so that colors are grouped together.
+
+- name: Tantalising 7
+  img: IMG_7761.JPG
+  maker: Peter Pan
+  date: 1965
+  type: Sliding
+  material: plastic
+  desc: B46-B49 in Hordern. My copy has handwritten note - Christmas 1965.
+
+- name: P3C, Pack 3 Cubes
+  img: IMG_7760.JPG
+  designer: Yasuhiro Hashimoto
+  type: Assembly
+  material: plastic
+
+- name: Think
+  img: IMG_7759.JPG
+  maker: Chadwick-Miller
+  date: 1968
+  type: Interlocking
+  material: wood
+  desc: Made in Japan. Imported and sold by Chadwick-Miller, a Boston company.
+
+- name: Enigma
+  img: IMG_7758.JPG
+  designer: Eldon Vaughn
+  maker: Hanayama
+  date: 2015
+  patent: US3885793
+  type: Tanglement
+  material: cast
+  tag: hanayama
+
+- name: Triple twins
+  img: IMG_7757.JPG
+  designer: AndresMF (based on Osanori Yamamoto)
+  maker: Oscar Chang
+  date: 2024
+  type: Assembly
+  material: plastic
+  desc: Based on design by Osanori Yamamoto, which won the puzzler's award at IPP37 2017 Paris
+
+- name: Think, 3d printed
+  img: IMG_7756.JPG
+  designer: Justin Brown (based on Japanese wooden puzzle)
+  maker: Oscar Chang
+  date: 2024
+  type: Interlocking
+  material: plastic
+  desc: My first attempt at 3d modeling!
+
+- name: Pawn=Queen
+  img: IMG_7755.JPG
+  designer: Sherzod Khaydarbekov
+  maker: Puzzle guy
+  date: 2024
+  type: Sequential Movement
+  material: plastic
+  tag: chess
+  desc: Get the pawn to the red square using standard chess moves. No capture.
+
+- name: Black Knight
+  img: IMG_7754.JPG
+  designer: Sherzod Khaydarbekov
+  maker: Puzzle guy
+  date: 2024
+  type: Sequential Movement
+  material:
+  tag: chess
+  desc: Get the black knight to the black square using standard chess moves. No capture.
+
+- name: Exchange the kings
+  img: IMG_7753.JPG
+  designer: Sherzod Khaydarbekov
+  maker: Puzzle guy
+  date: 2024
+  type: Sequential Movement
+  material: plastic
+  tag: chess
+  desc: Exchanges kinds using standard chess moves and alternating white/black. No capture.
+
+- name: Squarely Nuts
+  img: IMG_7752.JPG
+  designer: Oskar Van Deventer
+  maker: Puzzle guy
+  date: 2024
+  type: Calculator
+  material: plastic
+  desc: Square nut around around a square screw. Not a puzzle but rather kinetic art.
+
+- name: Tetra Spirals
+  img: IMG_7751.JPG
+  designer: Lucie Pauwels
+  maker: Puzzle guy
+  date: 2024
+  type: Assembly
+  material: plastic
+
+- name: Unlawful Assembly
+  img: IMG_7750.JPG
+  designer: Goh Pit Khiam
+  maker: Puzzle guy
+  date: 2024
+  type: Assembly
+  material: plastic
+
+- name: Zigguflat
+  img: IMG_7749.JPG
+  designer: Oskar Van Deventer
+  maker: Puzzle guy
+  date: 2024
+  type: Sequential Movement
+  material: plastic
+  desc: Frameless N-ary puzzle. A flat version of Bram Cohen's Ziggurat puzzle.
+
+- name: The Four-Allies Puzzle
+  img: none.jpg
+  maker: from England
+  date: 1914-1918
+  type: Pattern
+  material: wood
+  tag: instant insanity
+  desc: WWI. British, French, Russian, Belgian flags. Same as Instant Insanity, except for 2 opposite faces flipped on one cube.
+
+- name: Bashful Lock Cigar Cutter
+  img: none.jpg
+  designer: Charles G. Taylor
+  maker: Tafo Mfg. Co. L.A. Cal.
+  date: circa 1915
+  patent: US1136735
+  type: Disassembly
+  material: metal
+  tag: lock
+  desc: Unlocks behind your back
+
+- name: Cerebral Rings Puzzler
+  img: none.jpg
+  maker: Magnif
+  date: 1989
+  type: Disassembly
+  material: plastic
+
+- name: Nine of Swords
+  img: none.jpg
+  designer: Sid Sackson
+  maker: Reiss (distributor)
+  date: 1971
+  type: Pattern
+  material: plastic
+
+- name: Smith Potato Crisps Horse and Jockey
+  img: none.jpg
+  material: paper
+  advert: Smiths Potato Crisps
+  tag: donkey
+  desc: Company founded in United Kingdom in 1920. Advert probably from the 1950s
