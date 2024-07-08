@@ -2045,7 +2045,7 @@
   maker: Puzzle guy
   date: 2024
   type: Sequential Movement
-  material:
+  material: plastic
   tag: chess
   desc: Get the black knight to the black square using standard chess moves. No capture.
 
