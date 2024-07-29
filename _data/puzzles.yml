@@ -157,6 +157,7 @@
   date: 1927
   patent: US1635022
   desc: "88 Lafayette Ave Brooklyn, N.Y. Patent Apl'd"
+  tag: bootlegger
 
 - name: SwitchIt Mickey Mouse
   img: IMG_6597.JPG
@@ -183,6 +184,7 @@
   type: Sliding
   maker: Jeux et Jouets Francais
   material: paper
+  tag: JJF
 
 - name: Footsie
   img: IMG_6608.JPG
@@ -1285,26 +1287,26 @@
   date: 1972
   maker: The Green Gate Company
 
-- name: Handmade Airplane
+- name: Vintage Handmade Airplane
   img: IMG_6749.JPG
   type: Tanglement
   material: wire
   tag: handmade
   patent: US1327388
 
-- name: Handmade Wire
+- name: Vintage Handmade Wire
   img: IMG_6750.JPG
   type: Tanglement
   material: wire
   tag: handmade
 
-- name: Handmade Cross Wire
+- name: Vintage Handmade Cross Wire
   img: IMG_6761.JPG
   type: Tanglement
   material: wire
   tag: handmade
 
-- name: Handmade Hearts
+- name: Vintage Handmade Hearts
   img: IMG_6759.JPG
   type: Tanglement
   material: wire
@@ -2129,8 +2131,126 @@
   material: plastic
 
 - name: Smith Potato Crisps Horse and Jockey
-  img: none.jpg
+  img: IMG_8111.JPG
   material: paper
   advert: Smiths Potato Crisps
   tag: donkey
   desc: Company founded in United Kingdom in 1920. Advert probably from the 1950s
+
+- name: Bootlegger (Boot and Hand)
+  img: IMG_8107.JPG
+  patent: US1519702
+  designer: Oscar R Preuss
+  type: Tanglement
+  material: metal plate
+  date: 1924
+  desc: "Stamped Pat Pending. Patent issued in 1924"
+  tag: bootlegger
+
+- name: Tennis Racket and Ball
+  img: IMG_8109.JPG
+  type: Dexterity
+  material: cast
+
+- name: Tug-o-war
+  img: IMG_8110.JPG
+  type: Tanglement
+  material: paper
+  advert: Van Houten
+  tag: vanhouten
+
+- name: "L'Incroyable"
+  img: IMG_8113.JPG
+  maker: Jeux et Jouets Francais
+  type: Assembly
+  material: paper
+  desc: Amazing
+  tag: Quelques Tours dans une Boite
+
+- name: Un Sage Dans Les Nuages
+  img: IMG_8114.JPG
+  maker: Jeux et Jouets Francais
+  type: Assembly
+  material: paper
+  desc: A Sage in the Clouds
+  tag: Quelques Tours dans une Boite
+
+- name: Les Quatre Vagabonds
+  img: IMG_8115.JPG
+  maker: Jeux et Jouets Francais
+  type: Assembly
+  material: paper
+  desc: The Four Vagabonds
+  tag: Quelques Tours dans une Boite
+
+- name: "L'Astronome"
+  img: IMG_8116.JPG
+  maker: Jeux et Jouets Francais
+  type: Assembly
+  material: paper
+  desc: The Astronomer
+  tag: JJF Quelques Tours dans une Boite
+
+- name: Stormy Seas
+  img: IMG_8116.JPG
+  designer: Harry L. Nelson, Hiroshi Yamamoto
+  patent: US6116599A
+  maker: Binary Arts
+  date: 1998
+  type: Sequential Movement
+  material: plastic
+
+- name: Rush Hour
+  img: IMG_8118.JPG
+  designer: Nob Yoshigahara
+  patent: USD395468S
+  maker: Binary Arts
+  date: 1996
+  type: Sequential Movement
+  material: plastic
+  desc: The above patent is for the design of the Binary Arts version by Stephen A. Wagner
+
+- name: Vintage Handmade Horseshoes
+  img: IMG_8120.JPG
+  type: Tanglement
+  material: wire
+  tag: handmade
+
+- name: Vintage Handmade Captured Hearts
+  img: IMG_8121.JPG
+  type: Tanglement
+  material: wire
+  tag: handmade
+
+- name: Vintage Handmade Cross and Rings
+  img: IMG_8122.JPG
+  type: Tanglement
+  material: wire
+  tag: handmade
+
+- name: Vintage Handmade Spring and Ring
+  img: IMG_8123.JPG
+  type: Tanglement
+  material: wire
+  tag: handmade
+
+- name: Metal Dexterity
+  img: IMG_8119.JPG
+  type: Dexterity
+  material: metal plate
+
+- name: Spider Puzzle
+  img: IMG_8124.JPG
+  type: Route Finding
+  material: metal plate
+  maker: L.W.G & Co. of Chicago
+
+- name: Famous Square Puzzle
+  img: IMG_8125.JPG
+  type: Assembly
+  material: paper
+
+- name: T Puzzle from Germany
+  img: IMG_8126.JPG
+  type: Assembly
+  material: wood
