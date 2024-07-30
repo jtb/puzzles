@@ -2192,7 +2192,7 @@
   tag: JJF Quelques Tours dans une Boite
 
 - name: Stormy Seas
-  img: IMG_8116.JPG
+  img: IMG_8117.JPG
   designer: Harry L. Nelson, Hiroshi Yamamoto
   patent: US6116599A
   maker: Binary Arts
@@ -2254,3 +2254,21 @@
   img: IMG_8126.JPG
   type: Assembly
   material: wood
+
+- name: Redline-Glico Maze
+  img: IMG_8133.JPG
+  type: Route Finding
+  material: tin
+  designer: Joel W. Thorne
+  maker: J.R.G. L.
+  date: 1930s
+  patent: US483820A
+  desc: Redline Motor Spirit Co and Glico Petroleum Co merged to form Redline-Glico in 1931.
+  advert: "Redline-Glico: Use Glico motor oils"
+
+- name: Chocolat Lombart
+  img: IMG_8134.JPG
+  type: Assembly
+  material: paper
+  desc: "Lombart claims to be the first chocolate company in France, dating back to 1760."
+  advert: Chocolat Lombart Paris
