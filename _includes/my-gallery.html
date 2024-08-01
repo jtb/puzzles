@@ -4,7 +4,7 @@
   {% for puzzled in sorted_puzzles %}
   {% assign tagSorted = puzzled.items | sort: "tag" %}
   {% for puzzle in tagSorted %}
-  {% if puzzle.type contains include.type or include.type == "all" %}
+  {% if puzzle.type contains include.type or include.type == "all" or puzzle.aquired >= include.aquired %}
   {% if puzzle.img != 'none.jpg' and puzzle.type != 'Calendar' %}
   <article class="card">
     <img src="{{ site.thumbsurl }}{{puzzle.img }} ">

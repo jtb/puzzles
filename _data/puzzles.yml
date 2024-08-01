@@ -1956,6 +1956,7 @@
   material: cast
   advert: Vermont Castings
   desc: Each section represents the 4 seasons.
+  aquired: 20240618
 
 - name: "Devil's Halo: The Infernal Puzzle"
   img: IMG_7764.JPG
@@ -1972,6 +1973,7 @@
   type: Assembly
   material: plastic
   desc: Arrange pieces in a cirlce so that adjacent pieces have different colors.
+  aquired: 20240620
 
 - name: Tenze Puzzle
   img: IMG_7762.JPG
@@ -1980,6 +1982,7 @@
   type: Assembly
   material: plastic
   desc: Arrange pieces in rectangle, so that colors are grouped together.
+  aquired: 20240620
 
 - name: Tantalising 7
   img: IMG_7761.JPG
@@ -1988,6 +1991,7 @@
   type: Sliding
   material: plastic
   desc: B46-B49 in Hordern. My copy has handwritten note - Christmas 1965.
+  aquired: 20240620
 
 - name: P3C, Pack 3 Cubes
   img: IMG_7760.JPG
@@ -2136,6 +2140,7 @@
   advert: Smiths Potato Crisps
   tag: donkey
   desc: Company founded in United Kingdom in 1920. Advert probably from the 1950s
+  aquired: 20240620
 
 - name: Bootlegger (Boot and Hand)
   img: IMG_8107.JPG
@@ -2146,11 +2151,13 @@
   date: 1924
   desc: "Stamped Pat Pending. Patent issued in 1924"
   tag: bootlegger
+  aquired: 20240722
 
 - name: Tennis Racket and Ball
   img: IMG_8109.JPG
   type: Dexterity
   material: cast
+  aquired: 20240722
 
 - name: Tug-o-war
   img: IMG_8110.JPG
@@ -2158,6 +2165,7 @@
   material: paper
   advert: Van Houten
   tag: vanhouten
+  aquired: 20240716
 
 - name: "L'Incroyable"
   img: IMG_8113.JPG
@@ -2199,6 +2207,7 @@
   date: 1998
   type: Sequential Movement
   material: plastic
+  aquired: 20240715
 
 - name: Rush Hour
   img: IMG_8118.JPG
@@ -2209,6 +2218,7 @@
   type: Sequential Movement
   material: plastic
   desc: The above patent is for the design of the Binary Arts version by Stephen A. Wagner
+  aquired: 20240715
 
 - name: Vintage Handmade Horseshoes
   img: IMG_8120.JPG
@@ -2238,6 +2248,7 @@
   img: IMG_8119.JPG
   type: Dexterity
   material: metal plate
+  aquired: 20240722
 
 - name: Spider Puzzle
   img: IMG_8124.JPG
@@ -2265,6 +2276,7 @@
   patent: US483820A
   desc: Redline Motor Spirit Co and Glico Petroleum Co merged to form Redline-Glico in 1931.
   advert: "Redline-Glico: Use Glico motor oils"
+  aquired: 20240715
 
 - name: Chocolat Lombart
   img: IMG_8134.JPG
