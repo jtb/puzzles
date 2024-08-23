@@ -42,7 +42,7 @@ Some cards have pieces attached to strings and asks you to untangle or move piec
 <img src="{{ site.baseurl }}/mysite/VanHouten/vanhouten_ship.jpeg" width="49%">
 
 ## Make this card warm
-Some cards asked you to warm up the card to see a hidden images_exist
+Some cards asked you to warm up the card to see a hidden images
 
 <img src="{{ site.baseurl }}/mysite/VanHouten/vanhouten_warm1.jpg" width="24%">
 <img src="{{ site.baseurl }}/mysite/VanHouten/vanhouten_warm2.jpg" width="49%">
@@ -61,7 +61,7 @@ Here are some other elaborate cards that don't really fall into a category.
 <img src="{{ site.baseurl }}/mysite/VanHouten/vanhouten_padlock.jpeg" width="49%">
 
 # Sliding Puzzles
-Later on, Van Houten appeared to sponsor contests involving sliding puzzles.
+Later on, Van Houten sponsored contests with monetary prizes involving sliding puzzles.
 The first one was the Pasalong Slide Puzzle in the Daily Mail in 1930. Later they had a contest for the Tit-Bits Teaser No. 4, which they called the Pasalong Slide Puzzle No. 2, with the competition closing Feb 28th 1931
 
 ## Patents
