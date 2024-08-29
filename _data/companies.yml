@@ -75,6 +75,8 @@
 
 - name: Karakuri Creation Group
   country: Japan
+  founders: Akio Kamei
+  start: 2000
   end: active
 
 - name: Artifactory Puzzles
@@ -88,6 +90,10 @@
   desc: Registered as Paradox Engineering Ltd. to avoid infringing the rights of the band Pentangle. In 2000, the name of the company was changed to Payday Games Limited.
 
 - name: Embossing Company
+  start: 1870
+  location: Albany, New York
+  country: United States
+  founders: Charles Lansing, Robert H. Pruyn, John Townsend Lansing, Robert C. Pruyn, Charles W. Hyatt, John Wesley Hyatt, Isaiah Hyatt
 
 - name: Bestelmeierische Laden
   founders: George Hieronimus Bestelmeier
@@ -104,8 +110,16 @@
 - name: S.S. Adams
   founders: Soren Sorensen Adams
   country: United States
+  start: 1906
+  end: 2009
+  desc: Purchased by MagicMakers, Inc in 2009
 
 - name: Toys From Times Past
+  location: 4299 E Shearer Rd. Rhodes, MI 48652
+  country: United States
+  founders: Don and Dawn Shurlow
+  start: 1980
+  end: 2021
 
 - name: Fiddl'Widdit
 
@@ -116,6 +130,8 @@
 - name: Why Knots
 
 - name: The Educational Toy Manufacturing Co.
+  location: Springfield, Massachusetts
+  country: United States
 
 - name: GO Images, Inc.
 
@@ -185,6 +201,11 @@
 - name: 3M Company
 
 - name: E.S.R., Inc.
+  founders: William H. Duerig, Irving J. Lieberman
+  start: 1963
+  end: 1970s
+  location: 34 Label Street, Montclair, New Jersey
+  country: United States
 
 - name: Parker Brothers
   location: Salem, MA
@@ -246,7 +267,12 @@
 
 - name: Nicol and Co.
 
-- name: Puzzle Master
+- name: Puzzle Master, Inc.
+  founder: Allan Stein
+  location: 832A Cynthia Street, Saskatoon, SK
+  country: Canada
+  start: 1991
+  end: active
 
 - name: B. Shackman & Co.
   founders: David Shackman, Bertha Shackman
@@ -331,18 +357,24 @@
   end: active
   desc: "Started as Noah's Ark. World's oldest toy store. Mentioned in Hoffmann"
 
-
 - name: "Bland's"
   location:  35 New Oxford Street, London
   country: England
-  desc: "Mentioned in Hoffmann"
+  desc: "In 1898, Bland sells his business to Hamleys. Mentioned in Hoffmann"
+  start: 1859
+  end: 1898
 
 - name: "Jaques & Son's"
-  location:  102 Hatton Garden, London
+  location: 102 Hatton Garden, London
   country: England
   desc: "Mentioned in Hoffmann"
+  start: 1795
+  end: active
 
 - name: "Passmore's"
+  founders: Frederick Passmore
   location: 124 Cheapside, London
   country: England
+  start: 1853*
+  end: 1923*
   desc: "Mentioned in Hoffmann"
