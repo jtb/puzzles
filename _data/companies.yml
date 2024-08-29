@@ -1,0 +1,348 @@
+- name: Binary Arts
+  logo: none.jpg
+  location: 1725 Jamieson Avenue, Alexandria, Virginia
+  country: United States
+  start: 1985
+  end: 2003
+  #earliest_date:
+  #latest_date:
+  #abbv:
+  founders: Bill Ritchie, Andrea Barthello
+  desc: Changed name to ThinkFun in 2003
+
+- name: ThinkFun
+  logo: none.jpg
+  location: 1725 Jamieson Avenue, Alexandria, Virginia
+  country: United States
+  start: 2003
+  end: active
+  desc: Formerly known as Binary Arts. Aquired by Ravensburger in 2017
+
+- name: Wireworks
+  country: Canada
+  founders: Mike Talgoy
+  start: 1995*
+  end: 2001*
+
+- name: Peter Pan Playthings Ltd
+  location: Peterborough, United Kingdom
+  country: England
+  start: 1963
+  desc: Aquired in 1973 by Berwick Timpo. Sold to Bluebird Toys in 1987
+
+- name: Roddy
+
+- name: Reiss Games, Inc.
+  founder: Robert "Bob" Reiss
+  start: 1971
+  end: 1981
+  description: Subsidary of National Paragon Corporation. It developed its own toys and games, as well as distributed products for other companies. Originally founded as Reiss Associates Incorporated. In 1981, the company name was officially changed to Paragon-Reiss.
+
+- name: Project Genius
+  location: Austin, Texas
+  country: United States
+  start: 2009
+  end: active
+  founders: Brandi Pinsker, Stephanie Trammell
+
+- name: Arjeu
+  country: France
+
+- name: "Bits & Pieces"
+  location: Lawrenceburg, Indiana
+  country: United States
+  start: 1983
+  end: active
+  founders: Eli Segal
+  desc: 'In 1980, Eli Segal acquired American Publishing, a jigsaw puzzle manufacturer located in Watertown, MA. Three years later, the company launched "The Great International Puzzle Collection," and Bits and Pieces was born.'
+
+- name: Romany
+
+- name: Creative Crafthouse
+  location: Hudson, Florida
+  country: United States
+  start: 2003
+  end: active
+  founders: Dave Janelle
+
+- name: Chadwick-Miller
+  location: 300 Turnpike Street, Peqout Industrial Park, Canton, MA 02021
+  country: United States
+  start: 1957*
+  end: 2007*
+  abbv: CMI
+  desc: 'Chadwick-Miller Inc was a Boston based importer of  low-cost gift items and stationery products sourced mostly from Japan.  These products were branded as Chadwick-Miller although CMI was not a manufacturer.'
+
+- name: Karakuri Creation Group
+  country: Japan
+  end: active
+
+- name: Artifactory Puzzles
+
+- name: Pentangle
+  founders: Ron Cook, James Dalgety
+  location: Over Wallop, Hampshire
+  country: England
+  start: 1971
+  end: 2018
+  desc: Registered as Paradox Engineering Ltd. to avoid infringing the rights of the band Pentangle. In 2000, the name of the company was changed to Payday Games Limited.
+
+- name: Embossing Company
+
+- name: Bestelmeierische Laden
+  founders: George Hieronimus Bestelmeier
+  country: Germany
+  start: 1793
+
+- name: Catel
+  founders: Peter Friedrich Catel
+  location: Berlin
+  country: Germany
+  start: 1780
+  end: 1791
+
+- name: S.S. Adams
+  founders: Soren Sorensen Adams
+  country: United States
+
+- name: Toys From Times Past
+
+- name: Fiddl'Widdit
+
+- name: Puzzletts
+  country: United States
+  start: 1986
+
+- name: Why Knots
+
+- name: The Educational Toy Manufacturing Co.
+
+- name: GO Images, Inc.
+
+- name: Schaper Manufacturing Company
+  founders: 'W. H. “Herb” Schaper'
+  location: Minneapolis, Minnesota
+  start: 1948
+  end: 1986
+  desc: Acquired by Milton Bradley
+
+- name: Onsworld Limited
+
+- name: Innoventures Inc.
+
+- name: Milton Bradley
+  location: Springfield, MA
+  country: United States
+  start: 1861
+  end: active
+
+- name: McLoughlin Brothers
+  location: New York, NY
+  country: United States
+  start: 1855
+  end: 1920
+  desc: Acquired by Milton Bradley
+
+- name: Ideal Novelty & Toy Company
+  location: Brooklyn, NY
+  country: United States
+  start: 1903
+  end: 1938
+  desc: Became Ideal Toy Corporation
+
+- name: Ideal Toy Corporation
+  location: Brooklyn, NY
+  country: United States
+  start: 1938
+  end: 1982
+  desc: Sold to CBS
+
+- name: Synergistics Research Corporation
+
+- name: Crystal Lines
+
+- name: Toys & Games International
+
+- name: Upper Story
+
+- name: Magnif
+  start: 1963
+  end: active
+
+
+- name: The Green Gate Company
+  start: 1972*
+
+- name: Lakeside
+
+- name: Hasbro
+  start: 1923
+  end: active
+  location: Pawtucket, RI
+
+- name: Nintendo
+
+- name: 3M Company
+
+- name: E.S.R., Inc.
+
+- name: Parker Brothers
+  location: Salem, MA
+  country: United States
+  start: 1883
+  end: active
+
+- name: W. A. Elliott Co.
+
+- name: Chad Valley
+  location: Birmingham
+  country: England
+  start: 1897
+  end: active
+
+- name: Sherms, Inc.
+  founders: Robert Sherman
+  country: United States
+  location: Bridgeport, Connecticut
+  start: 1920s*
+  end: 1960s*
+
+- name: W.R. Maxwell
+
+- name: Ross Ettinger Co.
+
+- name: Startabord, Ltd.
+
+- name: The Loony Loop Co
+
+- name: Gibson and Sons
+
+- name: Mysto Manufacturing Company
+  founders: Alfred Carlton Gilbert, John Petrie
+  start: 1909
+  country: United States
+  location: Westville, Connecticut
+  end: 1916
+  desc: Changed to A.C. Gilbert Company
+
+- name: A.C. Gilbert Company
+  founders: Alfred Carlton Gilbert
+  country: United States
+  start: 1916
+  end: 1966
+  desc: Gilbert bought out his Mysto business partners and founded the A. C. Gilbert Company
+
+- name: Modern Brands, Inc.
+
+- name: Tucker-Jones House, Inc.
+
+- name: Tenyo
+
+- name: Uncle's Puzzles
+
+- name: Richter
+
+- name: Hanayama
+
+- name: Nicol and Co.
+
+- name: Puzzle Master
+
+- name: B. Shackman & Co.
+  founders: David Shackman, Bertha Shackman
+  start: 1898
+  end: 2018
+  country: United States
+  location: New York
+
+- name: Watilliaux
+  founders: Charles Watilliaux
+  country: France
+  location: Paris
+  start: 1874
+  end: 1907
+  abbv: WX Paris
+
+- name: Simonin-Cuny
+  start: 1898
+  end: 1904
+  founders: Lucien Napoléon Simonin, Gérardmer Cuny, Agathe Cuny
+  country: France
+  location: Paris
+  abbv: SC Paris
+
+- name: Mauclair-Dacier
+  start: 1893
+  end: 1904
+  country: France
+  location: Paris
+  abbv: MD Paris
+  desc: Mauclair was an employee of Watilliaux. When he left the company and set up on his own in 1887, he became a major rival
+
+- name: Jouet et Jeux Francais
+  abbv: JJF
+  country: France
+  location: Rue de la Douane, Paris
+  start: 1904
+  end: 1931
+  desc: Merger of Mauclair-Dacier (MD), Simonin-Cuny (SC), Wogue et Lévy (AWGL) and Perret Paul
+
+- name: NK Atlas
+  start: 1904
+  end: 1924
+  country: France
+  location: Paris
+  founders: Léon Nicolas, Charles Keller
+  desc: acquired by Georges Bonnet, who continued to produce a variety of games under the GB mark
+
+- name: Revenaz Tabernat
+  founders: Revenaz, Louis Tabernat
+  start: 1904
+  end: 1913
+  abbv: RT
+  desc: Bought Watilliaux house in 1907 and became Les Jeux Reunis in 1913
+
+- name: Les Jeux Reunis
+  start: 1913
+  end: 1946
+  desc: Formed from Revenaz & Tabernat and Watilliaux - re-issued many old designs but in larger boxes
+  abbv: LJR
+
+- name: Villard & Weill
+  start: 1834
+  end: 1968
+
+- name: Standard Trailer Co.
+  start: 1917*
+  location: Cambridge Springs, PA
+  country: United States
+
+- name: Western Puzzle Works
+  location: St. Paul, Minnesota
+  country: United States
+  start: 1908*
+  end: 1933*
+
+- name: "Hamleys"
+  founders: William Hamley
+  location: 231 High Holborn, London
+  country: England
+  start: 1760
+  end: active
+  desc: "Started as Noah's Ark. World's oldest toy store. Mentioned in Hoffmann"
+
+
+- name: "Bland's"
+  location:  35 New Oxford Street, London
+  country: England
+  desc: "Mentioned in Hoffmann"
+
+- name: "Jaques & Son's"
+  location:  102 Hatton Garden, London
+  country: England
+  desc: "Mentioned in Hoffmann"
+
+- name: "Passmore's"
+  location: 124 Cheapside, London
+  country: England
+  desc: "Mentioned in Hoffmann"

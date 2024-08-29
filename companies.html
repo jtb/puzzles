@@ -1,0 +1,54 @@
+---
+layout: default
+title: Puzzle Companies
+---
+
+<div class="w3-container" id=links>
+  <h1>Puzzle Companies: Manufacturers and Distributors </h1>
+  <p>
+    Here is a list of companies that either made or sold puzzles, with emphasis
+    on some of the older companies. This is not comprehensive but contains only
+    the ones that I have come across. I will keep adding to it as I find more.
+    I try my best to find the lifespan of the companies but if I can't find that
+    information, then I will indicate the earliest and latest dates I can find,
+    which I indicate with an asterisk *.
+  </p>
+
+ <p>
+    <table>
+      <tr>
+        <th>Company</th>
+        <!--<th>Founder(s)</th>-->
+        <th>Country</th>
+        <th>Duration (* = earliest/latest verified date)</th>
+        <th> Info </th>
+      </tr>
+
+    {% assign sorted_companies = site.data.companies | sort: "start" %}
+    {% for company in sorted_companies %}
+    {% if company.start %}
+      <tr>
+        {% if company.abbv %}
+        <td>{{company.name }} ({{company.abbv}})</td>
+        {% else %}
+        <td>{{company.name }}</td>
+        {% endif %}
+        <!--<td>{{company.founders }}</td>-->
+        <td>{{company.country }}</td>
+        {% if company.end %}
+        <td>{{company.start }} - {{company.end}}</td>
+        {% else %}
+        <td>{{company.start }}</td>
+        {% endif %}
+        {% if company.founders %}
+        <td>Founded by {{company.founders}}. {{company.desc }}</td>
+        {% else %}
+        <td>{{company.desc }}</td>
+        {% endif %}
+      </tr>
+    {% endif %}
+    {% endfor %}
+    </table>
+  </p>
+
+</div>
