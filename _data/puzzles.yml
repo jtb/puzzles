@@ -130,6 +130,19 @@
   patent: US4415158
   material: plastic
   desc: "In Puzzler series: Novice, Challenger, Avenger"
+  tag: goimages2
+
+- name: Novice
+  img: IMG_8513.JPG
+  type: Permutation
+  designer: Douglas A. Engel
+  maker: GO Images, Inc.
+  date: 1986
+  patent: US4415158
+  material: plastic
+  desc: "In Puzzler series: Novice, Challenger, Avenger"
+  tag: goimages1
+  aquired: 20240730
 
 - name: Entrapment
   img: IMG_6543.JPG
@@ -186,6 +199,13 @@
   material: paper
   tag: JJF
 
+- name: Jeu des Grenouilles
+  img: IMG_8509.JPG
+  type: Sequential Movement
+  maker: WX Paris
+  material: wood
+  aquired: 20240817
+
 - name: Footsie
   img: IMG_6608.JPG
   type: Pattern
@@ -222,6 +242,17 @@
   patent: USD35115
   designer: John C. Foester
   desc: Missing second star that is to be removed
+
+- name: Atlanta Exposition Key Ring
+  img: IMG_8512.JPG
+  type: Tanglement
+  material: metal
+  date: 1895
+  event: Atlanta Exposition
+  patent: US510280
+  designer: James Madison Matthews
+  desc: Move key into each area, including removing.
+  aquired: 20240725
 
 - name: Time Puzzle
   img: IMG_6614.JPG
@@ -382,6 +413,13 @@
   tag: instant insanity
   advert: McLaughlin's Coffee XXXX
   material: wood
+
+- name: 'The "Four-Allies Puzzle"'
+  img: IMG_8508.JPG
+  type: Pattern
+  tag: instant insanity
+  material: wood
+  desc: World War 1. Flags of England, France, Belgium, Russia
 
 - name: Traffic Jam
   img: IMG_6635.JPG
@@ -813,6 +851,13 @@
   material: wood
   maker: Reiss company (distributor)
 
+- name: "The Nine of Swords"
+  img: IMG_8518.JPG
+  type: Pattern
+  material: plastic
+  date: 1971
+  maker: Gametime, Inc. Marketed by Reiss
+
 - name: Violin
   img: IMG_6697.JPG
   type: Tanglement
@@ -1221,6 +1266,12 @@
 - name: The Brain Puzzler
   img: IMG_6792.JPG
   type: Sequential Movement
+  maker: Magnif
+  material: plastic
+
+- name: Cerebral Rings Puzzler
+  img: IMG_8510.JPG
+  type: Disassembly
   maker: Magnif
   material: plastic
 
@@ -2109,7 +2160,7 @@
   desc: WWI. British, French, Russian, Belgian flags. Same as Instant Insanity, except for 2 opposite faces flipped on one cube.
 
 - name: Bashful Lock Cigar Cutter
-  img: none.jpg
+  img: IMG_8511.jpg
   designer: Charles G. Taylor
   maker: Tafo Mfg. Co. L.A. Cal.
   date: circa 1915
@@ -2159,6 +2210,13 @@
   material: cast
   aquired: 20240722
 
+- name: Roly Poly Puzzle
+  img: IMG_8514.JPG
+  type: Dexterity
+  material: wood
+  maker: W.R. Maxwell
+  aquired: 20240801
+
 - name: Tug-o-war
   img: IMG_8110.JPG
   type: Tanglement
@@ -2166,6 +2224,21 @@
   advert: Van Houten
   tag: vanhouten
   aquired: 20240716
+
+- name: Van Houten Trade Card No. 8
+  img: IMG_8516.JPG
+  type: Route Finding
+  material: paper
+  advert: Van Houten
+  tag: vanhouten
+  aquired: 20240823
+
+- name: Newcomb Loom Co. Puzzle
+  img: IMG_8515.JPG
+  type: Assembly
+  material: paper
+  advert: Newcomb Loom
+  aquired: 20240823
 
 - name: "L'Incroyable"
   img: IMG_8113.JPG
