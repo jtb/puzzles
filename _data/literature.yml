@@ -13,6 +13,14 @@ Book of Ingenious and Diabolical Puzzles:
   img: slocum2.jpeg
   desc: Catalog of mechanical puzzles from some of the world's experts.
 
+Пионерская игротека:
+  type: Book
+  author: Е. Минскин
+  year: 1962
+  language: Russian
+  img: russianpuzzlebook.png
+  desc: Translates to Pioneer Toy Library by E. Minskin. Very nice illustrations.
+
 Sliding Piece Puzzles:
   img: hordern.jpg
   type: Book

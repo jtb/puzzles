@@ -1149,6 +1149,15 @@
   patent: US3637216
   designer: William Keister
 
+- name: The Cat
+  img: IMG_8532.JPG
+  type: Sequential Movement
+  maker: Binary Arts
+  material: wood
+  designer: William Keister
+  desc: "One of Binary Arts' first products, along with Hexadecimal and The Horse"
+  aquired: 20240826
+
 - name: The Famous T Puzzle
   img: IMG_6695.JPG
   type: Assembly
@@ -1209,6 +1218,34 @@
   type: Tanglement
   material: wire
   maker: Wireworks Puzzles
+
+- name: Mystic Maze
+  img: IMG_8533.JPG
+  type: Tanglement
+  material: wire
+  maker: Wireworks Puzzles
+  aquired: 20240824
+
+- name: The Wringer
+  img: IMG_8534.JPG
+  type: Tanglement
+  material: wire
+  maker: Wireworks Puzzles
+  aquired: 20240824
+
+- name: Death Valley
+  img: IMG_8535.JPG
+  type: Tanglement
+  material: wire
+  maker: Wireworks Puzzles
+  aquired: 20240824
+
+- name: Wireworks Unknown Name
+  img: IMG_8536.JPG
+  type: Tanglement
+  material: wire
+  maker: Wireworks Puzzles
+  aquired: 20240824
 
 - name: ryede-like square puzzle
   img: IMG_6758.JPG
@@ -1385,6 +1422,12 @@
   material: wire
   desc: Definitely German but unsure of manufactuer.
   tag: German1
+
+- name: Handmade Wire Puzzle Set
+  img: IMG_8531.JPG
+  type: Set
+  material: wire
+  aquired: 20240827
 
 - name: Jayne's Expectorant
   img: IMG_6726.JPG
@@ -2216,6 +2259,13 @@
   material: wood
   maker: W.R. Maxwell
   aquired: 20240801
+
+- name: "The Spiral Puzzle: Tip Top Nerve Tester"
+  img: IMG_8529.JPG
+  type: Dexterity
+  material: plastic
+  maker: The Eng Ser Corp, Albany New York
+  aquired: 20240823
 
 - name: Tug-o-war
   img: IMG_8110.JPG
