@@ -82,12 +82,25 @@
   designer: Richard M. Shaffer
   date: early 1900s
   patent: US642374
+  desc: Spell PERPLEXITY, then spell it backwards. Not as easy as it looks!
+
+- name: Panama Puzzle
+  img: IMG_8588.JPG
+  type: Sliding
+  material: metal plate
+  tag: perplexity2
+  maker: "Moise-Klinkner Co."
+  date: 1915
+  event: "Panama–Pacific International Exposition (PPIE)"
+  desc: Says patented 1914. Starting with the 3 As in front, spell PANAMA in 3 moves by moving 2 adjacent letters at a time.
+  aquired: 20240905
 
 - name: Automobile
   img: IMG_6511.jpeg
   type: Sliding
   material: metal plate
   tag: perplexity
+  desc: Same as Perplexity Puzzle
 
 - name: IMP 15 Puzzle
   img: IMG_6622.JPG
@@ -695,6 +708,7 @@
   tag: perplexity
   material: metal plate
   advert: Harbison & Modica
+  desc: Same as Perplexity Puzzle
 
 - name: JB Hyde Calendar Medal
   img: none.jpg
@@ -1015,9 +1029,21 @@
   type: Tanglement
   material: wire
   advert: Phenyo Caffein
+  designer: "Eldon J. Mcfarland"
+  patent: US962039
+  desc: Ring added by me.
+  tag: phenyo
+
+- name: Barket
+  img: IMG_8594.JPG
+  type: Tanglement
+  material: wire
   designer: Joseph A. Barket
+  date: 1927
   patent: US1649054
-  desc: Ring is obviously not original. There's also a earlier similar patent US962039
+  desc: "Tags say: JOS. A. BARKET | PAT. 11-15-'27 | POTTSVILLE, PA"
+  tag: phenyo
+  aquired: 20240827
 
 - name: Onietoiy Nine Ring
   img: IMG_6541.JPG
@@ -1065,6 +1091,8 @@
   maker: Nicol and Co.
   material: brass
   patent: US528018
+  desc: Missing wingnut
+  tag: keyandring
 
 - name: Chinese Tangram
   img: IMG_6684.JPG
@@ -1451,6 +1479,16 @@
   tag: German2
   desc: Definitely German but unsure of manufactuer. Maybe Spear or C. H. Giesen?
 
+- name: "Spear's Wire Puzzles"
+  img: IMG_8592.JPG
+  type: Set
+  material:  wire
+  maker: "J.W. Spear & Sons"
+  date: 1930s
+  desc: Date based on ad with copyright 1930 in the booklet and style of logo.
+  tag: German3
+  aquired: 20240829
+
 - name: 3 Ring German Puzzle
   img: none.jpg
   type: Tanglement
@@ -1565,6 +1603,7 @@
   tag: perplexity
   date: 1904
   event: Louisiana Purchase Exposition
+  desc: Same as Perplexity Puzzle
 
 - name: Grindelwald Vesta Box
   img: IMG_6494.jpeg
@@ -1572,11 +1611,22 @@
   tag: vesta
   material: wood
 
-- name: Shackman Nut and Bolt Puzzle
+- name: "Nut & Bolt Puzzle"
   img: IMG_6647.JPG
   type: Disassembly
+  maker: Shackman
   material: bolt
   tag: bolt
+
+- name: "Solid Brass Key & Ring Puzzle"
+  img: IMG_8587.JPG
+  maker: Shackman
+  type: Disassembly
+  material: brass
+  tag: keyandring
+  date: 1973
+  aquired: 20240904
+  desc: Zip code on box is 10001 but zip code on instructions is 10003. Shackman moved from 2 West 35 St 10001 to 85 Fifth Ave 10003 around 1973, which is why I guess 1973.
 
 - name: Double Treble Clef
   img: IMG_6547.JPG
@@ -2407,3 +2457,10 @@
   material: paper
   desc: "Lombart claims to be the first chocolate company in France, dating back to 1760."
   advert: Chocolat Lombart Paris
+
+- name: Treen Puzzle Bank
+  img: IMG_8595.JPG
+  type: Bank
+  material: wood
+  desc: Open the bank.
+  aquired: 20240827
