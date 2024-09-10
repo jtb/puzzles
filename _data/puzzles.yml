@@ -89,10 +89,12 @@
   type: Sliding
   material: metal plate
   tag: perplexity2
+  designer: Edgar A Nelson Jr
   maker: "Moise-Klinkner Co."
   date: 1915
   event: "Panama–Pacific International Exposition (PPIE)"
-  desc: Says patented 1914. Starting with the 3 As in front, spell PANAMA in 3 moves by moving 2 adjacent letters at a time.
+  patent: US1109698
+  desc: Starting with the 3 As in front, spell PANAMA in 3 moves by moving 2 adjacent letters at a time.
   aquired: 20240905
 
 - name: Automobile
