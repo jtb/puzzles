@@ -4,15 +4,20 @@
   start: "1995*"
   end: "2001*"
 
+- name: "Fiddl'Widdit"
+  country: United States
+  location: California
+  founders: Marichu Hernandez, Paul Wood
+  start: "1989"
+  end: "2013"
+  desc: "http://www.sonic.net/fiddlwid/"
+
 - name: Binary Arts
   logo: none.jpg
   location: 1725 Jamieson Avenue, Alexandria, Virginia
   country: United States
   start: "1985"
   end: "2003"
-  #earliest_date:
-  #latest_date:
-  #abbv:
   founders: Bill Ritchie, Andrea Barthello
   desc: Changed name to ThinkFun in 2003
 
@@ -121,8 +126,6 @@
   start: "1980"
   end: "2021"
 
-- name: Fiddl'Widdit
-
 - name: Puzzletts
   country: United States
   start: "1986"
@@ -134,6 +137,12 @@
   country: United States
 
 - name: GO Images, Inc.
+  founders: Doug Engel
+  country: United States
+  location: Englewood, Colorado
+  start: "1986*"
+  end: "1986*"
+  desc: Series of rotating disc puzzles
 
 - name: Schaper Manufacturing Company
   founders: 'W. H. “Herb” Schaper'
@@ -181,7 +190,7 @@
 
 - name: Upper Story
 
-- name: Magnif
+- name: Mag-Nif Inc
   start: "1963"
   end: active
 
@@ -256,6 +265,12 @@
 - name: Modern Brands, Inc.
 
 - name: Tucker-Jones House, Inc.
+  founders: Dennis Sucilsky, Donna Sucilsky
+  country: United States
+  location: East Setauket, New York
+  start: 1975
+  end: active
+  desc: Producers of Tavern Puzzles
 
 - name: Tenyo
 
@@ -280,6 +295,13 @@
   end: "2018"
   country: United States
   location: New York
+
+- name: Au Nain Bleu
+  founders: "Jacques-Edouard Chauvière, Louise Chauvière"
+  country: France
+  location: "Saint Honoré district of Paris"
+  start: "1836"
+  end: active
 
 - name: Watilliaux
   founders: Charles Watilliaux
