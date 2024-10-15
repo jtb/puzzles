@@ -234,8 +234,8 @@
   founders: Robert Sherman
   country: United States
   location: Bridgeport, Connecticut
-  start: 1920s*
-  end: 1960s*
+  start: "1920s*"
+  end: "1960s*"
 
 - name: W.R. Maxwell
 
@@ -268,7 +268,7 @@
   founders: Dennis Sucilsky, Donna Sucilsky
   country: United States
   location: East Setauket, New York
-  start: 1975
+  start: "1975"
   end: active
   desc: Producers of Tavern Puzzles
 

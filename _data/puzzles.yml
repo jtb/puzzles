@@ -508,6 +508,15 @@
   patent: US4871173
   designer: Ferdinand Lammertink
 
+- name: The Amazing Chewdini
+  img: none.jpg
+  #img: IMG_8784.JPG
+  type: Disassembly
+  material: plastic
+  maker: Binary Arts
+  date: 1998
+  designer: Ken Forsse
+
 - name: Oskar's Cube
   img: IMG_6540.JPG
   type: Route Finding
@@ -999,6 +1008,33 @@
   tag: tavern 1997
   material: iron
   desc: Released in 1997
+
+- name: Tinker's Bell
+  img: none.jpg
+  #img: IMG_8796.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 1992
+  material: iron
+  desc: Released in 1992
+
+- name: Black Jack
+  img: none.jpg
+  #img: IMG_8797.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 2000
+  material: iron
+  desc: Released in 2000
+
+- name: Freedom's Ring
+  img: none.jpg
+  #img: IMG_8798.JPG
+  type: Tanglement
+  maker: Tucker-Jones House, Inc.
+  tag: tavern 2002
+  material: iron
+  desc: Released in 2002
 
 - name: Fifth Chair
   img: IMG_6789.JPG
@@ -1705,6 +1741,17 @@
   type: Assembly
   material: wood
   tag: bandsaw
+
+- name: Valspar
+  img: none.jpg
+  #img: IMG_8786.JPG
+  type: Tanglement
+  material: metal plate
+  designer: Ernest A Stoppel
+  patent: US1484849
+  date: 1922
+  advert: "Valentine & Company (Valspar varnish)"
+  desc: Probably made of Aluminum.
 
 - name: USoA
   img: IMG_6662.JPG
