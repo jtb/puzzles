@@ -35,6 +35,15 @@
   material: wood
   date: 1969–1984
   desc: Date estimated from the logo
+  tag: bell
+
+- name: "AT&T: The system is the solution"
+  img: IMG_8887.JPG
+  advert: "AT&T"
+  type: Interlocking
+  material: wood
+  tag: bell
+  aquired: 20241009
 
 - name: The Sliding Railroad Puzzle
   img: sliding_railroad.jpg
@@ -145,7 +154,19 @@
   patent: US4415158
   material: plastic
   desc: "In Puzzler series: Novice, Challenger, Avenger"
+  tag: goimages3
+
+- name: Challenger
+  img: IMG_8884.JPG
+  type: Permutation
+  designer: Douglas A. Engel
+  maker: GO Images, Inc.
+  date: 1986
+  patent: US4415158
+  material: plastic
+  desc: "In Puzzler series: Novice, Challenger, Avenger"
   tag: goimages2
+  aquired: 20240910
 
 - name: Novice
   img: IMG_8513.JPG
@@ -241,6 +262,13 @@
   type: Puzzle Box
   tag: japanese
   material: wood
+
+- name: Japanese Dice Box
+  img: IMG_8886.JPG
+  type: Puzzle Box
+  tag: japanese
+  material: wood
+  aquired: 20240825
 
 - name: Rowland & Clark Horseshoes
   img: IMG_6500.jpeg
@@ -434,7 +462,8 @@
   type: Pattern
   tag: instant insanity
   material: wood
-  desc: World War 1. Flags of England, France, Belgium, Russia
+  maker: from England
+  desc: WWI. British, French, Russian, Belgian flags. Same as Instant Insanity, except for 2 opposite faces flipped on one cube.
 
 - name: Traffic Jam
   img: IMG_6635.JPG
@@ -509,13 +538,13 @@
   designer: Ferdinand Lammertink
 
 - name: The Amazing Chewdini
-  img: none.jpg
-  #img: IMG_8784.JPG
+  img: IMG_8784.JPG
   type: Disassembly
   material: plastic
   maker: Binary Arts
   date: 1998
   designer: Ken Forsse
+  aquired: 20241003
 
 - name: Oskar's Cube
   img: IMG_6540.JPG
@@ -847,6 +876,13 @@
   material: paper
   tag: donkey
 
+- name: The New Hunter Puzzle
+  img: IMG_8793.JPG
+  type: Tanglement
+  material: paper
+  advert: "Hunter's Distilleries Co."
+  aquired: 20240921
+
 - name: Uncle Sam's Divorce Puzzle
   img: IMG_6632.JPG
   type: Route Finding
@@ -1010,31 +1046,31 @@
   desc: Released in 1997
 
 - name: Tinker's Bell
-  img: none.jpg
-  #img: IMG_8796.JPG
+  img: IMG_8796.JPG
   type: Tanglement
   maker: Tucker-Jones House, Inc.
   tag: tavern 1992
   material: iron
   desc: Released in 1992
+  aquired: 20240928
 
 - name: Black Jack
-  img: none.jpg
-  #img: IMG_8797.JPG
+  img: IMG_8797.JPG
   type: Tanglement
   maker: Tucker-Jones House, Inc.
   tag: tavern 2000
   material: iron
   desc: Released in 2000
+  aquired: 20240928
 
 - name: Freedom's Ring
-  img: none.jpg
-  #img: IMG_8798.JPG
+  img: IMG_8798.JPG
   type: Tanglement
   maker: Tucker-Jones House, Inc.
   tag: tavern 2002
   material: iron
   desc: Released in 2002
+  aquired: 20240924
 
 - name: Fifth Chair
   img: IMG_6789.JPG
@@ -1232,6 +1268,13 @@
   date: 1939-40
   advert: Ice Man's Ice
   maker: California Association of Ice Industries
+
+- name: Magic K Puzzle
+  img: IMG_8792.JPG
+  type: Assembly
+  material: paper
+  advert: King Blended Whisky, Brown-Forman Distillers Corp
+  aquired: 20240910
 
 - name: Crazy Elephant Dance
   img: IMG_6654.JPG
@@ -1622,6 +1665,14 @@
   maker: Burger King
   date: 2004
 
+- name: Mint Man Puzzle
+  img: IMG_8794.JPG
+  type: Sliding
+  material: plastic
+  maker: The Kelrack Ltd of Middlesex, England
+  date: 1982
+  aquired: 20240926
+
 - name: Confounding Coin Removal
   img: IMG_6661.JPG
   type: Disassembly
@@ -1743,15 +1794,15 @@
   tag: bandsaw
 
 - name: Valspar
-  img: none.jpg
-  #img: IMG_8786.JPG
+  img: IMG_8786.JPG
   type: Tanglement
   material: metal plate
   designer: Ernest A Stoppel
   patent: US1484849
   date: 1922
   advert: "Valentine & Company (Valspar varnish)"
-  desc: Probably made of Aluminum.
+  desc: I think made of Aluminum.
+  aquired: 20241001
 
 - name: USoA
   img: IMG_6662.JPG
@@ -2200,6 +2251,16 @@
   type: Interlocking
   material: wood
   desc: Made in Japan. Imported and sold by Chadwick-Miller, a Boston company.
+  tag: think1
+
+- name: Spiral Wood Block
+  img: IMG_8795.JPG
+  maker: "C.F. White"
+  type: Interlocking
+  material: wood
+  desc: Like Think Puzzle but with curve spiral rather than rectilinear.
+  tag: think2
+  aquired: 20240924
 
 - name: Enigma
   img: IMG_7758.JPG
@@ -2292,15 +2353,6 @@
   type: Sequential Movement
   material: plastic
   desc: Frameless N-ary puzzle. A flat version of Bram Cohen's Ziggurat puzzle.
-
-- name: The Four-Allies Puzzle
-  img: none.jpg
-  maker: from England
-  date: 1914-1918
-  type: Pattern
-  material: wood
-  tag: instant insanity
-  desc: WWI. British, French, Russian, Belgian flags. Same as Instant Insanity, except for 2 opposite faces flipped on one cube.
 
 - name: Bashful Lock Cigar Cutter
   img: IMG_8511.jpg
@@ -2514,3 +2566,30 @@
   material: wood
   desc: Open the bank.
   aquired: 20240827
+
+- name: Treen Shoe Snuff Box
+  img: IMG_8790.JPG
+  type: Puzzle Box
+  tag: vesta2
+  material: wood
+  desc: Similar mechanism as matchbox puzzle
+  aquired: 20240929
+
+- name: The Three Pairs Puzzle
+  img: IMG_8791.JPG
+  type: Interlocking
+  material: wood
+  tag: coffin
+  designer: Stewart Coffin
+  maker: Stewart Coffin
+  date: 1979
+  aquired: 20240928
+
+- name: Crooked Box II
+  img: IMG_8883.JPG
+  type: Interlocking
+  material: wood
+  tag: cutler
+  designer: Bill Cutler
+  maker: Bill Cutler
+  aquired: 20241002
