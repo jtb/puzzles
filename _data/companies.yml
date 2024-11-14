@@ -122,6 +122,12 @@
   end: active
 
 - name: Artifactory Puzzles
+  country: Unitied States
+  location: Portland, Oregon
+  founders: Thomas Moeller , Jeremy Moeller
+  start: "2008*"
+  end: "2018*"
+  desc: Father and son team sold wooden interlocking puzzles for many years at Portland Saturday Market
 
 - name: Pentangle
   founders: Ron Cook, James Dalgety
@@ -168,6 +174,11 @@
   start: "1986"
 
 - name: Why Knots
+  founders: "Joel Langer, Sharon O'Neil"
+  start: "1980*"
+  end: "1981*"
+  location: Aptos, California
+  country: United States
 
 - name: The Educational Toy Manufacturing Co.
   location: Springfield, Massachusetts
@@ -230,7 +241,10 @@
 - name: Mag-Nif Inc
   start: "1963"
   end: active
-
+  founders: William W Knox
+  country: United States
+  location: Mentor, Ohio
+  desc: "Knox was founder and president/CEO from 1963 to 1997"
 
 - name: The Green Gate Company
   start: "1972*"
@@ -316,6 +330,12 @@
 - name: Richter
 
 - name: Hanayama
+  country: Japan
+  location: Tokyo
+  founders: Naoyasu Hanayama
+  start: 1933
+  end: active
+  desc: Started cast puzzle series (Huzzle) in 1983
 
 - name: Nicol and Co.
 
