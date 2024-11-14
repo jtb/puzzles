@@ -333,7 +333,7 @@
   country: Japan
   location: Tokyo
   founders: Naoyasu Hanayama
-  start: 1933
+  start: "1933"
   end: active
   desc: Started cast puzzle series (Huzzle) in 1983
 
