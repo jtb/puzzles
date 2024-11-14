@@ -29,6 +29,43 @@
   end: active
   desc: Formerly known as Binary Arts. Aquired by Ravensburger in 2017
 
+- name: Tensegrity Systems
+  location: Tivoli, NY
+  country: United States
+  start: "1986"
+  end: "1995"
+  founders: Cary Kittner, Stuart Quimby
+  desc: Changed name to Design Science Toys Ltd. around 1996.
+
+- name: Design Science Toys Ltd.
+  location: Tivoli, NY
+  country: United States
+  start: "1996"
+  end: "2005*"
+  desc: Formerly known as Tensegrity Systems. Ended around 2005.
+
+- name: Naef Spiele
+  founders: Kurt Naef
+  location: CH 4314 Zeiningen, Switzerland
+  country: Switzerland
+  start: "1954"
+  end: active
+
+- name: R. Journet
+  founders: Robert Journet
+  country: England
+  start: "1878"
+  end: "1976*"
+  desc: "Robert Journet started a toy shop in 1878 in Paddington. His father hand-made the first puzzles in the early 1890's."
+
+- name: Stanyon's Magic
+  founders: Ellis Stanyon
+  location: London, England
+  country: England
+  start: "1900"
+  end: "1920"
+  desc: Magic was a journal published by Stanyon during 1900 to 1914 and 1919 to 1920. He was a magic dealer in London but also sold some puzzles, like Stanyon's Superb Cabinet of Puzzles.
+
 - name: Peter Pan Playthings Ltd
   location: Peterborough, United Kingdom
   country: England
@@ -38,7 +75,7 @@
 - name: Roddy
 
 - name: Reiss Games, Inc.
-  founder: Robert "Bob" Reiss
+  founders: Robert "Bob" Reiss
   start: "1971"
   end: "1981"
   description: Subsidary of National Paragon Corporation. It developed its own toys and games, as well as distributed products for other companies. Originally founded as Reiss Associates Incorporated. In 1981, the company name was officially changed to Paragon-Reiss.
@@ -283,11 +320,18 @@
 - name: Nicol and Co.
 
 - name: Puzzle Master, Inc.
-  founder: Allan Stein
+  founders: Allan Stein
   location: 832A Cynthia Street, Saskatoon, SK
   country: Canada
   start: "1991"
   end: active
+
+- name: Pelikan
+  founders: Josef Pelikan
+  country: Czech Republic
+  start: "1992*"
+  end: active
+  desc: After the death of Josef in 2005, the company was taken over by two of the original employees, Jakub Dvořák and Jaroslav Švejkovský.
 
 - name: B. Shackman & Co.
   founders: David Shackman, Bertha Shackman

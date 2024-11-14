@@ -2155,7 +2155,8 @@
   img: IMG_7407.JPG
   type: Assembly
   material: wood
-  desc: Unsure of maker, possibly Constantin
+  maker: Constantin
+  tag: constantin
 
 - name: Nankai
   img: IMG_7409.JPG
