@@ -1987,6 +1987,7 @@
   maker: Skjøde of Skjern
   material: wood
   date: 1966
+  tag: soma
 
 - name: 'The Who #305'
   img: IMG_6768.JPG
@@ -2006,6 +2007,7 @@
   img: IMG_6769.JPG
   type: Tanglement
   material: wire
+  tag: spiralwire
 
 - name: Chaotic Cube
   img: IMG_6815.JPG
@@ -2593,3 +2595,85 @@
   designer: Bill Cutler
   maker: Bill Cutler
   aquired: 20241002
+
+- name: Magic Box
+  img: IMG_9440.JPG
+  maker: Magnif
+  material: plastic
+  type: Puzzle Box
+  date: 1969
+  aquired: 20241013
+
+- name: Dodeca
+  img: IMG_9441.JPG
+  type: Interlocking
+  material: wood
+  maker: Design Science Toys Ltd
+  date: 1996
+  aquired: 20241030
+
+- name: Twist and Shout
+  img: IMG_9445.JPG
+  type: Permutation
+  material: wood
+  maker: Creative Crafthouse
+  date: 2021
+  aquired: 20210318
+
+- name: Google SOMA
+  img: IMG_9446.JPG
+  type: Assembly
+  designer: Piet Hein
+  material: wood
+  advert: Google
+  desc: Received during interview at Google
+  tag: soma
+
+- name: Wood Plane Snuff Box
+  img: IMG_9448.JPG
+  type: Puzzle Box
+  tag: vesta
+  material: wood
+  aquired: 20241101
+  desc: Possibly handmade in 1930s-50s in Oshkosh, WI. Differnt opening mechanism than the standard.
+
+- name: Six Panel Bank
+  img: IMG_9449.JPG
+  type: Bank
+  material: wood
+  aquired: 20241018
+  desc: I believe it's an impossible object rather than disassembly.
+
+- name: Spiral and Sword
+  img: IMG_9450.JPG
+  type: Tanglement
+  material: wire
+  tag: spiralwire
+  aquired: 20241103
+
+- name: Buffalo Nickel
+  img: IMG_9451.JPG
+  type: Interlocking
+  material: metal
+  designer: Oskar van Deventer, George Miller
+  maker: Bits & Pieces
+  aquired: 20241104
+  desc: 07-7074. Based on a puzzle design by Oskar van Deventer and originally made by George Miller for IPP 20 in Los Angeles.
+
+- name: The Popular Puzzle Compendium
+  img: IMG_9452.JPG
+  material: metal
+  type: Set
+  maker: Journet
+  aquired: 20241103
+
+- name: Naef Campanile
+  img: IMG_9453.JPG
+  type: Pattern
+  material: wood
+  tag: naef
+  designer: Manfred Zipfel, Cordula Von Tettau
+  maker: Naef
+  date: 1988
+  aquired: 20241031
+  desc: "Copyright 1979. Box stamped 02/88 so I assume made in 1988."
