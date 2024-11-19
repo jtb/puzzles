@@ -101,6 +101,22 @@ article#book.card {
   background-color: #dddddd;
 }
 
+#mdtable+table {
+  font-family: arial, sans-serif;
+  border-collapse: collapse;
+  width: 100%;
+}
+
+#mdtable+table td, #mdtable+table th {
+  border: 1px solid #dddddd;
+  text-align: left;
+  padding: 8px;
+}
+
+#mdtable+table tr:nth-child(even) {
+  background-color: #dddddd;
+}
+
 #divider hr {
     border: 0;
     border-top: 1px solid #000;

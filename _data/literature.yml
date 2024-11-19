@@ -13,6 +13,14 @@ Book of Ingenious and Diabolical Puzzles:
   img: slocum2.jpeg
   desc: Catalog of mechanical puzzles from some of the world's experts.
 
+'New book of puzzles : 101 classic and modern puzzles to make and solve':
+  type: Book
+  author: Jerry Slocum and Jack Botermans
+  year: 1992
+  url: https://archive.org/details/newbookofpuzzles0000sloc
+  language: English
+  img: slocum3.jpeg
+
 Пионерская игротека:
   type: Book
   author: Е. Минскин
