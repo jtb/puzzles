@@ -1258,6 +1258,7 @@
   material: wood
   designer: William Keister
   desc: "One of Binary Arts' first products, along with Hexadecimal and The Horse"
+  date: 1985
   aquired: 20240826
 
 - name: The Famous T Puzzle
@@ -2602,7 +2603,7 @@
   maker: Magnif
   material: plastic
   type: Puzzle Box
-  date: 1969
+  date: 1970s
   aquired: 20241013
 
 - name: Dodeca
@@ -2651,6 +2652,7 @@
   material: wire
   tag: spiralwire
   aquired: 20241103
+  desc: Possibly from 1915 German set (Slocum's New Book of Puzzles, page 86). Purchased in same lot as a Journet puzzle set.
 
 - name: Buffalo Nickel
   img: IMG_9451.JPG
@@ -2659,7 +2661,7 @@
   designer: Oskar van Deventer, George Miller
   maker: Bits & Pieces
   aquired: 20241104
-  desc: 07-7074. Based on a puzzle design by Oskar van Deventer and originally made by George Miller for IPP 20 in Los Angeles.
+  desc: 07-7074. Based on a puzzle design by Oskar van Deventer and originally made by George Miller for IPP 20 in Los Angeles. Missing wooden token.
 
 - name: The Popular Puzzle Compendium
   img: IMG_9452.JPG
