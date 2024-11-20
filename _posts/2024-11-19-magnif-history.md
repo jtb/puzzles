@@ -84,21 +84,21 @@ If the puzzle was part of a series, I included that as well.
 |---|---|---|
 |Numble|  | Game | 1965
 |Tumble Numble ||Game| 1966
-|The Magic Box/Cube || Puzzle Box| 1969, 1973
-|Happy Cubes||Folding SOMA|1970
-|Pharaoh's Dilemma||Tower of Hanoi|1970
-|Psyche Generator||Do Nothing Machine|1970
-|Psyc Out / Flip Out||Game (Nim)|1970, 1973
-|Astro Logic/Astrologic||Interlocking|1970, 1989
+|The Magic Box/Cube |The Big Game Chest| Puzzle Box| 1969, 1973
+|Switch|The Big Game Chest|Rearrangement|1970, 1972
+|Psyche Generator|The Big Game Chest|Do Nothing Machine|1970
+|Psyc Out / Flip Out|The Big Game Chest|Game (Nim)|1970, 1973
+|Pharaoh's Dilemma|The Big Game Chest|Tower of Hanoi|1970
 |Luck Out||Game|1970, 1972
-|Switch||Rearrangement|1970, 1972
+|Happy Cubes|Pandora's Box|Folding SOMA|1970
+|Astro Logic/Astrologic|Pandora's Box|Interlocking|1970, 1989
+|Curious Cross|Pandora's Box|Interlocking|1971
 |Count Down|Mental Hang Ups|Peg Solitaire|1971
 |Double Cross|Mental Hang Ups|Assembly|1971, 1981
 |Drop Out|Mental Hang Ups|Dexterity|1971
 |Outer Limits|Mental Hang Ups|Dexterity|1971
 |The Great Escape|Mental Hang Ups|Disassembly|1971
 |Score 3|Mental Hang Ups|Game|1971, 1981
-|Curious Cross||Interlocking|1971
 |Plato's Plight / Plato's Secret||Tensegrity|1971, 1982
 |Levitation||Dexterity|1971
 |Even Steven||Pattern|1971
@@ -154,11 +154,11 @@ If the puzzle was part of a series, I included that as well.
 |Minute Maze||Maze|1979
 |Disco Dime||Interlocking?|1979
 |Low Score I|||1979
-|Gravi-Tease 1|GraviTease|Dexterity|1980, 1989
-|Gravi-Tease 2|GraviTease|Dexterity|1980
-|Gravi-Tease 3|GraviTease|Dexterity|1980, 1989
-|Gravi-Tease 4|GraviTease|Dexterity|1980
-|Texas Gravi-Tease|GraviTease|Dexterity|1980
+|Gravi-Tease 1|Water Puzzle|Dexterity|1980, 1989
+|Gravi-Tease 2||Dexterity|1980
+|Gravi-Tease 3|Water Puzzle|Dexterity|1980, 1989
+|Gravi-Tease 4||Dexterity|1980
+|Texas Gravi-Tease||Dexterity|1980
 |Brain Trust|Set of Curious Cross, Astrologic, 3rd Dim I|Interlocking|1980, 1982
 |Roller Coaster Puzzles||Dexterity|1982, 1984
 |Illusions|Puzzler|Assembly|1983, 1987, 1989
@@ -169,6 +169,5 @@ If the puzzle was part of a series, I included that as well.
 |Space Probe| Star Shooters|Dexterity|1983
 |Orbiter | Star Shooters|Dexterity|1983
 |Top Attraction||Gyroscope|1984
-|Love Glove||2 handed glove|1986
 |Cerebral Rings|Puzzler|Disassembly|1987, 1989
 |Saturn|Puzzler|Rearrangement|1990
