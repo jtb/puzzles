@@ -150,7 +150,6 @@ If the puzzle was part of a series, I included that as well.
 |Mental Case||Puzzle box|1978
 |Down & Out||Game|1979
 |Odyssey Kaleidoscope||Kinetic sculpture|1979
-|Labyrinth|||1979
 |Minute Maze||Maze|1979
 |Disco Dime||Interlocking?|1979
 |Low Score I|||1979
@@ -171,3 +170,4 @@ If the puzzle was part of a series, I included that as well.
 |Top Attraction||Gyroscope|1984
 |Cerebral Rings|Puzzler|Disassembly|1987, 1989
 |Saturn|Puzzler|Rearrangement|1990
+|Money Maze||Maze|2007
