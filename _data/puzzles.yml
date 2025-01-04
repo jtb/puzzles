@@ -53,15 +53,14 @@
   patent: US332211
   tag: shunting
 
-- name: "Engineer's and Switchman's Puzzle"
-  img: sliding_railroad.jpg
-  designer: Charles W. Lurtey
-  type: Sliding
-  material: wood
-  patent: US442445
-  date: 1890
-  tag: shunting
-  aquired: 20241231
+#- name: "Engineer's and Switchman's Puzzle"
+#  designer: Charles W. Lurtey
+#  type: Sliding
+#  material: wood
+#  patent: US442445
+#  date: 1890
+#  tag: shunting
+#  aquired: 20241231
 
 - name: Zauberkreuz (Magic Cross)
   img: IMG_6781.JPG
@@ -476,16 +475,15 @@
   event: World War I
   desc: WWI. British, French, Russian, Belgian flags. Same as Instant Insanity, except for 2 opposite faces flipped on one cube.
 
-- name: The Armistice Puzzle Game
-  img: IMG_8508.JPG
-  type: Sliding
-  tag: ww1
-  material: wood
-  date: 1919
-  maker: The Armistice Co, Des Moines, IA
-  desc: WWI. United States, Great Britain, France, Greece, Russia, Japan, Germany
-  event: World War I
-  aquired: 20250103
+#- name: The Armistice Puzzle Game
+#  type: Sliding
+#  tag: ww1
+#  material: wood
+#  date: 1919
+#  maker: The Armistice Co, Des Moines, IA
+#  desc: WWI. United States, Great Britain, France, Greece, Russia, Japan, Germany
+#  event: World War I
+#  aquired: 20250103
 
 - name: Traffic Jam
   img: IMG_6635.JPG
@@ -1463,27 +1461,31 @@
 - name: The Brain Puzzler
   img: IMG_6792.JPG
   type: Sequential Movement
-  maker: MagnifPuzzler
+  maker: Magnif
+  tag: MagnifPuzzler
   material: plastic
 
 - name: Cerebral Rings Puzzler
   img: IMG_8510.JPG
   type: Disassembly
-  maker: MagnifPuzzler
+  maker: Magnif
+  tag: MagnifPuzzler
   material: plastic
 
 - name: Saturn Puzzler
   img: IMG_0245.JPG
   type: Permutation
   maker: Magnif
-  material: MagnifPuzzler
+  tag: MagnifPuzzler
+  material: plastic
   aquired: 20241113
 
 - name: On the Level Puzzler
   img: IMG_0246.JPG
   type: Pattern
   maker: Magnif
-  material: MagnifPuzzler
+  tag: MagnifPuzzler
+  material: plastic
   aquired: 20241114
 
 - name: 3 dimensional Cross Puzzle
@@ -2277,13 +2279,12 @@
   tag: japanese
   desc: Less common 8-piece version
 
-- name: Daruma Japanese Kumiki Barrel
-  img: IMG_7768.JPG
-  type: Interlocking
-  material: wood
-  tag: japanese
-  desc: Japanese Daruma dolls are modeled after Bodhidharma, the founder of the Zen tradition of Buddhism. Paint one eye when making wish, and the other eye when wish is fulfilled.
-  aquired: 20241231
+#- name: Daruma Japanese Kumiki Barrel
+#  type: Interlocking
+#  material: wood
+#  tag: japanese
+#  desc: Japanese Daruma dolls are modeled after Bodhidharma, the founder of the Zen tradition of Buddhism. Paint one eye when making wish, and the other eye when wish is fulfilled.
+#  aquired: 20241231
 
 - name: Vermont Castings Maze (The Amazing Gizmo)
   img: IMG_7766.JPG
