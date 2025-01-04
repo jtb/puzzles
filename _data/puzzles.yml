@@ -53,6 +53,16 @@
   patent: US332211
   tag: shunting
 
+- name: "Engineer's and Switchman's Puzzle"
+  img: sliding_railroad.jpg
+  designer: Charles W. Lurtey
+  type: Sliding
+  material: wood
+  patent: US442445
+  date: 1890
+  tag: shunting
+  aquired: 20241231
+
 - name: Zauberkreuz (Magic Cross)
   img: IMG_6781.JPG
   type: Permutation
@@ -463,7 +473,19 @@
   tag: instant insanity
   material: wood
   maker: from England
+  event: World War I
   desc: WWI. British, French, Russian, Belgian flags. Same as Instant Insanity, except for 2 opposite faces flipped on one cube.
+
+- name: The Armistice Puzzle Game
+  img: IMG_8508.JPG
+  type: Sliding
+  tag: ww1
+  material: wood
+  date: 1919
+  maker: The Armistice Co, Des Moines, IA
+  desc: WWI. United States, Great Britain, France, Greece, Russia, Japan, Germany
+  event: World War I
+  aquired: 20250103
 
 - name: Traffic Jam
   img: IMG_6635.JPG
@@ -1119,6 +1141,14 @@
   tag: phenyo
   aquired: 20240827
 
+- name: Folk Art Chilian
+  img: IMG_0252.JPG
+  type: Tanglement
+  material: wire
+  desc: "Possibly hand-made. Ring added."
+  tag: phenyo
+  aquired: 20241125
+
 - name: Onietoiy Nine Ring
   img: IMG_6541.JPG
   type: Sequential Movement
@@ -1261,6 +1291,16 @@
   date: 1985
   aquired: 20240826
 
+- name: The Horse
+  img: IMG_0250.JPG
+  type: Sequential Movement
+  maker: Binary Arts
+  material: wood
+  designer: William Keister
+  desc: "One of Binary Arts' first products, along with Hexadecimal and The Cat"
+  date: 1985
+  aquired: 20241118
+
 - name: The Famous T Puzzle
   img: IMG_6695.JPG
   type: Assembly
@@ -1276,6 +1316,16 @@
   material: paper
   advert: King Blended Whisky, Brown-Forman Distillers Corp
   aquired: 20240910
+
+- name: FD Puzzle
+  img: IMG_0243.JPG
+  type: Assembly
+  material: paper
+  date: 1933
+  maker: Perry & Elliott Co, Lynn, MA
+  desc: Intials of President Franklin D. Roosevelt
+  event: "FDR's first term as President"
+  aquired: 20241215
 
 - name: Crazy Elephant Dance
   img: IMG_6654.JPG
@@ -1413,14 +1463,28 @@
 - name: The Brain Puzzler
   img: IMG_6792.JPG
   type: Sequential Movement
-  maker: Magnif
+  maker: MagnifPuzzler
   material: plastic
 
 - name: Cerebral Rings Puzzler
   img: IMG_8510.JPG
   type: Disassembly
-  maker: Magnif
+  maker: MagnifPuzzler
   material: plastic
+
+- name: Saturn Puzzler
+  img: IMG_0245.JPG
+  type: Permutation
+  maker: Magnif
+  material: MagnifPuzzler
+  aquired: 20241113
+
+- name: On the Level Puzzler
+  img: IMG_0246.JPG
+  type: Pattern
+  maker: Magnif
+  material: MagnifPuzzler
+  aquired: 20241114
 
 - name: 3 dimensional Cross Puzzle
   img: IMG_6785.JPG
@@ -1525,6 +1589,14 @@
   type: Tanglement
   material: cast
   desc: RD 577846 (1911)
+
+- name: A-B-C Sico Toys Puzzle
+  img: IMG_0248.JPG
+  type: Tanglement
+  material: cast
+  advert: Sico Toys
+  desc: RD 849365 (1947)
+  aquired: 20241129
 
 - name: German Wire Puzzle Box
   img: IMG_6810.JPG
@@ -1656,7 +1728,8 @@
 - name: WW2 Bombing Mystery Puzzle
   img: IMG_6793.JPG
   type: Assembly
-  material: papear
+  material: paper
+  event: World War II
   date: 1943
 
 - name: Spongebob Burger King Sliding Puzzle
@@ -1680,11 +1753,18 @@
   maker: Bits & Pieces
   material: wood
 
-- name:  Ten Card Puzzle buggy & harness
+- name: Ten Card Puzzle buggy & harness
   img: IMG_6687.JPG
   type: Assembly
   material: paper
   advert: Wilber H Murray Mfg.
+
+- name: The T.A. Snider Diamond Puzzle
+  img: IMG_0251.JPG
+  type: Assembly
+  material: paper
+  advert: "Snider's Soups, Catsups, Sauces"
+  aquired: 20241118
 
 - name: Louisiana Purchase Exposition
   img: IMG_6508.jpeg
@@ -2197,6 +2277,14 @@
   tag: japanese
   desc: Less common 8-piece version
 
+- name: Daruma Japanese Kumiki Barrel
+  img: IMG_7768.JPG
+  type: Interlocking
+  material: wood
+  tag: japanese
+  desc: Japanese Daruma dolls are modeled after Bodhidharma, the founder of the Zen tradition of Buddhism. Paint one eye when making wish, and the other eye when wish is fulfilled.
+  aquired: 20241231
+
 - name: Vermont Castings Maze (The Amazing Gizmo)
   img: IMG_7766.JPG
   maker: Vermont Castings, of Randolph Vermont
@@ -2275,6 +2363,24 @@
   type: Tanglement
   material: cast
   tag: hanayama
+
+- name: Zelda Master Sword
+  img: IMG_0242.JPG
+  maker: Hanayama
+  date: 2023
+  type: Route Finding
+  material: cast
+  tag: hanayama
+  aquired: 20241231
+
+- name: Zelda Triforce
+  img: IMG_0241.JPG
+  maker: Hanayama
+  date: 2023
+  type: Disassembly
+  material: cast
+  tag: hanayama
+  aquired: 20241231
 
 - name: Triple twins
   img: IMG_7757.JPG
@@ -2422,6 +2528,23 @@
   material: plastic
   maker: The Eng Ser Corp, Albany New York
   aquired: 20240823
+
+- name: IBM Puzzle
+  img: IMG_0249.JPG
+  type: Dexterity
+  material: plastic
+  advert: IBM
+  aquired: 20241206
+
+- name: Pigs in Clover
+  img: IMG_0244.JPG
+  type: Dexterity
+  material: wood
+  designer: Charles Crandall
+  patent: US410956
+  date: 1889
+  aquired: 20241203
+  desc: Balls different sizes/colors so possibly not all original. Appears restitched.
 
 - name: Tug-o-war
   img: IMG_8110.JPG
@@ -2680,3 +2803,30 @@
   date: 1988
   aquired: 20241031
   desc: "Copyright 1979. Box stamped 02/88 so I assume made in 1988."
+
+- name: Coca-Cola Nails
+  img: IMG_0254.JPG
+  type: Tanglement
+  material: metal
+  advert: Coca-Cola
+  aquired: 20241106
+
+- name: Four Corners Puzzle
+  img: IMG_0253.JPG
+  type: Interlocking
+  material: wood
+  tag: coffin
+  designer: Stewart Coffin
+  maker: Stewart Coffin
+  date: 1971
+  aquired: 20241108
+  desc: 'Stamped "AP-ART (C) 1971 S.T.C" Nick Baxter said Coffin did that stamp early on, and maybe just 1971. Afterwards, he would inscribed in ink or pencil.'
+
+- name: Van Houten Magic Square Puzzle
+  img: IMG_0247.JPG
+  type: Tanglement
+  material: paper
+  advert: Van Houten
+  tag: vanhouten
+  desc: Pieces appear to be sealed in original packaging.
+  aquired: 20241110

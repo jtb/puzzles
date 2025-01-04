@@ -55,6 +55,24 @@ Puzzles Old and New:
   img: hoffmann.jpg
   desc: Catalog of mechanical puzzles available in Victorian London in the 1890s
 
+Puzzles for Everyone:
+  type: Book
+  author: Julien J. Proskauer
+  place: USA
+  publisher: Harper & Brothers
+  year: 1944
+  language: English
+  img: puzzlesforeveryone.png
+  desc: First Edition
+
+Edelweiss Boxes with Secret Openings:
+  type: Book
+  author: Peter Hajek and Frans de Vreugd
+  place: UK
+  year: 2024
+  language: English
+  img: edelweiss.png
+
 Ingenious Rings book (Chinese):
   img: IMG_6594.JPG
   type: Book
