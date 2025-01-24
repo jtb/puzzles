@@ -58,6 +58,20 @@
   end: "1976*"
   desc: "Robert Journet started a toy shop in 1878 in Paddington. His father hand-made the first puzzles in the early 1890's."
 
+- name: International Card Company
+  founders: Harry Percy Gibson
+  country: England
+  start: "1903"
+  end: "1919"
+  desc: "Supplied stationers with card and printed products. Sold to the De La Rue Company."
+
+- name: H.P. Gibson and Sons, Ltd
+  founders: Harry Percy Gibson
+  country: England
+  start: "1919"
+  end: active
+  desc: "Formed after selling International Card Company."
+
 - name: Stanyon's Magic
   founders: Ellis Stanyon
   location: London, England
@@ -295,8 +309,6 @@
 - name: Startabord, Ltd.
 
 - name: The Loony Loop Co
-
-- name: Gibson and Sons
 
 - name: Mysto Manufacturing Company
   founders: Alfred Carlton Gilbert, John Petrie
