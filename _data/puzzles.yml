@@ -286,14 +286,13 @@
   advert: Rowland & Clark's Arcade Theatre
 
 - name: Crescent & Star
-  img: IMG_6501.jpeg
+  img: IMG_0524.jpeg
   type: Tanglement
   material: metal plate
   date: 1901
   event: Pan-American Exposition
   patent: USD35115
   designer: John C. Foester
-  desc: Missing second star that is to be removed
 
 - name: Atlanta Exposition Key Ring
   img: IMG_8512.JPG
@@ -363,6 +362,21 @@
   material: wood
   desc: Appears to be handmade
 
+- name: Wooden Number Slide with Lid
+  img: IMG_0533.JPG
+  type: Sliding
+  material: wood
+  desc: Appears to be handmade
+  aquired: 20250112
+
+- name: The Number 7 Puzzle
+  img: IMG_0528.JPG
+  maker: James H. Hawes MFG Co
+  type: Sliding
+  material: wood
+  desc: Tower of Hannoi
+  aquired: 20250107
+
 - name: Keys
   img: IMG_6498.jpeg
   type: Tanglement
@@ -407,6 +421,28 @@
   type: Assembly
   material: paper
   tag: donkey
+
+- name: Blind Luck
+  img: IMG_0530.JPG
+  type: Nim
+  material: paper
+  tag: loyd
+  designer: Sam Loyd
+  advert: The New Home Sewing Machine Company
+  desc: Two players take turns covering numbers. First to 51 wins. See Sam Loyd and His Chess Problems
+  tag: loyd
+  aquired: 20250108
+
+- name: The Lost Jap
+  img: IMG_0538.JPG
+  type: Pattern
+  material: paper
+  tag: loyd
+  date: 1897
+  designer: Sam Loyd
+  advert: Metropolitan Life Insurance
+  tag: loyd
+  aquired: 20250129
 
 - name: Century of Progress
   img: IMG_6515.JPG
@@ -475,15 +511,16 @@
   event: World War I
   desc: WWI. British, French, Russian, Belgian flags. Same as Instant Insanity, except for 2 opposite faces flipped on one cube.
 
-#- name: The Armistice Puzzle Game
-#  type: Sliding
-#  tag: ww1
-#  material: wood
-#  date: 1919
-#  maker: The Armistice Co, Des Moines, IA
-#  desc: WWI. United States, Great Britain, France, Greece, Russia, Japan, Germany
-#  event: World War I
-#  aquired: 20250103
+- name: The Armistice Puzzle Game
+  img: IMG_0539.JPG
+  type: Sliding
+  tag: ww1
+  material: wood
+  date: 1919
+  maker: The Armistice Co, Des Moines, IA
+  desc: WWI. United States, Great Britain, France, Greece, Russia, Japan, Germany
+  event: World War I
+  aquired: 20250103
 
 - name: Traffic Jam
   img: IMG_6635.JPG
@@ -704,6 +741,17 @@
   img: IMG_6552.JPG
   type: Permutation
   material: plastic
+  tag: hungary
+
+- name: Olympic Rings
+  img: IMG_0356.JPG
+  type: Permutation
+  material: plastic
+  maker: from Hungary
+  desc: A generalization of Hungarian Rings for Summer Olympics
+  tag: hungary
+  event: Olympics
+  aquired: 20250120
 
 - name: BP edge matching
   img: IMG_6689.JPG
@@ -916,10 +964,6 @@
   designer: Jean Claude Constantin
   tag: constantin
   material: wood
-
-- name: Hungarian Rings 2
-  img: none.jpg
-  type: Permutation
 
 - name: Cadaco Cluster Puzzle
   img: IMG_6600.JPG
@@ -1471,6 +1515,7 @@
   maker: Magnif
   tag: MagnifPuzzler
   material: plastic
+  date: 1989
 
 - name: Saturn Puzzler
   img: IMG_0245.JPG
@@ -1500,6 +1545,24 @@
   maker: Magnif
   material: plastic
 
+- name: Bird in the Nest
+  img: IMG_0517.JPG
+  type: Interlocking
+  maker: Bits & Pieces
+  material: wood
+  designer: Vladimir Krasnoukhov and James Dalgety
+  aquired: 20250215
+
+- name: Brass Bolt
+  img: IMG_0521.JPG
+  type: Disassembly
+  maker: Bits & Pieces
+  material: brass
+  designer: Rocky Chiaro
+  desc: 07-7863. Same as Ring-N-Nut
+  tag: bolt
+  aquired: 20250218
+
 - name: Cannon
   img: IMG_6558.JPG
   type: Disassembly
@@ -1507,6 +1570,7 @@
   material: brass
   designer: Doug Haigh
   desc: Based on puzzle in Hoffmann's book
+  tag: haigh
 
 - name: Lighthouse
   img: IMG_6557.JPG
@@ -1515,6 +1579,26 @@
   material: brass
   designer: Doug Haigh
   desc: Based on puzzle in Hoffmann's book
+  tag: haigh
+
+- name: Jailbreak
+  img: IMG_0532.JPG
+  type: Disassembly
+  maker: Bits & Pieces
+  material: brass
+  designer: Doug Haigh
+  desc: Based on puzzle in Hoffmann's book
+  tag: haigh
+  aquired: 20250124
+
+- name: Jailbreak
+  img: none.jpg
+  type: Disassembly
+  maker: Bits & Pieces
+  material: brass
+  designer: Doug Haigh
+  desc: Based on puzzle in Hoffmann's book
+  tag: haigh
 
 - name: 99 piece Pagoda
   img: IMG_6678.JPG
@@ -1783,6 +1867,20 @@
   tag: vesta
   material: wood
 
+- name: Gornergrat Edelweiss Box
+  img: IMG_0522.JPG
+  type: Puzzle Box
+  tag: edelweiss
+  material: wood
+  aquired: 20250213
+
+- name: "Shackman Painted Doll"
+  img: IMG_0362.JPG
+  type: Interlocking
+  maker: Shackman
+  material: wood
+  aquired: 20250107
+
 - name: "Nut & Bolt Puzzle"
   img: IMG_6647.JPG
   type: Disassembly
@@ -1930,6 +2028,14 @@
   material: wood
   tag: japanese
 
+- name: Japanese Stack of Books
+  img: IMG_0518.JPG
+  type: Puzzle Box
+  material: wood
+  desc: Japanese version of the Sorrento box
+  tag: japanese
+  aquired: 20250126
+
 - name: Twelve Piece Separation
   img: IMG_6677.JPG
   designer: Stewart Coffin
@@ -1951,16 +2057,25 @@
   maker: Bits & Pieces
   material: wood
 
+- name: "Shinola Puzzle Assortment No. 1"
+  img: IMG_0358.JPG
+  type: Set
+  material: wire
+  advert: "Shinola Liquid Polish for Children's Shoes"
+  aquired: 20250105
+
 - name: Popular Puzzle Compendium
   img: IMG_6812.JPG
   type: Set
   maker: Journet
+  material: metal
 
 - name: '"Family" Compendium Of Puzzles'
   img: IMG_6811.JPG
   type: Set
   maker: Journet
   desc: only half of the puzzles pictured are original to the box
+  material: metal
 
 - name: Daily Mail World Record
   img: IMG_6650.JPG
@@ -2057,12 +2172,6 @@
   patent: US5176382
   designer: Christoph Hausammann
 
-- name: Chocolat Lombart
-  img: none.jpg
-  type: Assembly
-  material: paper
-  advert: Chocolat Lombart
-
 - name: SOMA
   img: IMG_6601.JPG
   type: Assembly
@@ -2122,6 +2231,13 @@
   designer: Edward S Mowry
   date: early 1900s
   desc: "Faint engraving, but I believe it says Link The Link, Pat July 7 '03"
+
+- name: Trapeze Acrobat
+  img: IMG_0523.JPG
+  type: Tanglement
+  material: metal plate
+  maker: Germany
+  aquired: 20250112
 
 - name: VIM
   img: IMG_6502.jpeg
@@ -2262,6 +2378,16 @@
   material: wood
   date: circa 1900
   desc: Mentioned in Hoffmann's puzzle book
+  tag: hoffmann
+
+- name: Canon and Ball
+  img: IMG_0519.JPG
+  type: Disassembly
+  material: wood
+  date: circa 1900
+  desc: Mentioned in Hoffmann's puzzle book
+  tag: hoffmann
+  aquired: 20250210
 
 - name: Tennessee Jed's Lariat
   img: IMG_7414.JPG
@@ -2279,12 +2405,13 @@
   tag: japanese
   desc: Less common 8-piece version
 
-#- name: Daruma Japanese Kumiki Barrel
-#  type: Interlocking
-#  material: wood
-#  tag: japanese
-#  desc: Japanese Daruma dolls are modeled after Bodhidharma, the founder of the Zen tradition of Buddhism. Paint one eye when making wish, and the other eye when wish is fulfilled.
-#  aquired: 20241231
+- name: Daruma Japanese Kumiki Barrel
+  img: IMG_0361.JPG
+  type: Interlocking
+  material: wood
+  tag: japanese
+  desc: Japanese Daruma dolls are modeled after Bodhidharma, the founder of the Zen tradition of Buddhism. Paint one eye when making wish, and the other eye when wish is fulfilled.
+  aquired: 20241231
 
 - name: Vermont Castings Maze (The Amazing Gizmo)
   img: IMG_7766.JPG
@@ -2330,6 +2457,15 @@
   material: plastic
   desc: B46-B49 in Hordern. My copy has handwritten note - Christmas 1965.
   aquired: 20240620
+
+- name: "Slidem Solitaire: A Yank Thru the Lines"
+  img: IMG_0520.JPG
+  maker: Electric Corporation of America, Chicago
+  date: 1942
+  type: Sliding
+  material: cardboard
+  desc: C6 in Hordern
+  aquired: 20250108
 
 - name: P3C, Pack 3 Cubes
   img: IMG_7760.JPG
@@ -2475,13 +2611,6 @@
   material: metal
   tag: lock
   desc: Unlocks behind your back
-
-- name: Cerebral Rings Puzzler
-  img: none.jpg
-  maker: Magnif
-  date: 1989
-  type: Disassembly
-  material: plastic
 
 - name: Nine of Swords
   img: none.jpg
@@ -2738,6 +2867,14 @@
   date: 1996
   aquired: 20241030
 
+- name: Quad Rhom
+  img: IMG_0534.JPG
+  type: Assembly
+  material: wood
+  maker: Design Science Toys Ltd
+  date: 1996
+  aquired: 20250108
+
 - name: Twist and Shout
   img: IMG_9445.JPG
   type: Permutation
@@ -2831,3 +2968,10 @@
   tag: vanhouten
   desc: Pieces appear to be sealed in original packaging.
   aquired: 20241110
+
+- name: Butter Nut Bread
+  img: IMG_0516.JPG
+  type: Tanglement
+  material: paper
+  advert: Butter Nut Bread
+  aquired: 20250126
