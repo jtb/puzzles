@@ -1,0 +1,202 @@
+- name: "Akaki's Picnic puzzles"
+  display: true
+  img: IMG_6680.JPG
+  type: Packing
+  designer: Akaki Kuumeri
+  modeler: Akaki Kuumeri
+  url: https://www.printables.com/model/236076-akakis-picnic-puzzles
+  desc: Whenever I get a new color filament, I print another food item.
+
+- name: 4L Puzzle
+  display: true
+  img: IMG_6680.JPG
+  type: Packing
+  designer: Yasuhiro Hashimoto
+  modeler: brandnewtype
+  url: https://www.thingiverse.com/thing:6394861
+  desc: IPP 2015 Jury Honorable Mention
+
+- name: Casino
+  display: true
+  img: IMG_6680.JPG
+  type: Packing
+  designer: Volker Latussek
+  modeler: dillman
+  url: https://www.thingiverse.com/thing:3934423
+  desc: IPP 2018 Puzzle of the Year
+
+- name: Four Keys
+  display: true
+  img: IMG_6680.JPG
+  type: Tanglement
+  modeler: Justin Brown
+  desc: Based on Hoffmann puzzle
+
+- name: Galette
+  display: true
+  img: IMG_6680.JPG
+  type: Packing
+  designer: Osanori Yamamoto
+  modeler: Jerry Lee
+  url: https://www.printables.com/model/769844-galette-puzzle-the-impossible-tetris-puzzle
+
+- name: Print-in-Place Hinged Dissection
+  display: true
+  img: IMG_6680.JPG
+  type: Dissection
+  designer: Henry Dudeney
+  modeler: jonco223
+  url: https://www.thingiverse.com/thing:3510716
+  desc: "Hinged dissection of a square into a triangle pictured in Dudeney's 1907 book The Canterbury Puzzles"
+
+- name: Knotty 6
+  display: true
+  img: IMG_6680.JPG
+  type: Interlocking
+  designer: Yavuz Demirhan
+  modeler: Printable Puzzle Project
+  url: https://www.printables.com/model/171065-knotty-6-interlocking-puzzle-by-yavuz-demirhan
+
+- name: Magic Drawers
+  display: true
+  img: IMG_6680.JPG
+  type: Caged Burr
+  modeler: mtairymd
+  url: https://www.instructables.com/Magic-Drawers-Puzzle/
+
+- name: Lattice Cube
+  display: true
+  img: IMG_6680.JPG
+  type: Interlocking
+  modeler: Justin Brown
+
+- name: Number Blocks
+  display: true
+  img: IMG_6680.JPG
+  type: Sliding
+  designer: Goh Pit Khiam
+  modeler: Genius06
+  url: https://www.printables.com/model/600160-number-blocks-packing-puzzle
+  desc: IPP 2015 Honorable Mention
+
+- name: NumLock
+  display: true
+  img: IMG_6680.JPG
+  type: Sequential Movement
+  designer: Goh Pit Khiam
+  modeler: Justin Brown
+
+- name: Change the Seasons
+  display: true
+  img: IMG_6680.JPG
+  type: Sliding
+  designer: Arthur L. Smith
+  modeler: Justin Brown
+  desc: Appeared in Sept 1942 issue of Popular Science. G1 in Hordern’s book.
+
+- name: Six T
+  display: true
+  img: IMG_6680.JPG
+  type: Packing
+  designer: Volker Latussek
+  modeler: sennes
+  url: https://makerworld.com/en/models/508069-six-t-puzzle#profileId-423842
+
+- name: Sweet 16
+  display: true
+  img: IMG_6680.JPG
+  type: Disassembly
+  designer: Dave Crabbe
+  modeler: Dave Crabbe
+  url: https://www.printables.com/model/1146521-sweet-16-puzzle
+
+- name: Three-Piece Block
+  display: true
+  img: IMG_6680.JPG
+  type: Assembly
+  designer: Stewart Coffin
+  modeler: Printable Puzzle Project
+  url: https://www.printables.com/model/171107-three-piece-block-assembly-puzzle-by-stewart-coffi
+
+- name: Triple Shift
+  display: true
+  img: IMG_6680.JPG
+  type: Assembly
+  modeler: Oskar van Deventer
+  url: https://oskarvandeventer.nl/Print-It-Yourself/
+
+- name: Wedding Ring Box
+  display: true
+  img: IMG_6680.JPG
+  type: Puzzle Box
+  modeler: Justin Brown
+  desc: Based on puzzle from Hoffmann
+
+- name: Liliput
+  display: true
+  img: IMG_6680.JPG
+  type: Interlocking
+  designer: Christoph Lohe
+  modeler: Printable Puzzle Project
+  url: https://www.printables.com/model/171048-liliput-interlocking-puzzle-by-christoph-lohe
+
+- name: Panex Junior
+  display: true
+  img: IMG_6680.JPG
+  type: Sliding
+  designer: Oskar van Deventer
+  modeler: Oskar van Deventer
+  url: https://oskarvandeventer.nl/Print-It-Yourself/
+  desc: Simplified version of the Panex puzzle, invented by Toshio Akanuma. I slightly modified it so I could print with just 2 colors.
+
+- name: TuTu
+  display: true
+  img: IMG_6680.JPG
+  type: Packing
+  designer: Volker Latussek
+  modeler: brandnewtype
+  url: https://www.thingiverse.com/thing:6390793
+
+- name: Ennui
+  display: true
+  img: IMG_6680.JPG
+  type: TIC
+  designer: László Molnár
+  modeler: Printable Puzzle Project
+  url: https://www.printables.com/model/171027-ennui-interlocking-puzzle-by-laszlo-molnar
+
+- name: FantasTIC
+  display: true
+  img: IMG_6680.JPG
+  type: TIC
+  designer: Andrew Crowell
+  modeler: Justin Brown
+
+- name: Tenchi
+  display: true
+  img: IMG_6680.JPG
+  type: Interlocking
+  designer: Frederic Boucher
+  modeler: Justin Brown
+  url: https://puzzlewillbeplayed.com/663/TENCHI/
+  desc: Must pack the pieces so they do not fall out.
+
+- name: Interlock 3
+  display: true
+  img: IMG_6680.JPG
+  type: Interlocking
+  modeler: Justin Brown
+
+- name: Drawers Puzzle
+  display: true
+  img: IMG_6680.JPG
+  type: Sequential Movement
+  designer: Justin Brown
+  modeler: Justin Brown
+
+- name: Cheesed Off
+  display: true
+  img: IMG_6680.JPG
+  type: Tanglement
+  designer: Justin Brown
+  modeler: Justin Brown

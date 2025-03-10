@@ -6,6 +6,52 @@ title: My 3D Printing Corner
 <div class="w3-container">
   <h3>My 3D Printing Corner</h3>
   <p>
-    Bought a printer! Page in Progress . . . Will document my experinces printing puzzles.
+    I decided it was time to stop bothering my friends who had 3d printers, and buy one of my own.
+    Very happy with my decision! I bought a Bambu Lab A1 Mini. I've never used a 3d printer before,
+    and settting it up and using it was a breeze. Very affordable too, considering how much puzzles can cost.
+    I've enjoyed printing puzzles I've found online and have started designing my own using BurrTools and Puzzlecad.
+    I think the size is good for puzzles - rarely have I needed to break something up into multiple plates.
+    I decided to save money and space by not getting the AMS that allows you to print multiple colors automatically. I haven't
+    found that to be an issue, and if I really want to print in multiple colors then I can do that manually.
+    Below are some of the puzzles I have printed so far.
+    </table>
   </p>
 </div>
+
+<main class="cards">
+{% assign sorted_puzzles = site.data.print3d | sort: 'name'  %}
+{% for puzzle in sorted_puzzles %}
+{% if puzzle.display %}
+<article class="card">
+  <img src="{{ site.thumbsurl }}{{puzzle.img }} ">
+  <div class="text">
+    <p>
+    {% if puzzle.url %}
+      <a href="{{ puzzle.url }}" target="_blank">{{ puzzle.name }}</a>
+    {% else %}
+    {{ puzzle.name }}
+    {% endif %}
+    </p>
+    <div id=divider>
+    <hr>
+    </div>
+    <table>
+    {% if puzzle.designer %}
+    <tr><td><b>Designer</b> {{puzzle.designer }}</td></tr>
+    {% endif %}
+    {% if puzzle.modeler %}
+    <tr><td><b>Modeler</b> {{puzzle.modeler }}</td></tr>
+    {% endif %}
+    {% if puzzle.type %}
+    <tr><td><b>Type</b> {{puzzle.type }}</td></tr>
+    {% endif %}
+    </table>
+    {% if puzzle.desc %}
+    <p>{{puzzle.desc }}</p>
+    {% endif %}
+  </div>
+</article>
+
+{% endif %}
+{% endfor %}
+</main>
