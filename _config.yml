@@ -2,4 +2,5 @@ baseurl: "/puzzles"
 
 imagesurl: "/puzzles/mysite/img/"
 thumbsurl: "/puzzles/mysite/thumbs/"
+printedurl: "/puzzles/mysite/printed/"
 n125: "/puzzles/mysite/N125/"

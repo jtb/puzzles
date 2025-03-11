@@ -1,15 +1,22 @@
 - name: "Akaki's Picnic puzzles"
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0595.JPG
   type: Packing
   designer: Akaki Kuumeri
   modeler: Akaki Kuumeri
   url: https://www.printables.com/model/236076-akakis-picnic-puzzles
   desc: Whenever I get a new color filament, I print another food item.
 
+- name: THINK
+  display: true
+  img: IMG_0575.JPG
+  type: Assembly
+  modeler: Justin Brown
+  desc: Modeled after a mid-century Japanese wooden puzzle.
+
 - name: 4L Puzzle
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0600.JPG
   type: Packing
   designer: Yasuhiro Hashimoto
   modeler: brandnewtype
@@ -18,7 +25,7 @@
 
 - name: Casino
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0596.JPG
   type: Packing
   designer: Volker Latussek
   modeler: dillman
@@ -27,14 +34,14 @@
 
 - name: Four Keys
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0581.JPG
   type: Tanglement
   modeler: Justin Brown
   desc: Based on Hoffmann puzzle
 
 - name: Galette
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0604.JPG
   type: Packing
   designer: Osanori Yamamoto
   modeler: Jerry Lee
@@ -42,7 +49,7 @@
 
 - name: Print-in-Place Hinged Dissection
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0590.JPG
   type: Dissection
   designer: Henry Dudeney
   modeler: jonco223
@@ -51,7 +58,7 @@
 
 - name: Knotty 6
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0576.JPG
   type: Interlocking
   designer: Yavuz Demirhan
   modeler: Printable Puzzle Project
@@ -59,20 +66,22 @@
 
 - name: Magic Drawers
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0579.JPG
   type: Caged Burr
+  designer: Tadao Muroi and Marcel Gillen.
   modeler: mtairymd
   url: https://www.instructables.com/Magic-Drawers-Puzzle/
+  desc: "Also known as Piston Box, Internal Combustion, and Pandora's Box"
 
 - name: Lattice Cube
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0577.JPG
   type: Interlocking
   modeler: Justin Brown
 
 - name: Number Blocks
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0589.JPG
   type: Sliding
   designer: Goh Pit Khiam
   modeler: Genius06
@@ -81,14 +90,14 @@
 
 - name: NumLock
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0587.JPG
   type: Sequential Movement
   designer: Goh Pit Khiam
   modeler: Justin Brown
 
 - name: Change the Seasons
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0585.JPG
   type: Sliding
   designer: Arthur L. Smith
   modeler: Justin Brown
@@ -96,7 +105,7 @@
 
 - name: Six T
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0597.JPG
   type: Packing
   designer: Volker Latussek
   modeler: sennes
@@ -104,7 +113,7 @@
 
 - name: Sweet 16
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0593.JPG
   type: Disassembly
   designer: Dave Crabbe
   modeler: Dave Crabbe
@@ -112,7 +121,7 @@
 
 - name: Three-Piece Block
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0580.JPG
   type: Assembly
   designer: Stewart Coffin
   modeler: Printable Puzzle Project
@@ -120,21 +129,21 @@
 
 - name: Triple Shift
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0583.JPG
   type: Assembly
   modeler: Oskar van Deventer
   url: https://oskarvandeventer.nl/Print-It-Yourself/
 
 - name: Wedding Ring Box
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0594.JPG
   type: Puzzle Box
   modeler: Justin Brown
   desc: Based on puzzle from Hoffmann
 
 - name: Liliput
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0598.JPG
   type: Interlocking
   designer: Christoph Lohe
   modeler: Printable Puzzle Project
@@ -142,7 +151,7 @@
 
 - name: Panex Junior
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0588.JPG
   type: Sliding
   designer: Oskar van Deventer
   modeler: Oskar van Deventer
@@ -151,7 +160,7 @@
 
 - name: TuTu
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0599.JPG
   type: Packing
   designer: Volker Latussek
   modeler: brandnewtype
@@ -159,7 +168,7 @@
 
 - name: Ennui
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0602.JPG
   type: TIC
   designer: László Molnár
   modeler: Printable Puzzle Project
@@ -167,14 +176,14 @@
 
 - name: FantasTIC
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0601.JPG
   type: TIC
   designer: Andrew Crowell
   modeler: Justin Brown
 
 - name: Tenchi
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0605.JPG
   type: Interlocking
   designer: Frederic Boucher
   modeler: Justin Brown
@@ -183,20 +192,20 @@
 
 - name: Interlock 3
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0586.JPG
   type: Interlocking
   modeler: Justin Brown
 
 - name: Drawers Puzzle
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0584.JPG
   type: Sequential Movement
   designer: Justin Brown
   modeler: Justin Brown
 
 - name: Cheesed Off
   display: true
-  img: IMG_6680.JPG
+  img: IMG_0592.JPG
   type: Tanglement
   designer: Justin Brown
   modeler: Justin Brown

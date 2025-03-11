@@ -5,6 +5,7 @@ title: My 3D Printing Corner
 
 <div class="w3-container">
   <h3>My 3D Printing Corner</h3>
+  <img src="{{ site.printedurl }}IMG_0295.JPG " width="45%">
   <p>
     I decided it was time to stop bothering my friends who had 3d printers, and buy one of my own.
     Very happy with my decision! I bought a Bambu Lab A1 Mini. I've never used a 3d printer before,
@@ -23,7 +24,7 @@ title: My 3D Printing Corner
 {% for puzzle in sorted_puzzles %}
 {% if puzzle.display %}
 <article class="card">
-  <img src="{{ site.thumbsurl }}{{puzzle.img }} ">
+  <img src="{{ site.printedurl }}{{puzzle.img }} " >
   <div class="text">
     <p>
     {% if puzzle.url %}
