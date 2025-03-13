@@ -1560,7 +1560,7 @@
   material: brass
   designer: Rocky Chiaro
   desc: 07-7863. Same as Ring-N-Nut
-  tag: bolt
+  tag: rocky
   aquired: 20250218
 
 - name: Cannon
@@ -2975,3 +2975,76 @@
   material: paper
   advert: Butter Nut Bread
   aquired: 20250126
+
+- name: "The Wonder of the Age: Houdene Puzzle"
+  img: IMG_0609.JPG
+  maker: possibly L.L. Young and Co. or Percy K. Ewing
+  type: Tanglement
+  material: metal plate
+  desc: Referred to as Jack and Dick in an LL Young directions sheet.
+  aquired: 20250221
+
+- name: Royal Ryede Watch Fob and Key Ring Puzzle
+  img: IMG_0610.JPG
+  designer: Adolph Rydquist
+  maker: Western Puzzle Works
+  patent: US787796
+  type: Tanglement
+  material: metal plate
+  tag: ryede
+  desc: Rydquist was the president of the Ryede Specialty Company and designer of the Ryede vendors.
+  aquired: 20250221
+
+- name: Ryede Perfection
+  img: IMG_0611.JPG
+  maker: Western Puzzle Works
+  type: Tanglement
+  material: metal plate
+  tag: ryede
+  aquired: 20250221
+
+- name: Red Goose Shoes Card and String
+  img: none.jpg
+  type: Tanglement
+  material: paper
+  advert: Red Goose Shoes
+  tag: red goose shoes
+  aquired: 20250223
+
+- name: Euklid for Kids
+  img: none.jpg
+  designer: Volker Latussek
+  maker: Rombol
+  date: 2025 purchased
+  type: Assembly
+  material: wood
+  aquired: 20250302
+
+- name: Chain Gang
+  img: IMG_0612.JPG
+  designer: Dick Hess and Alan Stein
+  maker: Puzzle Master
+  date: 2025 (purchased)
+  type: Tanglement
+  material: wire
+  tag: dickhess
+  desc: Originally developed by Dick Hess and called Outrageous Rings. Adapted for Puzzle Master by Alan Stein. String version created by Markus Götz.
+  aquired: 20250302
+
+- name: Jupiter I
+  img: none.jpg
+  designer: DDR
+  maker: Aaron Wang
+  date: 2025 purchased
+  type: Tanglement
+  material: wire
+  aquired: 20250302
+
+- name: Treasure Chest
+  img: none.jpg
+  designer: Rocky Chiaro
+  maker: either Puzzle Master or Bits & Pieces
+  type: Sequential Discovery
+  material: brass
+  tag: rocky
+  aquired: 20250309
