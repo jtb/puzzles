@@ -377,6 +377,14 @@
   desc: Tower of Hannoi
   aquired: 20250107
 
+- name: The Panama Cone Puzzle
+  img: IMG_0730.JPG
+  maker: The Panama Cone Puzzle Co., Waterbury, Conn
+  type: Sequential Movement
+  material: wood
+  desc: Tower of Hannoi
+  aquired: 20250330
+
 - name: Keys
   img: IMG_6498.jpeg
   type: Tanglement
@@ -451,6 +459,15 @@
   event: Chicago World's Fair
   material: wood
   tag: tile century
+
+- name: "Columbus: A Puzzle. 1492-1892"
+  img: IMG_0733.JPG
+  type: Sliding
+  date: 1892
+  maker: Milton Bradley Co
+  event: 400th anniversary of Columbus voyage to America
+  material: wood
+  aquired: 20250323
 
 - name: Chinese Puzzle (Germany)
   img: IMG_6634.JPG
@@ -628,11 +645,30 @@
   advert: Vess
   desc: uncut
 
+- name: Hunt's Perfect Baking Powder Puzzle
+  img: IMG_0732.JPG
+  type: Pattern
+  material: paper
+  patent: US557895
+  designer: Bertram H. Saunders
+  date: circa 1900
+  maker: The Tablet & Ticket Co., Chicago and New York
+  advert: Hunt's Perfect Baking Powder
+  desc: Appears to be Pres. McKinley
+  aquired: 20250329
+
 - name: Pel-Freeze
   img: IMG_6700.JPG
   type: Pattern
   material: paper
   advert: Pel-Freeze
+
+- name: Wabash Railroad Square Puzzle
+  img: IMG_0731.JPG
+  type: Assembly
+  material: paper
+  advert: City of St. Louis Streamliner, Wabash railroad
+  aquired: 20250401
 
 - name: SPAPCO's Five Piece Puzzle
   img: IMG_6723.JPG
@@ -771,8 +807,18 @@
   img: IMG_6646.JPG
   type: Assembly
   material: wood
+  maker: S.P & P (Japan)
   tag: weave
-  desc: Copyrighted in Japan in 1958
+  date: 1958
+
+- name: Mysto-Peg Puzzle
+  img: IMG_0734.JPG
+  type: Assembly
+  material: wood
+  maker: S.P & P (Japan)
+  tag: weave
+  date: 1958
+  aquired: 20250314
 
 - name: Chambers Motor Horse & Rider
   img: IMG_6710.JPG
@@ -2592,6 +2638,14 @@
   type: Assembly
   material: plastic
 
+- name: Binary Key II
+  img: IMG_0736.JPG
+  designer: Goh Pit Khiam
+  maker: CubicDissection
+  date: 2022
+  type: Sequential Movement
+  material: acrylic
+
 - name: Zigguflat
   img: IMG_7749.JPG
   designer: Oskar Van Deventer
@@ -3004,7 +3058,7 @@
   aquired: 20250221
 
 - name: Red Goose Shoes Card and String
-  img: none.jpg
+  img: IMG_0737.JPG
   type: Tanglement
   material: paper
   advert: Red Goose Shoes
@@ -3041,7 +3095,7 @@
   aquired: 20250302
 
 - name: Treasure Chest
-  img: none.jpg
+  img: IMG_0735.JPG
   designer: Rocky Chiaro
   maker: either Puzzle Master or Bits & Pieces
   type: Sequential Discovery
