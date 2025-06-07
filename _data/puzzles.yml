@@ -3097,8 +3097,112 @@
 - name: Treasure Chest
   img: IMG_0735.JPG
   designer: Rocky Chiaro
-  maker: either Puzzle Master or Bits & Pieces
+  maker: Bits & Pieces
   type: Sequential Discovery
   material: brass
   tag: rocky
   aquired: 20250309
+
+- name: "Bull's Head Puzzle"
+  img: IMG_1375.JPG
+  type: Route Finding
+  material: plastic
+  maker: Loncraine Broxton and Ptrs LTD
+  date: 1983
+  desc: Stamford, England. Made in England
+  aquired: 20250408
+
+- name: 4 Band Puzzle Ring
+  img: IMG_1376.JPG
+  type: Puzzle Ring
+  material: sterling silver
+  designer: William H.A. Davidson
+  patent: US367896
+  aquired: 20250428
+
+- name: Roc-Key
+  img: IMG_1377.JPG
+  type: Disassembly
+  material: brass
+  tag: rocky
+  designer: Rocky Chiaro
+  maker: Bits & Pieces
+  desc: 07-7862
+  aquired: 20250525
+
+- name: Brass Jax
+  img: IMG_1378.JPG
+  type: Disassembly
+  material: brass
+  tag: rocky
+  designer: Rocky Chiaro
+  maker: Bits & Pieces
+  desc: 48858
+  aquired: 20250415
+
+- name: Knot Simple
+  img: IMG_1380.JPG
+  type: Interlocking
+  material: metal
+  designer: Douglas A. Engel
+  maker: Bits & Pieces
+  desc: 47091
+  aquired: 20250415
+
+- name: The Rainbow Puzzle
+  img: IMG_1381.JPG
+  type: Dexterity
+  material: bakelite
+  maker: Montauk Specialties Co, Chicago, ILL
+  desc: Get each ball in the same colored slot
+  aquired: 20250419
+
+- name: "W.M. Deering Sickle Puzzle"
+  img: IMG_1382.JPG
+  type: Tanglement
+  material: paper
+  date: 1880s
+  desc: The reaping hook for our great grandfathers. The cradle for our grandfathers. The hand-rake reaper for our fathers. The Deering Self-Binder for us and our children.
+  advert: Deering Mower and Junior Deering Twine Binder
+  aquired: 20250514
+
+- name: Electro Puzzle No. 2
+  img: IMG_1383.JPG
+  type: Tanglement
+  maker: Tenyo
+  material: hard wire
+  aquired: 20250514
+
+- name: 9 Wheel Spring
+  img: IMG_1385.JPG
+  type: Tanglement
+  material: hard wire
+  maker: Fujita Iron Crafts, Takayama, Gifu, Japan
+  desc: https://www.hidanosyokudai.com/
+  aquired: 20250514
+
+- name: The First Black Swan Puzzle
+  img: IMG_1386.JPG
+  type: Assembly
+  material: brass
+  designer: Angiolo Logi
+  maker: Ilaria Cornaggia Medici
+  date: 1980
+  desc: No. 200. Husband and Wife team. Angiolo drew the designs, and Ilaria executed them.
+  aquired: 20250510
+
+- name: Vexa
+  img: IMG_1387.JPG
+  type: Assembly
+  material: wood
+  maker: Design Science Toys Ltd
+  desc: Also known as Vexahedron
+  aquired: 20250404
+
+- name: Small Trike
+  img: IMG_1388.JPG
+  type: Tanglement
+  material: wire
+  patent: USD173360
+  desc: Remove the handlebars. Patented in 1954 but possibly older.
+  aquired: 20250518
