@@ -223,3 +223,119 @@
   modeler: richgain
   type: Assembly
   url: https://www.printables.com/model/194599-apparently-impossible-cube
+
+- name: "Darwin's Drawer"
+  display: true
+  img: IMG_1357.JPG
+  type: Packing
+  designer: Theo Geerinck and Symen Hovinga
+  modeler: 松鼠快跑
+  url: https://makerworld.com/en/models/1252813-darwin-s-drawer-puzzle-expert-level
+  desc: Designers sell this under name No Problem Puzzles
+
+- name: Mini Lock
+  display: true
+  img: IMG_1359.JPG
+  type: Interlocking
+  designer: Christoph Lowe
+  modeler: Justin Brown
+  desc: I flattened the lock and enlarged the shackle
+
+- name: "Bram's Hinged Cube"
+  display: true
+  img: IMG_1360.JPG
+  type: Assembly
+  designer: Bram Cohen
+  modeler: Brian Pletcher
+  url: https://www.printables.com/model/1232805-brams-hinged-cube
+  desc: Fold into cube. There is a false solution where blockers interfere.
+
+- name: Pushbutton Burr
+  display: true
+  img: IMG_1361.JPG
+  type: Interlocking
+  designer: Ken Irvine
+  modeler: Justin Brown
+
+- name: Six Hookers
+  display: true
+  img: IMG_1362.JPG
+  type: Interlocking
+  designer: Two Brass Monkeys
+  modeler: Wolfi01
+  url: https://www.thingiverse.com/thing:6630345
+  desc: Based on square design by Lynn Yarborough
+
+- name: Interlocking Puzzle Bank
+  display: true
+  img: IMG_1363.JPG
+  type: Interlocking
+  modeler: Justin Brown
+  url: https://www.printables.com/model/1307932-classic-puzzle-bank-easy-print
+  desc: Classic design that I modeled.
+
+- name: SIXI Cube
+  display: true
+  img: IMG_1364.JPG
+  type:
+  designer: Václav Obšivač (Vinco)
+  desc: Sequential assembly. I slightly modified it to make it a solid burr.
+
+- name: Smelling of Roses
+  display: true
+  img: IMG_1365.JPG
+  type: Interlocking
+  designer: Steve Nicholls
+  modeler: Steve Nicholls
+  url: https://makerworld.com/en/models/1329336-smelling-of-roses-puzzle
+  desc: "Concept based on Roger Penrose's puzzle."
+
+- name: "Sam Loyd's Yankee Cartridge Box"
+  display: true
+  img: IMG_1366.JPG
+  type: Puzzle Box
+  designer: Sam Loyd
+  modeler: Justin Brown
+  url: https://www.printables.com/model/1248952-sam-loyds-yankee-cartridge-box
+  desc: "My implementation of Sam Loyd's patent"
+
+- name: "Edo's 3/4/5/ to 6 cube"
+  display: true
+  img: IMG_1370.JPG
+  type: Interlocking
+  designer: Edo Timmermans
+  modeler: Justin Brown
+  url: https://www.cs.purdue.edu/homes/gnf/book/Booknews/edoscub7.html
+  desc: Combine a 3 cube, 4 cube, and 5 cube to get a 6 cube.
+
+- name: Apparently Impossible Cube
+  display: true
+  img: IMG_1371.JPG
+  type: Interlocking
+  designer: Hirokazu Iwasawa (Iwahiro)
+  modeler: richgain
+  url: https://www.printables.com/model/194599-apparently-impossible-cube
+
+- name: Triangle Ring 3
+  display: true
+  img: IMG_1372.JPG
+  type: Packing
+  designer: Osanori Yamamoto
+  modeler: Justin Brown
+  url: https://puzzlewillbeplayed.com/333Box/TriangleRing/3/
+
+- name: Waltz Puzzle
+  display: true
+  img: IMG_1373.JPG
+  type: Packing
+  designer: Osanori Yamamoto
+  modeler: schiko
+  url: https://makerworld.com/en/models/150813-waltz-puzzle
+
+- name: No Holes Barred
+  display: true
+  img: IMG_1374.JPG
+  type: Packing
+  designer: László Molnár
+  modeler: Yu Chih Chang
+  url: https://www.printables.com/model/171064-no-holes-barred-packing-puzzle-by-laszlo-molnar
