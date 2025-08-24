@@ -53,14 +53,23 @@
   patent: US332211
   tag: shunting
 
-#- name: "Engineer's and Switchman's Puzzle"
-#  designer: Charles W. Lurtey
-#  type: Sliding
-#  material: wood
-#  patent: US442445
-#  date: 1890
-#  tag: shunting
-#  aquired: 20241231
+- name: Train In Line
+  img: IMG_2051.JPG
+  type: Sliding
+  maker: Bits & Pieces
+  material: wood
+  tag: shunting
+  aquired: 20250806
+
+- name: "Engineer's and Switchman's Puzzle"
+  img: IMG_2049.JPG
+  designer: Charles W. Lurtey
+  type: Sliding
+  material: wood
+  patent: US442445
+  date: 1890
+  tag: shunting
+  aquired: 20241231
 
 - name: Zauberkreuz (Magic Cross)
   img: IMG_6781.JPG
@@ -272,6 +281,15 @@
   tag: japanese
   material: wood
 
+- name: Japanese Yosegi Box
+  img: IMG_2043.JPG
+  type: Puzzle Box
+  tag: japanese
+  material: wood
+  date: 1945-1952
+  desc: Two compartment box that jingles when opend. Made in Occupied Japan
+  aquired: 20250726
+
 - name: Japanese Dice Box
   img: IMG_8886.JPG
   type: Puzzle Box
@@ -305,6 +323,18 @@
   desc: Move key into each area, including removing.
   aquired: 20240725
 
+- name: The Puzzle Key-Ring
+  img: IMG_2045.JPG
+  type: Tanglement
+  material: metal
+  date: 1879
+  patent: US221571
+  designer: George W. Jopson
+  desc: Appears in Hoffmann's Puzzles Old and New
+  tag: hoffmann
+  aquired: 20250814
+
+
 - name: Time Puzzle
   img: IMG_6614.JPG
   type: Sliding
@@ -314,10 +344,18 @@
   material: wood
   tag: tile time
 
-- name: Dog and Collar Puzzle
+- name: Dog and Collar (Standing)
   img: IMG_6561.JPG
   type: Tanglement
   material: metal plate
+  tag: dogcollar
+
+- name: Dog and Collar (Sitting)
+  img: IMG_2040.JPG
+  type: Tanglement
+  material: metal plate
+  tag: dogcollar
+  aquired: 20250818
 
 - name: TakItAPart
   img: IMG_6518.JPG
@@ -580,6 +618,16 @@
   designer: J. W. Hayward
   date: 1926
 
+- name: Schweig's Trans-Atlantic
+  img: IMG_2047.JPG
+  type: Sliding
+  material: wood
+  maker: George E. Schweig & Son (distributor)
+  date: 1930s
+  #desc: S.S. Manhattan and S.S. Washington were in service in the 30s and were the two largest liners built by the US at that time.
+  desc: S.S. Manhattan and S.S. Washington were the two largest US liners in the 30s
+  aquired: 20250803
+
 - name: The Moving Puzzle
   img: IMG_6642.JPG
   type: Sliding
@@ -632,6 +680,14 @@
   type: Bank
   material: metal
 
+- name: 55 Chevrolet Emblem Puzzle
+  img: IMG_2046.JPG
+  type: Pattern
+  material: paper
+  advert: 55 Chevrolet
+  date: 1955
+  aquired: 20250623
+
 - name: Vess Soda Bottle
   img: IMG_6691.JPG
   type: Pattern
@@ -668,6 +724,7 @@
   type: Assembly
   material: paper
   advert: City of St. Louis Streamliner, Wabash railroad
+  tag: shunting
   aquired: 20250401
 
 - name: SPAPCO's Five Piece Puzzle
@@ -678,31 +735,40 @@
 
 - name: Freshman College Course Puzzles
   img: IMG_6775.JPG
-  type: Tanglement
+  type: Set
   maker: Dick Hess
   material: wire
   tag: dickhess
 
 - name: Sophomore College Course Puzzles
   img: IMG_6779.JPG
-  type: Tanglement
+  type: Set
   maker: Dick Hess
   material: wire
   tag: dickhess
 
 - name: Junior College Course Puzzles
   img: IMG_6776.JPG
-  type: Tanglement
+  type: Set
   maker: Dick Hess
   material: wire
   tag: dickhess
 
 - name: Senior College Course Puzzles
   img: IMG_6777.JPG
-  type: Tanglement
+  type: Set
   maker: Dick Hess
   material: wire
   tag: dickhess
+
+#- name: Le Grand Wire Puzzle Set
+#  img: ABC
+#  type: Set
+#  material: wire
+#  maker: Charles H. Le Grand
+#  material: wire
+#  tag: dickhess
+#  aquired: 20250809
 
 - name: Inversion
   img: IMG_6604.JPG
@@ -950,6 +1016,14 @@
   date: 1892
   advert: St. Nicholas Children's Magazine
 
+#- name: Sapolio Color-Puzzle
+#  img: ABC
+#  type: Pattern
+#  material: paper
+#  date: 1881
+#  advert: Enock Morgan's Sons Sapolio
+#  aquired: 20250720
+
 - name: Iron Heart Metal Puzzle
   img: IMG_6752.JPG
   type: Tanglement
@@ -971,6 +1045,15 @@
   img: IMG_6621.JPG
   type: Assembly
   material: wood
+
+- name: The First Black Swan Puzzle
+  img: IMG_2050.JPG
+  maker: Ilaria Logi
+  designer: Angiolo Logi
+  type: Assembly
+  date: 1980
+  material: phosphorated bronze
+  desc: No. 200.  Title refers to Aborigine mythology
 
 - name: Belgium Expo Calendar Medal
   img: none.jpg
@@ -1188,6 +1271,12 @@
   maker: ThinkFun
   material: plastic
   designer: Dale Walton
+
+- name: German Doll Furniture
+  img: IMG_2048.JPG
+  type: Assembly
+  material: wood
+  aquired: 20250720
 
 - name: Fairmont Creamery Puzzle
   img: IMG_6712.JPG
@@ -1429,6 +1518,13 @@
   tag: vesta
   material: wood
 
+- name: Large Vesta Box
+  img: IMG_2042.JPG
+  type: Puzzle Box
+  tag: vesta
+  material: wood
+  aquired: 20250726
+
 - name: Vanishing Leprechauns
   img: IMG_6765.JPG
   type: Pattern
@@ -1651,6 +1747,15 @@
   type: Interlocking
   maker: Arjeu
   material: wood
+  tag: arjeu
+
+- name: Cube 33 XYLO (CT28)
+  img: IMG_2038.JPG
+  type: Interlocking
+  maker: Arjeu
+  material: wood
+  tag: arjeu
+  aquired: 20250710
 
 - name: Iron Heart
   img: IMG_7767.JPG
@@ -1927,6 +2032,15 @@
   material: wood
   aquired: 20250107
 
+- name: Crazy Mixed Up Contour Puzzle
+  img: IMG_2039.JPG
+  type: Assembly
+  material: wood
+  tag: bandsaw
+  maker: Shackman
+  material: wood
+  aquired: 20250710
+
 - name: "Nut & Bolt Puzzle"
   img: IMG_6647.JPG
   type: Disassembly
@@ -1943,6 +2057,13 @@
   date: 1973
   aquired: 20240904
   desc: Zip code on box is 10001 but zip code on instructions is 10003. Shackman moved from 2 West 35 St 10001 to 85 Fifth Ave 10003 around 1973, which is why I guess 1973.
+
+- name: Turtle Puzzle
+  img: IMG_2041.JPG
+  type: Tanglement
+  maker: Shackman
+  material: brass
+  aquired: 20250622
 
 - name: Double Treble Clef
   img: IMG_6547.JPG
@@ -2379,6 +2500,14 @@
   material: brass
   maker: Bits & Pieces
   designer: Jean Claude Constantin
+
+- name: Six Ring Horseshoe
+  img: IMG_2052.JPG
+  type: Tanglement
+  material: brass
+  maker: Bits & Pieces
+  designer: Jean Claude Constantin
+  aquired: 20250712
 
 - name: Wire Star
   img: IMG_6890.JPG
