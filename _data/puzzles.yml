@@ -281,6 +281,13 @@
   tag: japanese
   material: wood
 
+- name: Japanese Puzzle Box Spring Loaded
+  img: IMG_2229.JPG
+  type: Puzzle Box
+  tag: japanese
+  material: wood
+  aquired: 20250906
+
 - name: Japanese Yosegi Box
   img: IMG_2043.JPG
   type: Puzzle Box
@@ -296,6 +303,24 @@
   tag: japanese
   material: wood
   aquired: 20240825
+
+- name: Challenger
+  img: IMG_2230.JPG
+  designer: Charlies Gantt
+  maker: "Gantt's Wood Things"
+  type: Assembly
+  material: wood
+  tag: gantt
+  aquired: 20250908
+
+- name: Star of Nassau
+  img: IMG_2232.JPG
+  designer: Charlies Gantt
+  maker: "Gantt's Wood Things"
+  type: Assembly
+  material: wood
+  tag: gantt
+  aquired: 20250908
 
 - name: Rowland & Clark Horseshoes
   img: IMG_6500.jpeg
@@ -961,6 +986,15 @@
   designer: Akio Yamamoto
   tag: hanayama
 
+- name: Trap
+  img: IMG_2220.JPG
+  designer: Minoru Abe
+  maker: Hanayama
+  type: Sliding
+  material: wood
+  tag: hanayama
+  aquired: 20250901
+
 - name: Waiter's Tray
   img: IMG_6790.JPG
   type: Sequential Movement
@@ -968,6 +1002,16 @@
   designer: Jean Claude Constantin
   tag: constantin
   material: wood
+
+- name: Diamond Eyes
+  img: IMG_2224.JPG
+  designer: Jean Claude Constantin
+  maker: Channel Craft
+  type: Pattern
+  material: wood
+  tag: constantin
+  desc: rock maple, oak, cherry, padauk and wenge
+  aquired: 20250904
 
 - name: Marble
   img: IMG_6787.JPG
@@ -1381,13 +1425,13 @@
   material: plastic
 
 - name: Tri-N-Do-It
-  img: IMG_6992.JPG
+  img: IMG_2226.JPG
   type: Disassembly
   material: wood
   patent: US2207778
   designer: John D. Boyle
   tag: boyle
-  desc: I tried and did it! Pegs are slightly different from patent.
+  desc: With original packaging
 
 - name: Four Block Lock
   img: IMG_6668.JPG
@@ -1436,6 +1480,16 @@
   material: tin
   type: Calculator
   desc: '"It makes no difference to the monkey whether children are bright or stupid, he never loses patience at having to answer their questions."'
+
+- name: Presidential Muddle Puzzle
+  img: IMG_2225.JPG
+  designer: William T. Carter
+  date: 1894
+  patent: US524703
+  type: Sequential Movement
+  material: tin
+  aquired: 20250902
+  event: 1896 US Presidential Election
 
 - name: 2 Witch Hazel Mail Advertisement
   img: IMG_6766.JPG
@@ -1705,6 +1759,22 @@
   tag: rocky
   aquired: 20250218
 
+- name: Lunatic Lock
+  img: IMG_2221.JPG
+  designer: Gary Foshee
+  maker: Bits & Pieces
+  type: Disassembly
+  material: aluminum
+  tag: foshee
+  aquired: 20259028
+
+- name: Twin Towers
+  img: IMG_2222.JPG
+  maker: Bits & Pieces
+  type: Tanglement
+  material: wood
+  aquired: 20250921
+
 - name: Cannon
   img: IMG_6558.JPG
   type: Disassembly
@@ -1756,6 +1826,16 @@
   material: wood
   tag: arjeu
   aquired: 20250710
+
+- name: Casse-Tete Satellite (CT49)
+  img: IMG_2228.JPG
+  designer: Stewart Coffin
+  maker: Arjeu
+  type: Interlocking
+  material: wood
+  tag: arjeu
+  aquired: 20251009
+  desc: Also known as Spider Slider and Scorpius
 
 - name: Iron Heart
   img: IMG_7767.JPG
@@ -2842,6 +2922,14 @@
   maker: The Eng Ser Corp, Albany New York
   aquired: 20240823
 
+- name: "Fidget, Style #391"
+  img: IMG_2219.JPG
+  maker: Reiss
+  date: 1976
+  type: Dexterity
+  material: plastic
+  aquired: 20250930
+
 - name: IBM Puzzle
   img: IMG_0249.JPG
   type: Dexterity
@@ -3074,6 +3162,16 @@
   advert: Google
   desc: Received during interview at Google
   tag: soma
+
+- name: Anagog Pyramystery Puzzler
+  img: IMG_2223.JPG
+  designer: Piet Hein
+  maker: Hubley
+  date: 1972
+  type: Assembly
+  material: plastic
+  desc: Mentioned in Gardner's Mathematical Games column, Scientific American, Feb 1973. May have been the first polysphere puzzle according to Knuth.
+  aquired: 20250906
 
 - name: Wood Plane Snuff Box
   img: IMG_9448.JPG
