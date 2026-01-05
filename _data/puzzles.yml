@@ -1768,6 +1768,15 @@
   tag: foshee
   aquired: 20259028
 
+- name: Holey Bolt
+  img: none.jpg
+  designer: Bernhard Wiezorke, Gary Foshee
+  maker: Bits & Pieces
+  type: Tanglement
+  material: metal
+  tag: foshee
+  acquired: 20251007
+
 - name: Twin Towers
   img: IMG_2222.JPG
   maker: Bits & Pieces
@@ -1935,6 +1944,17 @@
   desc: Missing string
   advert: Jayne's Expectorant
 
+- name: Montgomery Ward Key Card
+  img: none.jpg
+  designer: James L Kellogg
+  maker: Kellogg Mfg. Co.
+  date: 1902-1903
+  patent: US695059
+  type: Tanglement
+  material: paper
+  advert: Montgomery Ward
+  acquired: 20250901
+
 - name: Columbus Buggy
   img: IMG_6692.JPG
   type: Tanglement
@@ -2027,8 +2047,23 @@
   img: IMG_6745.JPG
   type: Tanglement
   material: hard wire
-  maker: Uncle's Puzzles
+  maker: Uncles Puzzles
   desc: Same as Ball and Chain
+
+- name: 4-Play
+  img: none.jpg
+  maker: Uncles Puzzles
+  type: Tanglement
+  material: hard wire
+  acquired: 20251007
+
+- name: Ball and Chain
+  img:  none.jpg
+  designer: James Dalgety
+  maker: Pentangle
+  type: Tanglement
+  material: hard wire
+  acquired: 20251007
 
 - name: Whistle Stop Puzzle
   img: IMG_6655.JPG
@@ -2685,7 +2720,27 @@
   date: 1974
   type: Tanglement
   material: hard wire
+  tag: pentangle_wire_sculpture
   desc: U.K. Registered Design No. 967536/1974. Deliberate attempt by James Dalgety to invent a puzzle similar to the Chinese Rings but with a non-binary solution
+
+- name: Tangleweed
+  img: none.jpg
+  designer: Geoff Wyvill
+  maker: Pentangle
+  type: Tanglement
+  material: hard wire
+  tag: pentangle_wire_sculpture
+  acquired: 20251002
+
+- name: Traffic Lights
+  img: none.jpg
+  designer: John Snow
+  maker: Pentangle
+  date: 1977
+  type: Tanglement
+  material: hard wire
+  tag: pentangle_wire_sculpture
+  acquired: 20251002
 
 - name: Mystaire Mosaic Puzzle
   img: IMG_7763.JPG
@@ -3181,6 +3236,14 @@
   aquired: 20241101
   desc: Possibly handmade in 1930s-50s in Oshkosh, WI. Differnt opening mechanism than the standard.
 
+- name: Tuaverken Wood Plane Box
+  img: none.jpg
+  type: Puzzle Box
+  maker: Tuaverken AB, Tibro Sweden
+  tag: vesta
+  material: wood
+  aquired: 20251011
+
 - name: Six Panel Bank
   img: IMG_9449.JPG
   type: Bank
@@ -3204,6 +3267,15 @@
   maker: Bits & Pieces
   aquired: 20241104
   desc: 07-7074. Based on a puzzle design by Oskar van Deventer and originally made by George Miller for IPP 20 in Los Angeles. Missing wooden token.
+
+- name: 16 to 1 Maze
+  img: none.jpg
+  designer: Clarence W. Carter
+  maker: Bits & Pieces
+  patent: US598855
+  type: Route Finding
+  material: cast
+  acquired: 20251007
 
 - name: The Popular Puzzle Compendium
   img: IMG_9452.JPG
