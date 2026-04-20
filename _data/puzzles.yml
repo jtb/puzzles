@@ -329,7 +329,7 @@
   advert: Rowland & Clark's Arcade Theatre
 
 - name: Crescent & Star
-  img: IMG_0524.JPG
+  img: IMG_3684.JPG
   type: Tanglement
   material: metal plate
   date: 1901
@@ -1705,6 +1705,14 @@
   tag: MagnifPuzzler
   material: plastic
 
+- name: Illusions Puzzler
+  img: IMG_3692.JPG
+  type: Assembly
+  maker: Magnif
+  tag: MagnifPuzzler
+  material: plastic
+  aquired: 20260329
+
 - name: Cerebral Rings Puzzler
   img: IMG_8510.JPG
   type: Disassembly
@@ -1775,7 +1783,7 @@
   type: Tanglement
   material: metal
   tag: foshee
-  acquired: 20251007
+  aquired: 20251007
 
 - name: Twin Towers
   img: IMG_2222.JPG
@@ -1953,7 +1961,7 @@
   type: Tanglement
   material: paper
   advert: Montgomery Ward
-  acquired: 20250901
+  aquired: 20250901
 
 - name: Columbus Buggy
   img: IMG_6692.JPG
@@ -2051,19 +2059,19 @@
   desc: Same as Ball and Chain
 
 - name: 4-Play
-  img: none.jpg
+  img: IMG_3660.JPG
   maker: Uncles Puzzles
   type: Tanglement
   material: hard wire
-  acquired: 20251007
+  aquired: 20251007
 
 - name: Ball and Chain
-  img:  none.jpg
+  img: IMG_3661.JPG
   designer: James Dalgety
   maker: Pentangle
   type: Tanglement
   material: hard wire
-  acquired: 20251007
+  aquired: 20251007
 
 - name: Whistle Stop Puzzle
   img: IMG_6655.JPG
@@ -2724,23 +2732,23 @@
   desc: U.K. Registered Design No. 967536/1974. Deliberate attempt by James Dalgety to invent a puzzle similar to the Chinese Rings but with a non-binary solution
 
 - name: Tangleweed
-  img: none.jpg
+  img: IMG_3659.JPG
   designer: Geoff Wyvill
   maker: Pentangle
   type: Tanglement
   material: hard wire
   tag: pentangle_wire_sculpture
-  acquired: 20251002
+  aquired: 20251002
 
 - name: Traffic Lights
-  img: none.jpg
+  img: IMG_3658.JPG
   designer: John Snow
   maker: Pentangle
   date: 1977
   type: Tanglement
   material: hard wire
   tag: pentangle_wire_sculpture
-  acquired: 20251002
+  aquired: 20251002
 
 - name: Mystaire Mosaic Puzzle
   img: IMG_7763.JPG
@@ -3275,7 +3283,7 @@
   patent: US598855
   type: Route Finding
   material: cast
-  acquired: 20251007
+  aquired: 20251007
 
 - name: The Popular Puzzle Compendium
   img: IMG_9452.JPG
@@ -3505,3 +3513,180 @@
   patent: USD173360
   desc: Remove the handlebars. Patented in 1954 but possibly older.
   aquired: 20250518
+
+- name: Draft-Horse
+  img: IMG_3669.JPG
+  maker: Schylling
+  designer: Erik Johansson
+  type: Tanglement
+  material: wood
+  aquired: 20251031
+  tag: Johansson
+
+- name: Workhorse
+  img: IMG_3668.JPG
+  maker: Schylling
+  designer: Erik Johansson
+  type: Tanglement
+  material: wood
+  aquired: 20251031
+  tag: Johansson
+
+- name: Carthorse
+  img: IMG_3667.JPG
+  maker: Schylling
+  designer: Erik Johansson
+  type: Tanglement
+  material: wood
+  aquired: 20251031
+  tag: Johansson
+
+- name: Mini Dot Box
+  img: IMG_3676.JPG
+  maker: Bits & Pieces
+  type: Puzzle Box
+  material: wood
+  aquired: 20251107
+
+- name: Little Bruce
+  img: IMG_3677.JPG
+  maker: Wood Wonders
+  designer: Ken Irvine
+  type: Interlocking
+  material: wood
+  aquired: 20251109
+
+- name: Boot and Ring Trade Card
+  img: IMG_3670.JPG
+  designer: Seeley P. Mount
+  date: 1884
+  type: Tanglement
+  material: paper
+  advert: Husted Bros, Central Shoe Store
+  patent: US295665
+  aquired: 20251104
+
+- name: Impossible Children (Two babies, four babies)
+  img: IMG_3679.JPG
+  maker: John Bottoms
+  date: 2007
+  type: Illusion
+  material: pewter
+  desc: IPP
+  aquired: 20251130
+
+- name: The Bow
+  img: IMG_3680.JPG
+  maker: Bill Sheckels
+  designer: Bill Sheckels
+  type: Assembly
+  material: wood
+  aquired: 20251202
+
+- name: Columbus Egg
+  img: IMG_3681.JPG
+  type: Sequential Movement
+  material: plastic
+  aquired: 20251215
+
+- name: 16-to-1 (original)
+  img: IMG_3683.JPG
+  designer: Clarence W. Carter
+  patent: US598855
+  type: Route Finding
+  material: cast
+  aquired: 20251218
+
+- name: Star and Belt
+  img: IMG_3682.JPG
+  type: Tanglement
+  material: cast
+  aquired: 20251220
+
+- name: Alonzo Bliss Donkies Puzzle
+  img: IMG_3675.JPG
+  type: Assembly
+  material: paper
+  advert: Alonzo O. Bliss Native Herbs
+  tag: donkey
+  aquired: 20251221
+
+- name: Lockdown 271-A
+  img: none.jpg
+  maker: Stewart Coffin
+  designer: Stewart Coffin
+  date: 2015
+  type: Assembly
+  material: wood
+  desc: IPP35 Ottawa Exchange puzzle by Rob Jones
+  aquired: 20260107
+
+- name: Bubble Puzzle
+  img: IMG_3671.JPG
+  maker: Bert A. Kinney, Chicago
+  date: 1896
+  type: Pattern
+  material: paper
+  advert: Ivory Soap by Proctor & Gamble
+  aquired: 20260110
+
+- name: Japanese Box with Bells
+  img: IMG_3688.JPG
+  type: Puzzle Box
+  material: wood
+  tag: japanese
+  aquired: 20260120
+
+- name: Criss Cross Mystery Puzzle
+  img: IMG_3689.JPG
+  maker: Zulu Toy Manufacturing Company, Inc
+  type: Sequential Movement
+  material: wood
+  aquired: 20260222
+
+- name: Flowers 4
+  img: IMG_3691.JPG
+  maker: Vinco
+  designer: Vinco
+  type: Interlocking
+  material: wood
+  aquired: 20260304
+
+- name: Letter Box D-4
+  img: IMG_3690.JPG
+  maker: Bits & Pieces
+  designer: Akio Kamei
+  type: Puzzle Box
+  material: wood
+  aquired: 20260311
+
+- name: P Puzzle (Pea in Pot)
+  img: IMG_3685.JPG
+  type: Dexterity
+  material: ceramic
+  desc: Jar made by Hazel-Atlas (HA)
+  aquired: 20260315
+
+- name: Drillepinde
+  img: IMG_3687.JPG
+  type: Interlocking
+  material: wood
+  desc: from Denmark
+  aquired: 20260405
+
+- name: Prize Problem
+  img: IMG_3674.JPG
+  maker: H.P. Smith and Co
+  date: 1886
+  type: Pattern
+  material: paper
+  advert: J.R. Hurd and Co
+  aquired: 20251130
+
+- name: Who Dares Wins
+  img: IMG_3686.JPG
+  maker: Two Brass Monkeys
+  designer: Shane Hales
+  type: Disassembly
+  material: brass
+  aquired: 20260413
