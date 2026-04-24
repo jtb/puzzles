@@ -52,7 +52,8 @@ Puzzles Old and New:
   year: 1893
   url: https://archive.org/details/puzzlesoldnew00hoff
   language: English
-  img: hoffmann.jpg
+  # img: hoffmann.jpg
+  img: IMG_3724.JPG
   desc: Catalog of mechanical puzzles available in Victorian London in the 1890s
 
 Puzzles for Everyone:
@@ -78,7 +79,7 @@ Ingenious Rings book (Chinese):
   type: Book
 
 Traditional Chinese Puzzles I (Chinese):
-  img: none.jpg
+  img: IMG_3718.JPG
   type: Book
 
 Traditional Chinese Puzzles II (Chinese):
@@ -141,14 +142,66 @@ Youth's Companion Ad Wire Puzzles:
   img: none.jpg
   type: Advert
 
+Het Ultieme Puzzelboek, Signed by Slocum:
+  type: Book
+  author: Jerry Slocum and Jack Botermans
+  publisher: Terra Lannoo Publishing
+  year: 2007
+  language: Dutch
+  img: IMG_3721.JPG
+  desc: The Ultimate Puzzle Book
+
+'В мире головоломок - Игры разных народов':
+  type: Book
+  author: В.П. Жуков (V.P. Zhukov)
+  year: 1993
+  language: Russian
+  img: IMG_3720.JPG
+  desc: In the World Of Puzzles - Games of Different Peoples
+
+'パズルをつくる (シリーズ・子どもとつくる 9), Signed':
+  type: Book
+  author:  Nobuyuki Yoshigahara
+  publisher: 大月書店
+  year: 1984
+  language: Japanese
+  img: IMG_3723.JPG
+  desc: 'Making Puzzles (The "Making Things with Children" Series, Vol. 9)'
+
+目玉の体操―これが迷路だ, Signed:
+  type: Book
+  author: Nobuyuki Yoshigahara
+  publisher: Kappa Books
+  year: 1978
+  language: Japanese
+  img: IMG_3722.JPG
+  desc: 'Eye Exercises: This Is a Maze'
+
 知恵の輪読本:
   type: Book
-  img: none.jpg
+  img: IMG_3719.JPG
   author: Hisayoshi Akiyama
+  publisher: 新紀元社
   year: 2003
+  language: Japanese
+  desc: Wire Puzzles
 
 Sam Loyd and His Puzzles:
   type: Book
-  img: none.jpg
+  img: IMG_3727.JPG
   author: Sam Loyd Jr
+  place: New York and Newark NJ
+  publisher: Barse & Co.
   year: 1928
+  language: English
+  desc: First Edition
+
+Illustrated Magic:
+  type: Book
+  img: IMG_3725.JPG
+  author: Ottokar Fischer
+  place: New York
+  publisher: The Macmillan Company
+  year: 1946
+  language: English, translated from German
+  desc: Mostly magic, some puzzles
