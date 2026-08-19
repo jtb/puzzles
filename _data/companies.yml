@@ -37,6 +37,15 @@
   end: active
   desc: Formerly known as Binary Arts. Aquired by Ravensburger in 2017
 
+- name: Franco-American Novelty Company
+  logo: none.jpg
+  location: 29th and Broadway in Manhattan
+  country: United States
+  start: "1910"
+  end: "2012"
+  founders: Samuel Oumano, magician known as Great Sammano
+  desc: Started with novelties but later specialized in wigs and costumes.
+
 - name: Tensegrity Systems
   location: Tivoli, NY
   country: United States
