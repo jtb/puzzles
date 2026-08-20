@@ -205,3 +205,32 @@ Illustrated Magic:
   year: 1946
   language: English, translated from German
   desc: Mostly magic, some puzzles
+
+'Nineteenth Century Games & Sporting Goods':
+  type: Book
+  img: IMG_4599.JPG
+  author: Peck & Snyder Sporting Goods
+  place: Princeton, NJ
+  publisher: Pyne Press
+  year: 1975
+  language: English
+  desc: Facsimile reprint of the 1886 illustrated catalog
+
+"Puzzles from Catel's Cabinet and Bestelmeier's Magazine 1785 to 1823":
+  type: Book
+  img: IMG_4602.JPG
+  author: Jerry Slocum, Dieter Gebhardt
+  place:
+  publisher: Slocum Puzzle Foundation
+  year: 1997
+  language: English, translated from German
+  desc: English translations of excerpts from the German Catel-Katalog and Bestelmeier-Katalog
+
+'Scrambled Exits: The Greatest Maze Book Ever':
+  type: Book
+  img: IMG_4603.JPG
+  author: Gyles Brandreth and David Farris
+  place: New York
+  publisher: Holt, Rinehart and Winston
+  year: 1976
+  language: English

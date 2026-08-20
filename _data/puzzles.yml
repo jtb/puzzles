@@ -3239,18 +3239,26 @@
 - name: Wood Plane Snuff Box
   img: IMG_9448.JPG
   type: Puzzle Box
-  tag: vesta
+  tag: vesta plane
   material: wood
   aquired: 20241101
-  desc: Possibly handmade in 1930s-50s in Oshkosh, WI. Differnt opening mechanism than the standard.
+  desc: Possibly handmade in 1930s-50s in Oshkosh, WI. Different opening mechanism than the standard.
 
 - name: Tuaverken Wood Plane Box
-  img: none.jpg
+  img: IMG_4598.JPG
   type: Puzzle Box
   maker: Tuaverken AB, Tibro Sweden
-  tag: vesta
+  tag: vesta plane
   material: wood
   aquired: 20251011
+
+- name: Wood Plane Box 1903
+  img: IMG_4597.JPG
+  type: Puzzle Box
+  tag: vesta plane
+  material: wood
+  aquired:
+  desc:
 
 - name: Six Panel Bank
   img: IMG_9449.JPG
@@ -3393,11 +3401,13 @@
   aquired: 20250302
 
 - name: Jupiter I
-  img: none.jpg
+  img: IMG_4584.JPG
   designer: DDR
   maker: Aaron Wang
+  tag: aaron
   date: 2025 purchased
   type: Tanglement
+  desc: Level 8
   material: wire
   aquired: 20250302
 
@@ -3690,3 +3700,202 @@
   type: Disassembly
   material: brass
   aquired: 20260413
+
+- name: Interblock
+  img: IMG_4572.JPG
+  type: Interlocking
+  tag: dubois
+  designer: Phillipe DuBois
+  material: wood
+  aquired: 20260506
+
+- name: Star of David
+  img: IMG_4573.JPG
+  type: Interlocking
+  tag: dubois
+  designer: Phillipe DuBois
+  material: wood
+  aquired: 20260507
+
+- name: Lunar Lockout
+  img: IMG_4574.JPG
+  type: Sequential Movement
+  maker: Binary Arts
+  designer: Hiroshi Yamamoto
+  material: plastic
+  desc: Originally UFO and presented in Feb 1998 at the 3rd G4G
+  aquired: 20260622
+
+- name: Mental Blocks
+  img: IMG_4575.JPG
+  type: Pattern
+  maker: KMS Industries
+  date: 1968
+  material: acrylic
+  aquired: 20260624
+
+- name: McCormick Bee Brand
+  img: IMG_4576.JPG
+  type: Tanglement
+  material: wood
+  advert: McCormick
+  aquired: 20260702
+
+- name: Cobra
+  img: IMG_4581.JPG
+  type: Tanglement
+  material: wire
+  maker: Aaron Wang
+  tag: aaron
+  designer: Shuai Chi
+  date: 2026
+  desc: Level 9
+  aquired: 20260710
+
+- name: Galaxy III
+  img: IMG_4582.JPG
+  type: Tanglement
+  tag: aaron
+  material: wire
+  maker: Mr. Gao
+  designer: DDK
+  date: 2026
+  desc: Level 7
+  aquired: 20260710
+
+- name: Aaron 3 Flatfish
+  img: IMG_4583.JPG
+  type: Tanglement
+  tag: aaron
+  material: wire
+  maker: Mr. Gao
+  designer: DDK
+  date: 2026
+  desc: Level 8
+  aquired: 20260710
+
+- name: Aquarium
+  img: IMG_4578.JPG
+  type: Tanglement
+  tag: constantin
+  maker: Constantin
+  material: wire
+  aquired: 20260716
+
+- name: "N' U1"
+  img: IMG_4579.JPG
+  type: Tanglement
+  tag: constantin
+  material: wire
+  maker: Constantin
+  date:
+  desc:
+  aquired: 20260716
+
+- name: Blaue Schnur
+  img: none.jpg
+  type: Tanglement
+  tag: constantin
+  material: wire
+  maker: Constantin
+  aquired: 20260716
+
+- name: Escargot
+  img: IMG_4580.JPG
+  type: Tanglement
+  tag: constantin
+  maker: Constantin
+  material: wire
+  aquired: 20260716
+
+- name: Wallet
+  img: IMG_4585.JPG
+  type: Disassembly
+  maker: Hanayama
+  material: cast
+  designer: Koichi Miura
+
+- name: Floral Puzzle Ring
+  img: IMG_4591.JPG
+  type: Puzzle Ring
+  material: sterling silver
+  desc: Possibly from Peru or Ecuador, 1960s
+  aquired: 20260717
+
+- name: Lauterbrunnen Edelweiss Box
+  img: IMG_4590.JPG
+  type: Puzzle Box
+  tag: edelweiss
+  material: wood
+  aquired: 20260718
+
+- name: Hexago (CT430)
+  img: IMG_4550.JPG
+  type: Interlocking
+  tag: arjeu
+  designer: Jean-Paul Pierlot
+  maker: Arjeu
+  material: wood
+  aquired: 20260813
+
+- name: Weatherbird Shoe Puzzle
+  img: IMG_4577.JPG
+  type: Impossible Object
+  material: wood
+  advert: Weatherbird Shoe
+  aquired: 20260316
+
+- name: 18 piece burr
+  img: IMG_4586.JPG
+  type: Interlocking
+  material: wood
+  aquired: 20260417
+
+- name: Pin-Hole Puzzle
+  img: IMG_4588.JPG
+  type: Interlocking
+  tag: coffin
+  material: wood
+  designer: Stewart Coffin
+  aquired: 20260412
+
+- name: L5 Notchable Burr
+  img: IMG_4589.JPG
+  type: Interlocking
+  material: wood
+  maker: Jerry McFarland
+  designer: Bill Cutler
+  date: 1989
+  desc: Serial Number 52
+  aquired: 20260412
+
+- name: Gerber Montella Keychain
+  img: IMG_4592.JPG
+  type: Interlocking
+  tag: keychain
+  material: plastic
+  advert: Gerber Montella Cheese (France)
+  aquired: 20260411
+
+- name: Kodacolor Keychain
+  img: IMG_4594.JPG
+  type: Interlocking
+  tag: keychain
+  material: plastic
+  advert: Kodacolor (France)
+  aquired: 20260411
+
+- name: Clock Keychain
+  img: IMG_4595.JPG
+  type: Interlocking
+  tag: keychain
+  material: plastic
+  aquired: 20260411
+
+- name: Advertising keychain
+  img: IMG_4596.JPG
+  type: Disassembly
+  tag: keychain
+  material: acrylic
+  advert: Park Ridge Chamber of Commerce
+  aquired: 20260411
