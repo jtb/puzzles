@@ -81,6 +81,16 @@
   patent: DE3711368A1
   desc: Sold on the 125th anniversary of the Red Cross
 
+- name: Tsukuda's Square
+  img: IMG_5004.JPG
+  type: Permutation
+  material: plastic
+  maker: Gabriel Industries, Japan
+  designer: Toshihisa Suga
+  date: 1981
+  patent: GB2101897
+  aquired: 20260926
+
 - name: Think-A-Dot
   img: IMG_6794.JPG
   type: Calculator
@@ -154,6 +164,26 @@
   date: 1900
   tag: instant insanity
   desc: The original Instant Insanity puzzle
+
+- name: FourAce Puzzle
+  img: IMG_4687.JPG
+  type: Pattern
+  material: wood
+  designer: Frederick A. Schossow
+  patent: US646463
+  date: 1913
+  tag: instant insanity
+  aquired: 20251122
+
+- name: "Symington's Puzzle"
+  img: IMG_4691.JPG
+  type: Pattern
+  material: paper
+  designer: Frederick A. Schossow
+  patent: US646463
+  tag: instant insanity
+  advert: "Symington's Soups"
+  aquired: 20260627
 
 - name: Donkey Old Joe and Rover
   img: IMG_7413.JPG
@@ -726,6 +756,38 @@
   advert: Vess
   desc: uncut
 
+- name: "Another 4% Grapefruit Drink Puzzle"
+  img: IMG_4679.JPG
+  type: Assembly
+  material: paper
+  advert: "4% Grapefruit Soda"
+  desc: Arrange to form 4
+  aquired: 20260902
+
+- name: Gillett
+  img: IMG_4680.JPG
+  type: Assembly
+  material: paper
+  advert: Gillett's Goods
+  aquired: 20260908
+
+- name: The Famous White Rose Puzzle
+  img: IMG_4681.JPG
+  type: Assembly
+  material: paper
+  advert: White Rose Ceylon Tea
+  date: 1903
+  tag: T puzzle
+  aquired: 20260902
+
+- name: Chase & Sanborn T Puzzle
+  img: IMG_4999.JPG
+  type: Assembly
+  material: paper
+  advert: Chase & Sanborn Coffee-Tea
+  tag: T puzzle
+  aquired: 20261029
+
 - name: Hunt's Perfect Baking Powder Puzzle
   img: IMG_0732.JPG
   type: Pattern
@@ -808,6 +870,13 @@
   type: Pattern
   material: paper
   advert: Grandpa's Soap
+
+- name: Snyder Standard
+  img: IMG_5001.JPG
+  type: Pattern
+  material: paper
+  advert: M.L. Synder and Son
+  aquired: 20261020
 
 - name: SwitchIt Popeye
   img: IMG_6598.JPG
@@ -1351,6 +1420,14 @@
   desc: Ring added by me.
   tag: phenyo
 
+- name: Phenyo-Caffein Burr
+  img: IMG_4682.JPG
+  type: Interlocking
+  material: wood
+  advert: Swallow Phenyo-Caffein
+  tag: phenyo
+  aquired: 20260813
+
 - name: Barket
   img: IMG_8594.JPG
   type: Tanglement
@@ -1474,6 +1551,14 @@
   advert: Witch Hazel
   tag: witchhazel
 
+- name: Witch Hazel Card and String
+  img: IMG_4683.JPG
+  type: Tanglement
+  material: paper
+  advert: Witch Hazel
+  tag: witchhazel
+  aquired: 20260726
+
 - name: Consul the Educated Monkey
   img: IMG_6599.JPG
   maker: The Educational Toy Manufacturing Co.
@@ -1540,6 +1625,7 @@
   date: 1939-40
   advert: Ice Man's Ice
   maker: California Association of Ice Industries
+  tag: T puzzle
 
 - name: Magic K Puzzle
   img: IMG_8792.JPG
@@ -1693,6 +1779,16 @@
   desc: SQUARE KNOT PUZZLE PAT.MCH.7.99
   material: metal
 
+- name: Penny Farthing IV
+  img: IMG_4685.JPG
+  type: Tanglement
+  designer: Lambert E. Bright
+  maker: Lambert E. Bright
+  material: metal
+  date: 2006
+  desc: IPP26 2006 Exchange
+  aquired: 20260512
+
 - name: Faith, Hope, Charity
   img: none.jpg
   type: Tanglement
@@ -1756,6 +1852,15 @@
   material: wood
   designer: Vladimir Krasnoukhov and James Dalgety
   aquired: 20250215
+
+- name: Invincible Rings
+  img: IMG_5005.JPG
+  type: Tanglement
+  maker: Bits & Pieces
+  material: wood
+  designer: Robert Dalloz?
+  desc: aka Dutch String Puzzle
+  aquired: 20261026
 
 - name: Brass Bolt
   img: IMG_0521.JPG
@@ -2819,6 +2924,15 @@
   material: cast
   tag: hanayama
 
+- name: Infinity
+  img: IMG_5006.JPG
+  designer: Vesa Timonen
+  maker: Hanayama
+  type: Sequential Movement
+  material: cast
+  tag: hanayama
+  aquired: 20260801
+
 - name: Zelda Master Sword
   img: IMG_0242.JPG
   maker: Hanayama
@@ -3122,6 +3236,13 @@
   material: metal plate
   maker: L.W.G & Co. of Chicago
 
+- name: Chronicle Telegraph Puzzle
+  img: IMG_5009.JPG
+  type: Route Finding
+  material: brass
+  advert: Chronicle Telegraph
+  aquired: 20260910
+
 - name: Famous Square Puzzle
   img: IMG_8125.JPG
   type: Assembly
@@ -3131,6 +3252,7 @@
   img: IMG_8126.JPG
   type: Assembly
   material: wood
+  tag: T puzzle
 
 - name: Redline-Glico Maze
   img: IMG_8133.JPG
@@ -3176,6 +3298,17 @@
   date: 1979
   aquired: 20240928
 
+- name: Lockdown 271-A
+  img: IMG_4688.JPG
+  type: Assembly
+  material: wood
+  tag: coffin
+  designer: Stewart Coffin
+  maker: Stewart Coffin
+  date: 2015
+  desc: IPP35 Exchange. Marked 271-A | STC | 2015 | 30
+  aquired: 20260107
+
 - name: Crooked Box II
   img: IMG_8883.JPG
   type: Interlocking
@@ -3200,6 +3333,23 @@
   maker: Design Science Toys Ltd
   date: 1996
   aquired: 20241030
+  tag: designsciencetoys
+
+- name: turnabout
+  img: IMG_5007.JPG
+  type: Assembly
+  material: wood
+  maker: Design Science Toys Ltd
+  tag: designsciencetoys
+  aquired: 20261023
+
+- name: Pyrra
+  img: IMG_5008.JPG
+  type: Assembly
+  material: wood
+  maker: Design Science Toys Ltd
+  tag: designsciencetoys
+  aquired: 20261016
 
 - name: Quad Rhom
   img: IMG_0534.JPG
@@ -3207,6 +3357,7 @@
   material: wood
   maker: Design Science Toys Ltd
   date: 1996
+  tag: designsciencetoys
   aquired: 20250108
 
 - name: Twist and Shout
@@ -3514,6 +3665,7 @@
   material: wood
   maker: Design Science Toys Ltd
   desc: Also known as Vexahedron
+  tag: designsciencetoys
   aquired: 20250404
 
 - name: Small Trike
